@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- +EERM+  windspiel____a   svg Ani file  4.September 2019 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="180mm"
+   height="50mm"
+   viewBox="0 0 180 50"
+   version="1.1"
+   id="svg4824"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="windspiel____a.svg">
+  <defs
+     id="defs4818" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5966207"
+     inkscape:cx="137.09324"
+     inkscape:cy="39.620979"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1138"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     units="mm"
+     showborder="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     gridtolerance="2"
+     objecttolerance="1">
+    <sodipodi:guide
+       position="-74.083333,69.320833"
+       orientation="1,0"
+       id="guide846"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-83.043018,38.193999"
+       orientation="-0.70710678,0.70710678"
+       id="guide838"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-74.083335,31.249636"
+       orientation="-0.70710678,0.70710678"
+       id="guide840"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-15.046121,40.508788"
+       orientation="1,0"
+       id="guide842"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-15.046121,61.383333"
+       orientation="1,0"
+       id="guide843"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-15.046121,54.76875"
+       orientation="1,0"
+       id="guide847"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-41.804167,50.270833"
+       orientation="1,0"
+       id="guide849"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4821">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-247)">
+    <g
+       id="rhomb-m"
+       transform="translate(-0.52916773,181.56033)"
+       style="stroke:#879fce;stroke-opacity:1">
+      <g
+         inkscape:groupmode="layer"
+         id="layer3"
+         inkscape:label="rhomb"
+         style="display:inline;stroke:#879fce;stroke-opacity:1"
+         transform="translate(0,160.15625)">
+        <path
+           style="display:inline;fill:#008000;stroke:#879fce;stroke-width:0.64079547;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 49.18854,-76.840246 c 0,0 -0.367933,-0.34467 -0.805942,0.002 -0.276665,0.25361 -6.766943,6.872501 -6.766943,6.872501 0,0 -0.348241,0.31769 0.01217,0.713069 0.497028,0.4903 6.297341,6.31416 6.546164,6.530751 0.424683,0.36188 0.879458,0.25742 1.131235,0.0311 0.296669,-0.257911 6.292393,-6.196931 6.606966,-6.51655 0.202852,-0.18264 0.282669,-0.612 -0.0059,-0.88427 -0.317912,-0.288431 -6.109891,-6.217001 -6.109891,-6.217001 z"
+           id="path826-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccc" />
+      </g>
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="4"
+         dur="6"
+         from="1"
+         to="0"
+         additive="sum" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="4"
+         dur="6"
+         from="0,0"
+         to="150,150"
+         additive="sum" />
+      <animateTransform
+         attributeName="transform"
+         type="rotate"
+         begin="4"
+         dur="6"
+         from="360,50,55"
+         to="0,60,180"
+         additive="sum" />
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="10"
+         dur="6"
+         from="0"
+         to="1"
+         additive="sum" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="10"
+         dur="6"
+         from="150,150"
+         to="0,0"
+         additive="sum" />
+    </g>
+    <g
+       id="winkel-m"
+       transform="translate(-0.58916773,181.56633)"
+       style="stroke:#879fce;stroke-opacity:1">
+      <g
+         inkscape:groupmode="layer"
+         id="layer2"
+         inkscape:label="winkel"
+         style="display:inline;stroke:#879fce;stroke-opacity:1"
+         transform="translate(0,160.15625)">
+        <path
+           style="display:inline;opacity:1;fill:#ff0000;stroke:#879fce;stroke-width:0.56500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 10.453206,-76.65509 c 0,0 -0.156968,-0.17802 -0.388239,7.41e-4 -0.4782745,0.432729 -6.5616503,6.588669 -6.7452161,6.807529 -0.084723,0.10591 -0.1303589,0.27077 0.027935,0.43446 0.432725,0.47828 6.6910061,6.827511 6.8101331,6.949471 0.203316,0.22872 0.378112,0.22172 0.517711,0.087 0.728799,-0.706021 2.567759,-2.58137 2.567759,-2.58137 0,0 0.205285,-0.14305 -0.03374,-0.35934 -0.478275,-0.4555 -4.1962245,-4.144971 -4.1962245,-4.144971 0,0 -0.182323,-0.15457 -0.01582,-0.34961 0.616473,-0.60462 4.0301245,-3.92238 4.0301245,-3.92238 0,0 0.196287,-0.16896 -0.0074,-0.34574 -0.631747,-0.661 -2.020138,-2.05403 -2.020138,-2.05403 z"
+           id="path830-5"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccc" />
+      </g>
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="4"
+         dur="6"
+         from="1"
+         to="0"
+         additive="sum" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="4"
+         dur="6"
+         from="0,0"
+         to="130,130"
+         additive="sum" />
+      <animateTransform
+         attributeName="transform"
+         type="rotate"
+         begin="4"
+         dur="6"
+         from="1080,0,70"
+         to="0,70,160"
+         additive="sum" />
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="10"
+         dur="6"
+         from="0"
+         to="1"
+         additive="sum" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="10"
+         dur="6"
+         from="130,130"
+         to="0,0"
+         additive="sum" />
+    </g>
+    <g
+       id="dreieck-m"
+       transform="translate(-0.52916673,181.56633)"
+       style="stroke:#879fce;stroke-opacity:1">
+      <g
+         inkscape:groupmode="layer"
+         id="layer4"
+         inkscape:label="dreieck"
+         style="display:inline;stroke:#879fce;stroke-opacity:1"
+         transform="translate(0,160.15625)">
+        <path
+           style="display:inline;fill:#ffff00;stroke:#879fce;stroke-width:0.66200686;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 134.48833,-75.476017 c -0.1646,-0.25335 -0.50853,-0.27954 -0.69458,0.002 -0.26797,0.44721 -6.91973,10.874891 -7.26332,11.40349 -0.14537,0.19823 -0.0949,0.54599 0.32588,0.53307 1.17176,-0.0294 14.05845,0.0172 14.48133,0.0172 0.25109,0 0.39608,-0.10581 0.19062,-0.48418 -0.95782,-1.768579 -6.71583,-10.98072 -7.03993,-11.47156 z"
+           id="path832-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccc" />
+      </g>
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="4"
+         dur="6"
+         from="1"
+         to="0"
+         additive="sum" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="4"
+         dur="6"
+         from="0,0"
+         to="200,170"
+         additive="sum" />
+      <animateTransform
+         attributeName="transform"
+         type="rotate"
+         begin="4"
+         dur="6"
+         from="360,140,100"
+         to="0,130,70"
+         additive="sum" />
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="10"
+         dur="6"
+         from="0"
+         to="1"
+         additive="sum" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="10"
+         dur="6"
+         from="200,170"
+         to="0,0"
+         additive="sum" />
+    </g>
+    <g
+       id="kreis-m"
+       transform="translate(-92.5294,181.56533)"
+       style="stroke:#879fce;stroke-opacity:1">
+      <g
+         inkscape:groupmode="layer"
+         id="layer5"
+         inkscape:label="kreis"
+         style="display:inline;opacity:1;stroke:#879fce;stroke-opacity:1"
+         transform="translate(0,160.15625)">
+        <ellipse
+           style="fill:#ff0000;fill-opacity:1;stroke:#879fce;stroke-width:1.40339375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="path10119-1"
+           cx="263.76508"
+           cy="-69.259117"
+           rx="5.8241463"
+           ry="5.6091661" />
+      </g>
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="4"
+         dur="6"
+         from="1"
+         to="0"
+         additive="sum" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="4"
+         dur="6"
+         from="0,0"
+         to="300,190"
+         additive="sum" />
+      <animateTransform
+         attributeName="transform"
+         type="rotate"
+         begin="4"
+         dur="6"
+         from="-720,250,90"
+         to="0,310,80"
+         additive="sum" />
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="10"
+         dur="6"
+         from="0"
+         to="1"
+         additive="sum" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="10"
+         dur="6"
+         from="300,210"
+         to="0,0"
+         additive="sum" />
+    </g>
+    <g
+       id="stern-m-4"
+       transform="translate(-0.53016773,102.18333)"
+       style="stroke:#879fce;stroke-opacity:1">
+      <g
+         inkscape:groupmode="layer"
+         id="layer6-1"
+         inkscape:label="stern"
+         transform="translate(0,160.15625)"
+         style="stroke:#879fce;stroke-opacity:1">
+        <path
+           style="display:inline;fill:#0000ff;fill-opacity:1;stroke:#879fce;stroke-width:0.49655494;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 92.099151,2.0806391 c 0,0 -0.489215,-1.32243003 -0.768247,0 -0.180437,0.52517 -1.714309,5.5957107 -1.714309,5.5957107 l -5.57565,1.73846 c 0,0 -1.721748,0.5190599 -0.10064,0.9413902 2.387451,0.57218 5.604865,1.51057 5.604865,1.51057 l 1.622368,5.85231 c 0,0 0.455703,1.24074 0.955291,-0.0744 0.315755,-0.63459 1.931057,-5.67998 1.931057,-5.67998 l 5.679729,-1.502291 c 0,0 1.645485,-0.36966 -0.21668,-0.8704993 C 98.721765,9.3430398 94.18271,7.8121598 94.18271,7.8121598 Z"
+           id="path1054-3-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccc" />
+      </g>
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="4"
+         dur="6"
+         from="1"
+         to="0"
+         additive="sum" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="4"
+         dur="6"
+         from="0,0"
+         to="80,170"
+         additive="sum" />
+      <animateTransform
+         attributeName="transform"
+         type="rotate"
+         begin="4"
+         dur="6"
+         from="-720,80,190"
+         to="0,180,100"
+         additive="sum" />
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="10"
+         dur="6"
+         from="0"
+         to="1"
+         additive="sum" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="10"
+         dur="6"
+         from="80,170"
+         to="0,0"
+         additive="sum" />
+    </g>
+  </g>
+</svg>
