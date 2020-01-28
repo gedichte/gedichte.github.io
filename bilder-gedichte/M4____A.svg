@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--   +EERM+_Ani_file_M4____A   /   Code von Emeritus Professor    David Dailey  -  srufaculty.sru.edu/david.dailey/  <- von mir Mario leicht verändert ->  /  -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="150mm"
+   height="140mm"
+   viewBox="0 0 150 140"
+   version="1.1"
+   id="svg2197"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="M4____.svg">
+  <defs
+     id="defs2191">
+    <linearGradient
+       id="rhue">
+      <stop
+         stop-color="white"
+         id="ro0"
+         offset="0" />
+      <stop
+         stop-color="#ff3700"
+         id="ro1"
+         offset=".25" />
+      <stop
+         stop-color="#ff0100"
+         id="ro2"
+         offset=".75" />
+      <stop
+         stop-color="#f801ff"
+         id="ro3"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3801"><stop
+   stop-color="r"
+   id="ro0-2"
+   offset="0" />
+<svg
+   id="svg3793"
+   version="1.1"
+   height="100%"
+   width="100%">
+  <defs
+     id="DEF">
+    <linearGradient
+       id="linearGradient3830">
+      <stop
+         stop-color="#050077"
+         id="stop3764"
+         offset="0" />
+      <stop
+         stop-color="#346c00"
+         id="ro1-2"
+         offset=".25" />
+      <stop
+         stop-color="#00fff3"
+         id="ro2-7"
+         offset=".75" />
+      <stop
+         stop-color="#ff0100"
+         id="ro3-0"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <ellipse
+     id="ellipse3771"
+     ry="10"
+     rx="240"
+     cy="250"
+     cx="290">
+    <animate
+       repeatCount="indefinite"
+       values="#ff8;#f88; #ff8;#f8f;#ff8; #88f;#ff8;#8ff;#ff8;"
+       dur="20s"
+       attributeName="fill" />
+  </ellipse>
+  <g
+     id="penta-5">
+    <g
+       transform="translate(200 250)"
+       id="R1-9">
+      <ellipse
+         id="ellipse3773"
+         fill="url(#rhue)"
+         opacity="0.25"
+         ry="0"
+         rx="120"
+         cy="0"
+         cx="0">
+        <animateTransform
+           repeatCount="indefinite"
+           to="360"
+           from="0"
+           dur="32"
+           type="rotate"
+           attributeName="transform" />
+        <animate
+           repeatCount="indefinite"
+           values="-20; 120; -20"
+           dur="47"
+           attributeName="cx" />
+        <animate
+           repeatCount="indefinite"
+           values="20; 90; 20"
+           dur="20"
+           attributeName="ry" />
+      </ellipse>
+    </g>
+    <use
+       id="use3776"
+       transform="rotate(30 300 250)"
+       xlink:href="#R1-9" />
+    <use
+       id="use3778"
+       transform="rotate(60 300 250)"
+       xlink:href="#R1-9" />
+    <use
+       id="use3780"
+       transform="rotate(90 300 250)"
+       xlink:href="#R1-9" />
+    <use
+       id="use3782"
+       transform="rotate(120 300 250)"
+       xlink:href="#R1-9" />
+  </g>
+  <use
+     id="use3785"
+     transform="rotate(72 290 250)"
+     xlink:href="#penta-5" />
+  <use
+     id="use3787"
+     transform="rotate(144 290 250)"
+     xlink:href="#penta-5" />
+  <use
+     id="use3789"
+     transform="rotate(216 290 250)"
+     xlink:href="#penta-5" />
+  <use
+     id="use3791"
+     transform="rotate(288 290 250)"
+     xlink:href="#penta-5" />
+</svg>
+<stop
+   stop-color="#ff0000"
+   id="stop3764"
+   offset="0" />
+<stop
+   stop-color="#d111f3"
+   id="stop3795"
+   offset=".25" />
+<stop
+   stop-color="ffffff"
+   id="stop3797"
+   offset=".75" />
+<stop
+   stop-color="#a9ff00"
+   id="stop3799"
+   offset="1" />
+</linearGradient>
+    <linearGradient
+       xlink:href="#rhue"
+       id="linearGradient3699"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.8257419,0.54772256)"
+       x1="-54.772255"
+       y1="-54.772255"
+       x2="54.772255"
+       y2="-54.772255" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#rhue"
+       id="linearGradient2867"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.8257419,0.54772256)"
+       x1="-54.772255"
+       y1="-54.772255"
+       x2="54.772255"
+       y2="-54.772255" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ff0000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3394547"
+     inkscape:cx="210.75741"
+     inkscape:cy="289.57413"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1138"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2194">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-157)">
+    <g
+       id="g6407"
+       transform="matrix(0.20196781,0,0,0.20196781,17.600648,176.92026)">
+      <circle
+         id="ellipse6367"
+         cy="250"
+         cx="290"
+         r="130">
+        <animate
+           repeatCount="indefinite"
+           values="#ff8;#f88; #ff8;#f8f;#ff8; #88f;#8ff;#ff8;"
+           dur="20s"
+           attributeName="fill" />
+      </circle>
+      <g
+         id="penta">
+        <g
+           transform="translate(200,250)"
+           id="R1">
+          <ellipse
+             id="ellipse6369"
+             ry="0"
+             rx="120"
+             cy="0"
+             cx="0"
+             style="opacity:0.25;fill:url(#linearGradient2867)">
+            <animateTransform
+               repeatCount="indefinite"
+               to="360"
+               from="0"
+               dur="32"
+               type="rotate"
+               attributeName="transform" />
+            <animate
+               repeatCount="indefinite"
+               values="-20; 120; -20"
+               dur="47"
+               attributeName="cx" />
+            <animate
+               repeatCount="indefinite"
+               values="10; 90; 10"
+               dur="20"
+               attributeName="ry" />
+          </ellipse>
+        </g>
+        <use
+           id="use6372"
+           transform="rotate(30,300,250)"
+           xlink:href="#R1"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <use
+           id="use6374"
+           transform="rotate(60,300,250)"
+           xlink:href="#R1"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <use
+           id="use6376"
+           transform="rotate(90,300,250)"
+           xlink:href="#R1"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <use
+           id="use6378"
+           transform="rotate(120,300,250)"
+           xlink:href="#R1"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+      </g>
+      <use
+         id="use6381"
+         transform="rotate(72,290,250)"
+         xlink:href="#penta"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use6383"
+         transform="rotate(144,290,250)"
+         xlink:href="#penta"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use6385"
+         transform="rotate(-144,290,250)"
+         xlink:href="#penta"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use6387"
+         transform="rotate(-72,290,250)"
+         xlink:href="#penta"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+  </g>
+</svg>
