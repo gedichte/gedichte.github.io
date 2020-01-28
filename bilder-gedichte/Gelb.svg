@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg815"
+   width="108"
+   height="15"
+   viewBox="0 0 108 15"
+   sodipodi:docname="Gelb.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata821">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs819" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1138"
+     id="namedview817"
+     showgrid="false"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0"
+     inkscape:zoom="11.78308"
+     inkscape:cx="53.75"
+     inkscape:cy="6.5"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg815" />
+  <rect
+     style="opacity:1;fill:#ffee00;fill-opacity:1;stroke:none;stroke-width:1.38914359;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:19.01102257;stroke-opacity:1;paint-order:markers fill stroke"
+     id="rect853"
+     width="110.30556"
+     height="18.569407"
+     x="-0.94195694"
+     y="-1.5319952" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:14.10444546px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35261112"
+     x="-2.9027996"
+     y="35.80162"
+     id="text827-3"><tspan
+       sodipodi:role="line"
+       id="tspan825-0"
+       x="-2.9027996"
+       y="35.80162"
+       style="stroke-width:0.35261112">Animation  <tspan
+   style="fill:#006f00;fill-opacity:1"
+   id="tspan849">Ein</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:14.10444546px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35261112"
+     x="3.9500999"
+     y="12.821949"
+     id="text827"><tspan
+       sodipodi:role="line"
+       id="tspan825"
+       x="3.9500999"
+       y="12.821949"
+       style="stroke-width:0.35261112">Animation <tspan
+   style="fill:#b10b03;fill-opacity:1"
+   id="tspan851">Aus</tspan></tspan></text>
+</svg>
