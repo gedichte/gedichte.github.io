@@ -6,7 +6,7 @@
 	"short_name": "+EERM+",
 	"theme_color": "#403d72",
 	"lang": "de-DE",
-	"background_color": "#ffffff",
+	"background_color": "#403d72",
 	"start_url": "/index.html",
 	"icons":  [	{"src": "android-icon-48.png","sizes":"48x48","type": "image/png"},
 				{"src": "apple-touch-icon-57.png","sizes":"57x57","type": "image/png"},

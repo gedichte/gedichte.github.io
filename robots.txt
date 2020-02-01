@@ -38,8 +38,6 @@ Disallow:
 User-agent: Applebot
 Disallow: 
 
-User-agent: blinde-kuh
-Disallow: 
 
 User-agent: *
 Disallow: /
