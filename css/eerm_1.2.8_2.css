@@ -5,8 +5,10 @@ img{border: 2px solid #000000;margin-top:4.62em;max-width:765px;}
 body{text-align:center;color:#ffffff;background-color:#403d72;font-family: 'Roboto', sans-serif; 'Arial';}
 article{margin-top:4.62em;}
 .L{float:left;margin-top:-.75em;}
-.L2{float:left;margin-bottom:-7.95em;margin-left:1.146em;}
+.L2{float:left;margin-bottom:-11.95em;margin-left:1.146em;}
 .L3{float:left;margin-top:15.26em;margin-left:0.2em;float:left;}
+.R2{float:right;margin-top:-.2em;margin-right:-.646em;}
+.L4{float:left;margin-left:-.2em;}
 .R{float:right;}
 .M{float:center;margin-left:-1.5em;}
 .AU{margin-top:.0em;}
@@ -38,10 +40,10 @@ h3{margin:0em;font-weight:300;font-size:14pt;line-height:5.86em;word-spacing:.03
 h4{margin:0em;font-weight:300;font-size:13pt;line-height:1.44em;word-spacing:.03em;letter-spacing:.078em;margin-bottom:-1.5em;}
 h6{margin:0em;font-weight:300;font-size:11pt;line-height:1.42em;word-spacing:.03em;letter-spacing:.18em;color:#a19cfc;}
 p7{margin:0em;font-weight:300;font-size:10pt;line-height:1.42em;word-spacing:.02em;letter-spacing:.08em;color:#a19cfc;}
-p8{margin:0em;font-weight:300;color:#fff600;font-size:14pt;line-height:1.42em;word-spacing:.03em;letter-spacing:.18em;}
-p87{margin:0em;font-weight:300;font-size:7pt;line-height:1.2pt;word-spacing:.03em;letter-spacing:.078em;color:#a19cfc;}
+p8{margin:0em;font-weight:300;color:#fff600;font-size:14pt;line-height:.2em;word-spacing:.03em;letter-spacing:.18em;}
+p87{margin:0em;font-weight:400;font-size:9pt;line-height:1.2pt;word-spacing:.03em;letter-spacing:.078em;color:#6a6976;}
 p88{margin:0em;font-weight:300;font-size:7pt;line-height:1.2pt;word-spacing:.03em;letter-spacing:.078em;color:#a19cfc;}
-p9{margin:0em; font-size: 14pt; font-weight:300; word-spacing:.03em; letter-spacing: .18em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg, #fff600, #fff600, #fff600, #ff0000, #fff600, #fff600,#fff600); background-size: 300%; animation: dankeschoen 20s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 0, 0, 1);}
+p9{margin:0em; font-size: 14pt; font-weight:400; word-spacing:.03em; letter-spacing: .18em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg, #fff600, #fff600, #fff600, #ff0000, #fff600, #fff600,#fff600); background-size: 300%; animation: dankeschoen 20s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 0, 0, 1);}
 p93{margin:0em; font-size: 14pt; font-weight:300; word-spacing:.03em; letter-spacing: .18em;color:#fff600;}
 p10{margin:0em;font-weight:300;font-size:11pt;line-height:1.2pt;word-spacing:.03em;letter-spacing:.078em;color:#a19cfc;}
 p10_github{margin:0em;font-weight:400;font-size:11pt;line-height:1.2pt;word-spacing:.03em;letter-spacing:.078em;color:#90b600;}

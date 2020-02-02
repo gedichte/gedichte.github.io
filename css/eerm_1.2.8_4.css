@@ -6,6 +6,8 @@ article{margin-top:4.62em;}
 .L{float:left;margin-top:-.75em;}
 .L2{float:left;margin-bottom:-7.95em;margin-left:1.146em;}
 .L3{float:left;margin-top:15.26em;margin-left:0.2em;float:left;}
+.R2{float:right;margin-top:-.2em;margin-right:-.646em;}
+.L4{float:left;margin-left:-.2em;}
 .R{float:right;}
 .M{float:center;margin-left:-2.25em;}
 .AU{margin-top:.0em;}
@@ -38,9 +40,9 @@ h4{margin:0em;font-weight:300;font-size:13pt;line-height:1.44em;word-spacing:.03
 h6{margin:0em;font-weight:300;font-size:11pt;line-height:1.42em;word-spacing:.03em;letter-spacing:.18em;color:#979700;}
 p7{margin:0em;font-weight:300;font-size:10pt;line-height:1.42em;word-spacing:.02em;letter-spacing:.08em;color:#979700;}
 p8{margin:0em;font-weight:300;color:#fff600;font-size:14pt;line-height:1.42em;word-spacing:.03em;letter-spacing:.18em;}
-p87{margin:0em;font-weight:300;font-size:7pt;line-height:1.2pt;word-spacing:.03em;letter-spacing:.078em;color:#979700;}
+p87{margin:0em;font-weight:300;font-size:9pt;line-height:1.2pt;word-spacing:.03em;letter-spacing:.078em;color:#6c3e3e;}
 p88{margin:0em;font-weight:300;font-size:7pt;line-height:1.2pt;word-spacing:.03em;letter-spacing:.078em;color:#979700;}
-p9{margin:0em; font-size: 14pt; font-weight:300; word-spacing:.03em; letter-spacing: .18em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg, #fff600,#fff600, #fff600, #ff0000, #fff600, #fff600,#fff600); background-size: 300%; animation: dankeschoen 20s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 0, 0, 1);}
+p9{margin:0em; font-size: 14pt; font-weight:400; word-spacing:.03em; letter-spacing: .18em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg, #fff600,#fff600, #fff600, #ff0000, #fff600, #fff600,#fff600); background-size: 300%; animation: dankeschoen 20s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 0, 0, 1);}
 p93{margin:0em; font-size: 14pt; font-weight:300; word-spacing:.03em; letter-spacing: .18em;color:#fff600;}
 p10{margin:0em;font-weight:300;font-size:11pt;line-height:1.2pt;word-spacing:.03em;letter-spacing:.078em;color:#959822;}
 p10_github{margin:0em;font-weight:400;font-size:11pt;line-height:1.2pt;word-spacing:.03em;letter-spacing:.078em;color:#7bd900;}
@@ -156,6 +158,7 @@ p56{font-weight:300;font-size:9pt;color:#514d91;margin-top:-1.5em;margin-right:-
 @keyframes blinkIt { 50% { opacity: .01;}}
 .icon { position: absolute; right: 100; left: 100; bottom: 400; top: 0; height: 100vh;}
 a, a:link, a:visited { text-decoration: none;}
+
 
 
 
