@@ -1,0 +1,225 @@
+@viewport{zoom: 1.0;width: extend-to-zoom;}
+@-ms-viewport{width: extend-to-zoom;}
+@keyframes rotateBox {100% {transform: rotateY(360deg) rotateZ(360deg) ;}}
+img{border: 2px solid #000000;margin-top:4.62em;max-width:765px;}
+body{text-align:center;color:#ffffff;background-color:#403d72;font-family: 'Roboto', sans-serif; 'Arial';}
+article{margin-top:4.62em;}
+.L{float:left;margin-top:-.75em;}
+.L2{float:left;margin-bottom:-11.95em;margin-left:1.146em;}
+.L3{float:left;margin-top:15.26em;margin-left:0.2em;float:left;}
+.R2{float:right;margin-top:-.2em;margin-right:-.646em;}
+.L4{float:left;margin-left:-.2em;}
+.R{float:right;}
+.M{float:center;margin-left:-2.25em;}
+.AU{margin-top:.0em;}
+.AUAU{margin-top:7em;}
+.AUAUAU{margin-top:1.62em;}
+.AD{margin-top:8em;}
+.ADM{margin-top:9em;}
+.AI{margin-top:4em;}
+.AIM{margin-top:2em;}
+.AO{margin-top:4.62em;}
+.A3{margin-top:.24em;}
+.A2{margin-top:.01em;}
+.A1{margin-top:.16em;}
+.AMFA_IP{margin-top:1.4em;}
+.AMFA_ID{margin-top:2.8em;}
+.AMFA_RTZ{margin-top:2.8em;}
+.AMFA_RTZP{margin-top:1.0em;}
+.AMFA_RTZH{margin-top:1.3em;}
+.AMFA_RTZU{margin-bottom:-1.8em;margin-top:1.67em;}
+.wind{width: 100%;max-width: 942px;}
+.mail{width: 100%;max-width: 600px;margin-top:2em;}
+.wind2{width: 100%;max-width: 930px;margin-top:0em;}
+.mail2{width: 100%;max-width: 567px;margin-top:2em;}
+p160{-webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#ffffff,#ffffff, #ffffff, #ff0000, #ffffff, #ffffff,#ffffff); background-size: 300%; animation: HG 26s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1); }
+p161{-webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#ffffff,#ffffff, #ffffff, #ff0000, #ffffff, #ffffff,#ffffff); background-size: 300%; animation: HG 26s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1);}
+h1{margin-bottom:-1.85em;margin-top:.75em;font-weight:300;font-size:1.46em;line-height:1.44em;word-spacing:.03em;letter-spacing:.078em;}
+h2{margin-bottom:-1.85em;margin-top:.97em;font-weight:300;font-size:1.44em;line-height:1.44em;word-spacing:.03em;letter-spacing:.078em;}
+h3{margin:0em;font-weight:300;font-size:14pt;line-height:5.86em;word-spacing:.03em;letter-spacing:.078em;margin-bottom:-1.34em;}
+h4{margin:0em;font-weight:300;font-size:13pt;line-height:1.44em;word-spacing:.03em;letter-spacing:.078em;margin-bottom:-1.5em;}
+h6{margin:0em;font-weight:300;font-size:11pt;line-height:1.42em;word-spacing:.03em;letter-spacing:.18em;color:#a19cfc;}
+p7{margin:0em;font-weight:300;font-size:10pt;line-height:1.42em;word-spacing:.02em;letter-spacing:.08em;color:#a19cfc;}
+p8{margin:0em;font-weight:300;color:#fff600;font-size:14pt;line-height:.2em;word-spacing:.03em;letter-spacing:.18em;}
+p87{margin:0em;font-weight:400;font-size:9pt;line-height:1.2pt;word-spacing:.03em;letter-spacing:.078em;color:#6a6976;}
+p88{margin:0em;font-weight:300;font-size:7pt;line-height:1.2pt;word-spacing:.03em;letter-spacing:.078em;color:#a19cfc;}
+p9{margin:0em; font-size: 14pt; font-weight:400; word-spacing:.03em; letter-spacing: .18em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg, #fff600, #fff600, #fff600, #ff0000, #fff600, #fff600,#fff600); background-size: 300%; animation: dankeschoen 20s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 0, 0, 1);}
+p93{margin:0em; font-size: 14pt; font-weight:300; word-spacing:.03em; letter-spacing: .18em;color:#fff600;}
+p10{margin:0em;font-weight:300;font-size:11pt;line-height:1.2pt;word-spacing:.03em;letter-spacing:.078em;color:#a19cfc;}
+p10_github{margin:0em;font-weight:400;font-size:11pt;line-height:1.2pt;word-spacing:.03em;letter-spacing:.078em;color:#90b600;}
+p10_github_404{margin:0em;font-weight:400;font-size:11pt;line-height:1.2pt;word-spacing:.03em;letter-spacing:.078em;color:#ffff00;}
+p10_hoststar{margin:0em;font-weight:400;font-size:11pt;line-height:1.2pt;word-spacing:.03em;letter-spacing:.078em;color:#90b600;}
+p10_mihal{margin:0em;font-weight:400;font-size:11pt;line-height:1.2pt;word-spacing:.03em;letter-spacing:.078em;color:#ffffff;}
+p10_pits{margin:0em;font-weight:400;font-size:10pt;line-height:1.2pt;word-spacing:.03em;letter-spacing:.078em;color:#ffffff;}
+p12{font-weight:300;font-size:9pt;float:right;margin-right:.5em;color:#6a6976;pointer-events: none;}
+p13{font-weight:300;font-size:10pt;color:#6aff00;}
+p14{font-weight:300;font-size:10pt;color:#1aff00;}
+p15{font-weight:300;font-size:10pt;color:#00ff00;}
+p16{font-weight:300;font-size:10pt;color:#00ff00;}
+p17{font-weight:300;font-size:10pt;color:#80b900;}
+p36{font-weight:300;font-size:7pt;color:#6aff00;}
+p37{font-weight:300;font-size:7pt;color:#80b900;}
+p77{font-weight:300;font-size:11pt;color:#00ff00;}
+p78{font-weight:300;font-size:11pt;color:#1ab900;}
+p79{font-weight:300;font-size:11pt;color:#01b900;}
+p80{font-weight:300;font-size:11pt;color:#ff0000;}
+p81{font-weight:300;font-size:11pt;color:#fff600;}
+p18{font-weight:300;font-size:8pt;color:#a5a5a5;margin-top:-4.52em;margin-left:.346em;float:left; pointer-events: none;}
+p19{font-weight:300;font-size:9pt;float:right;margin-right:.5em;color:#6a6976; pointer-events: none;margin-bottom:.0em;margin-top:.0em;margin-left:.75em;} 
+p20{font-weight:300;font-size:6pt;float:right;margin-right:.5em;color:#6a6976; pointer-events: none;margin-bottom:.0em;margin-top:.0em;margin-left:5em;} 
+p21{font-weight:300;font-size:9pt;float:right;margin-right:.5em;color:#6a6976; pointer-events: none;margin-bottom:.0em;margin-top:.0em;}
+p38{font-weight:300;font-size:9pt;float:right;margin-right:.5em;color:#6a6976; pointer-events: none;pointer-events: none;margin-bottom:.0em;}
+p22{font-weight:300;font-size:9pt;float:right;margin-right:.5em;color:#6a6976; pointer-events: none;margin-top:.25em;margin-left:5em;}
+p39{font-weight:300;font-size:9pt;float:right;margin-right:.5em;color:#6a6976; pointer-events: none;margin-bottom:.0em;margin-top:.0em;margin-left:5em;}
+p23{font-weight:300;font-size:13pt;color:#a5a5a5;margin-top:-2.75em;margin-right:.232em;float:right; pointer-events: none;}
+p24{font-weight:300;font-size:9pt;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; pointer-events: none;}
+p46{font-weight:300;font-size:9pt;color:#514d8f;margin-top:-1.5em;margin-right:-.25em;float:right; pointer-events: none;}
+p25{font-weight:300;font-size:9pt;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; pointer-events: none;}
+p26{font-weight:300;font-size:9pt;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; pointer-events: none;}
+p27{font-weight:300;font-size:9pt;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; pointer-events: none;}
+p28{font-weight:300;font-size:9pt;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; pointer-events: none;}
+p29{font-weight:300;font-size:9pt;color:#514d8f;margin-top:-1.5em;margin-right:-.25em;float:right; pointer-events: none;}
+p30{font-weight:300;font-size:9pt;color:#5d1313;margin-top:-1.5em;margin-right:-.25em;float:right; pointer-events: none;}
+p31{font-weight:300;font-size:1.4em;color:#80b900;}
+p33{font-weight:300;font-size:9pt;color:#5d1313;margin-top:-1.5em;margin-right:-.25em;float:right; pointer-events: none;}
+p34{font-weight:300;font-size:9pt;color:#514d8f;margin-top:-1.5em;margin-right:-.25em;float:right; pointer-events: none;}
+p35{font-weight:300;font-size:9pt;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; pointer-events: none;}
+p55{font-weight:300;font-size:9pt;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; pointer-events: none;}
+p56{font-weight:300;font-size:9pt;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; pointer-events: none;}
+@keyframes HG {100% { background-position: -300%;} 0% { background-position: 300%;}} 
+@keyframes dankeschoen {100% { background-position: -300%;} 0% { background-position: 400%;}}
+.button24 {background-image: linear-gradient(to top, #2d2d09 60%, #767600 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:6.68em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;border-radius: 13px;opacity:.88}
+.button25 {background-image: linear-gradient(to top, #5e0000 60%, #ce0000 100%);border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:6.48em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;border-radius: 13px;opacity:.88}
+.button54 {background-color: #0074ff;border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:6.68em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;border-radius: 13px;opacity:.88}
+.button56 {background-image: linear-gradient(to top, #5e0000 60%, #ce0000 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:6.48em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;border-radius: 13px;opacity:.88}
+.button44 {background-image: linear-gradient(to top, #5e0000 60%, #ce0000 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:5.3em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;margin-right:.375em;opacity:.88}
+.button1 {background-image: linear-gradient(to top, #9c9c9c 60%, #ffffff 100%);border: 1;border-color: #99991d;color: #000000;text-align: center;text-decoration: none;padding: 5px .0em;width:5.3em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;opacity:.88}
+.button2 {background-image: linear-gradient(to top, #5e0000 60%, #ce0000 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:5.3em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;margin-right:.375em;opacity:.88}
+.button3 {background-image: linear-gradient(to top, #2d2d09 60%, #767600 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:5.3em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;opacity:.88}
+.button4 {background-image: linear-gradient(to top, #0055ff 60%, #00acff 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:10.1em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:-.25em;float:right;word-spacing:.03em;letter-spacing:.1em;border-radius: 13px;margin-left:1.25em;margin-right:.375em;opacity:.88}
+.button48 {background-color: #00bcff;border: 1;border-color: #7f0000;color: #ff0000;text-align: center;text-decoration: none;padding: 5px .0em;width:10.1em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.-25em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.1em;border-radius: 13px;margin-left:1.25em;margin-right:.375em;opacity:.88}
+.button4g {background-color: #00bcff;border: 1;border-color: #7f0000;color: #ff0000;text-align: center;text-decoration: none;padding: 5px .0em;width:10.1em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;margin-right:.375em;opacity:.88}
+.button4u {background-image: linear-gradient(to top, #0055ff 60%, #00acff 100%);border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:10.1em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.0em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;margin-right:.375em;opacity:.88} 
+.button5 {background-image: linear-gradient(to top, #d7d600 60%, #97e4ff 100%);border: 1;border-color: #99991d;color: #000000;text-align: center;text-decoration: none;padding: 5px .0em;width:10.1em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;margin-left:.25em;opacity:.88}
+.button51 {background-color: #d7d600;border: 1;border-color: #99991d;color: #000000;text-align: center;text-decoration: none;padding: 5px .0em;width:6.2em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:-.583em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;margin-left:.25em;opacity:.88}
+.button7 {background-image: linear-gradient(to top, #5e0000 60%, #ce0000 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:12.2em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;opacity:.88}
+.button8 {background-image: linear-gradient(to top, #2d2d09 60%, #767600 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:12.0em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;opacity:.88}
+.button7g {background-image: linear-gradient(to top, #5e0000 60%, #ce0000 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:9.78em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;opacity:.88}
+.button8g {background-image: linear-gradient(to top, #2d2d09 60%, #767600 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:9.58em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;opacity:.88}
+.button7d {background-image: linear-gradient(to top, #5e0000 60%, #ce0000 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:9.8em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;opacity:.88}
+.button8d {background-image: linear-gradient(to top, #2d2d09 60%, #767600 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:9.6em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;opacity:.88}
+.button9 {background-image: linear-gradient(to top, #5e0000 60%, #ce0000 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:12.2em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.75em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;opacity:.88}
+.button10 {background-image: linear-gradient(to top, #2d2d09 60%, #767600 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:12.0em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.75em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;opacity:.88}
+.button11 {background-color: #d7d600;border: 1;border-color: #99991d;color: #000000;text-align: center;text-decoration: none;padding: 5px .0em;width:11.5em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;opacity:.88}
+.button115 {background-color: #d7d600;border: 1;border-color: #99991d;color: #000000;text-align: center;text-decoration: none;padding: 5px .0em;width:11.5em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;opacity:.88}
+.button116 {background-image: linear-gradient(to top, #2d2d09 60%, #767600 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:11.5em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;opacity:.88}
+.button117 {background-color: #d7d600;border: 1;border-color: #99991d;color: #000000;text-align: center;text-decoration: none;padding:5px .0em;width:11.5em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.095em;border-radius: 13px;opacity:.88}
+.button111 {background-image: linear-gradient(to top, #d7d600 60%, #97e4ff 100%);border: 1;border-color: #99991d;color: #000000;text-align: center;text-decoration: none;padding: 5px.0em;width:11.5em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;opacity:.88}
+.button112 {background-color: #d7d600;border: 1;border-color: #99991d;color: #000000;text-align: center;text-decoration: none;padding: 5px .0em;width:10.4em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;opacity:.88}
+.button114 {background-image: linear-gradient(to top, #5e0000 60%, #ce0000 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding:5px .0em;width:11.5em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;opacity:.88}
+.button42 {background-image: linear-gradient(to top, #4f4b8c 60%, #605ca9 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: .2em .3em;width:6.3em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;opacity:.88}
+.button32 {background-image: linear-gradient(to top, #484480 60%, #575399 100%);border: 0;border-color: #444178;color:#737373;text-align: center;text-decoration: none;padding: 12px 22px;display: inline-block;font-size: 12px;cursor: pointer;word-spacing:.03em;letter-spacing:.10em;float:right;margin-top:-4.2em;border-radius: 8px;opacity:.7}
+.button34 {background-image: linear-gradient(to top, #484480 60%, #575399 100%);border: 0;border-color: #444178;color:#737373;text-align: center;text-decoration: none;padding: 12px 22px;display: inline-block;font-size: 12px;cursor: pointer;word-spacing:.03em;letter-spacing:.10em;float:left;margin-top:-4.2em;border-radius: 8px;opacity:.7} 
+.button24:active { background-image: linear-gradient(to top, #49490e 60%, #848415 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button25:active {  background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button54:active {  background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button56:active {  background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button44:active {  background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button1:active { background-image: linear-gradient(to top, #cdcdcd 60%, #ffffff 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button2:active { background-image: linear-gradient(to top, #5a569c 60%, #9a94ff 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button3:active { background-image: linear-gradient(to top, #49490e 60%, #848415 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button4:active { background-image: linear-gradient(to top, #0174ff 60%, #2fbbff 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button48:active { background-image: linear-gradient(to top, #ff0000 60%, #ff7d7d 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button4g:active { background-image: linear-gradient(to top, #ff0000 60%, #ff7d7d 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button4f:active { background-image: linear-gradient(to top, #ff0000 60%, #ff7d7d 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button4u:active { background-image: linear-gradient(to top, #0174ff 60%, #2fbbff 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button5:active {  background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button51:active {  background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button7:active {  background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button8:active { background-image: linear-gradient(to top, #49490e 60%, #848415 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button7g:active {  background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button8g:active { background-image: linear-gradient(to top, #49490e 60%, #848415 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button7d:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button8d:active { background-image: linear-gradient(to top, #49490e 60%, #848415 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button9:active {  background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button10:active { background-image: linear-gradient(to top, #49490e 60%, #848415 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button11:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button111:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button112:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button114:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button117:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button115:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button116:active { background-image: linear-gradient(to top, #49490e 60%, #848415 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button42:active { background-image: linear-gradient(to top, #6a65bc 60%, #7973d6 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
+.button32:active { background-image: linear-gradient(to top, #5f5aa6 60%, #7670c9 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;color:#c4c4c4;border: 1;}
+.button34:active { background-image: linear-gradient(to top, #5f5aa6 60%, #7670c9 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;color:#c4c4c4;border: 1;}
+.wall{display: block;background-image: url(schweizerkreuz.svg); border: 0px solid #ffffff;position:absolute;width:100px;height:100px;-webkit-transform-style: preserve-3d;box-shadow:0px 0px 10px #ff00ff;}
+.wall:nth-child(2){transform: rotateY(90deg) translateX(50px) translateZ(50px);}
+.wall:nth-child(3){transform: rotateY(90deg) translateX(50px) translateZ(-50px);}
+.wall:nth-child(4){transform: translateZ(-100px);}
+.wall:nth-child(5){transform: rotateX(90deg) translateX(0px) translateZ(-50px) translateY(-50px);}
+.wall:nth-child(6){transform: rotateX(90deg) translateX(0px) translateZ(50px) translateY(-50px);}
+.shadow{position:absolute;width:100%;height:100%;background: radial-gradient(transparent 50%,rgba(0,0,0,0.5) 60%);}
+.box{display: block;position:relative;animation-name:rotateBox, rise;animation-duration: 21s, 2s;animation-iteration-count: infinite, 1;animation-timing-function:linear, linear;-webkit-transform-style: preserve-3d;-webkit-perspective: 16px;width: 100px;height: 100px;transform-origin:-10% 345%;}
+.shrine{position:absolute;height:300px;bottom:0;margin-right: auto;margin-left: auto;left: 0;right: 0;width: 100px;}
+a, a:link, a:visited { text-decoration: none;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
