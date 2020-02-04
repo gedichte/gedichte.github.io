@@ -10,7 +10,7 @@ article{margin-top:4.62em;}
 .R{float:right;}
 .R2{float:right;margin-top:.42em;margin-right:1.625em;}
 .L4{float:left;margin-left:-.66em;}
-.M{float:center;margin-left:-1.25em;}
+.M{float:center;margin-left:-0.692em;}
 .AU{margin-top:.0em;}
 .AUAU{margin-top:7em;}
 .AUAUAU{margin-top:1.62em;}
@@ -223,3 +223,4 @@ a, a:link, a:visited { text-decoration: none;}
 
 
 
+/* file vom 4. Februar 2020 / +EERM+  / Mit Dino Link webp/png anstatt svg Datei SVG Datei frass zu viele Recourcen des Browsers da es beim skalieren die Farb Masken aufwändig berechnen wollte/musste.. */
