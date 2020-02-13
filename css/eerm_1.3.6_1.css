@@ -8,6 +8,7 @@ article{margin-top:4.62em;}
 .L3{float:left;margin-top:15.26em;margin-left:-0.5em;float:left;}
 .R{float:right;}
 .R2{float:right;margin-top:.42em;margin-right:1.625em;}
+.R3{float:right;margin-top:.41em;margin-right:1.625em;}
 .L4{float:left;margin-left:-.86em;}
 .M{float:center;margin-left:-.15em;}
 .AU{margin-top:.0em;}
@@ -33,6 +34,7 @@ article{margin-top:4.62em;}
 .mail2{width: 100%;max-width: 567px;margin-top:2em;}
 .github_ani_1{display:none;margin-top:.32em;}
 .github_ani_2{margin-top:1.62em;}
+.Akt1{float:left;margin-top:5.26em;margin-left:-7.88em;}
 p160{-webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg, #0100a1, #0100a1, #0100a1, #ff0000, #0100a1, #0100a1,#0100a1); background-size: 300%; animation: HG 26s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1); }
 p161{-webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg, #0100a1, #0100a1, #0100a1, #ff0000, #0100a1, #0100a1, #0100a1); background-size: 300%; animation: HG 26s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1);}
 p162{font-weight:400;font-size:9pt;line-height:1.44em;word-spacing:.175em;letter-spacing:.223em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#551a8b,#551a8b, #551a8b, #ff00ee, #551a8b, #551a8b,#551a8b); background-size: 300%; animation: HG 26s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1); }
@@ -89,6 +91,7 @@ p34{font-weight:300;font-size:9pt;color:#6a6976;margin-top:-1.5em;margin-right:-
 p35{font-weight:300;font-size:9pt;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; pointer-events: none;}
 p55{font-weight:300;font-size:9pt;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; pointer-events: none;}
 p56{font-weight:300;font-size:9pt;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; pointer-events: none;}
+p57{margin:0em;font-weight:300;font-size:5pt;color:#989ac4;}
 @keyframes HG {100% { background-position: -300%;} 0% { background-position: 300%;}} 
 @keyframes dankeschoen {100% { background-position: -300%;} 0% { background-position: 400%;}}
 .button44 {background-image: linear-gradient(to top, #5e0000 60%, #ce0000 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:5.3em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;letter-spacing:.10em;border-radius: 13px;margin-right:.375em;opacity:1}

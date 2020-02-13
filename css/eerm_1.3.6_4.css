@@ -8,6 +8,7 @@ article{margin-top:4.62em;}
 .L3{float:left;margin-top:15.26em;margin-left:-0.2em;float:left;}
 .R{float:right;}
 .R2{float:right;margin-top:.42em;margin-right:1.362em;}
+.R3{float:right;margin-top:.41em;margin-right:1.362em;}
 .L4{float:left;margin-left:-1.146em;}
 .M{float:center;margin-left:-1.25em;}
 .AU{margin-top:.0em;}
@@ -33,6 +34,7 @@ article{margin-top:4.62em;}
 .mail2{width: 100%;max-width: 567px;margin-top:2em;}
 .github_ani_1{display:none;margin-top:.32em;}
 .github_ani_2{margin-top:1.62em;}
+.Akt1{float:left;margin-top:5.26em;margin-left:-.28em;}
 p160{font-weight:300;font-size:1em;line-height:1.44em;word-spacing:.175em;letter-spacing:.223em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#ffffff,#ffffff, #ffffff, #ff0000, #ffffff, #ffffff,#ffffff); background-size: 300%; animation: HG 26s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1); }
 p161{-webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#ffffff,#ffffff, #ffffff, #ff0000, #ffffff, #ffffff,#ffffff); background-size: 300%; animation: HG 26s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1);}
 p162{font-weight:400;font-size:9pt;line-height:1.44em;word-spacing:.175em;letter-spacing:.223em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#7bd900,#7bd900, #7bd900, #ffffff, #7bd900, #7bd900,#7bd900); background-size: 300%; animation: HG 26s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1); }
@@ -89,6 +91,7 @@ p34{font-weight:300;font-size:9pt;color:#5d1313;margin-top:-1.5em;margin-right:-
 p35{font-weight:300;font-size:9pt;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; pointer-events: none;}
 p55{font-weight:300;font-size:9pt;color:#004d91;margin-top:-1.5em;margin-right:-.25em;float:right; pointer-events: none;}
 p56{font-weight:300;font-size:9pt;color:#514d91;margin-top:-1.5em;margin-right:-.25em;float:right; pointer-events: none;}
+p57{margin:0em;font-weight:300;font-size:5pt;color:#6c3e3e;}
 @keyframes HG {100% { background-position: -300%;} 0% { background-position: 300%;}} 
 @keyframes dankeschoen {100% { background-position: -300%;} 0% { background-position: 400%;}}
 .button24 {background-image: linear-gradient(to top, #2d2d09 60%, #767600 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:6.68em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.03em;border-radius: 13px;opacity:.88}
