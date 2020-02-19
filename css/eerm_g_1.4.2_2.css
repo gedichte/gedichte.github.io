@@ -36,7 +36,7 @@ article{margin-top:4.62em;}
 .github_ani_1{display:none;margin-top:.32em;}
 .github_ani_2{margin-top:1.62em;}
 .Akt1{float:left;margin-top:3.56em;margin-left:-.28em;}
-.video_box{position: relative; max-width: 720px; margin: auto;}
+.video_box{position: relative; max-width: 700px; margin: auto;}
 .video_box:before{ content: ""; display: block; padding-top: 56%;}
 .video_box iframe { width: 100%; height: 100%; position: absolute; top: 0;; left: 0; right: 0; bottom: 0;}
 p160{-webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#ffffff,#ffffff, #ffffff, #ff0000, #ffffff, #ffffff,#ffffff); background-size: 300%; animation: HG 26s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1); }
