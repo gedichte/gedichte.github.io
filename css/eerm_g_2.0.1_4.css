@@ -165,10 +165,10 @@ p57{margin:0em;font-weight:300;font-size:5pt;color:#959822;}
 .button115:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
 .button116:active { background-image: linear-gradient(to top, #49490e 60%, #848415 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
 .button42:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;}
-.button32:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;color:#c4c4c4;border: 1;opacity:.22;}
-.button34:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;color:#c4c4c4;border: 1;opacity:.22;}
-.button36:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;color:#c4c4c4;border: 1;opacity:.22;}
-.button38:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;color:#c4c4c4;border: 1;opacity:.22;}
+.button32:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;color:#c4c4c4;border: 1;opacity:.52;}
+.button34:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;color:#c4c4c4;border: 1;opacity:.52;}
+.button36:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;color:#c4c4c4;border: 1;opacity:.52;}
+.button38:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 3px 2px #f8ff89;border-color: #99991d;color:#c4c4c4;border: 1;opacity:.52;}
 :root {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;-ms-box-sizing: border-box;-o-box-sizing: border-box;box-sizing: border-box;-webkit-user-select: text;-moz-user-select: text; -ms-user-select: text;-o-user-select: text;user-select: text;}
 .holder { margin: 0em; margin-left:5em; margin-bottom:1em; width: 59%; height: -300px; position: 400px; } 
 .holder *, .holder *:before, .holder *:after {float:center; position: absolute; margin-bottom:5em; content: "";}
