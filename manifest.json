@@ -6,7 +6,7 @@
 	"theme_color": "#403d72",
 	"lang": "de-DE",
 	"background_color": "#403d72",
-	"start_url": "/index5.html",
+	"start_url": "/index.html",
 	"icons":  [	{"src": "android-icon-48.png","sizes":"48x48","type": "image/png"},
 				{"src": "apple-touch-icon-57.png","sizes":"57x57","type": "image/png"},
 				{"src": "apple-touch-icon-60.png","sizes":"60x60","type": "image/png"},
