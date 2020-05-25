@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- +EERM+  windspiel___ani   svg Ani file  15.September 2019 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="180mm"
+   height="50mm"
+   viewBox="0 0 180 50"
+   version="1.1"
+   id="svg4824"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="M_A_windspiel____ani_temp_w.svg">
+  <defs
+     id="defs4818" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.1589825"
+     inkscape:cx="511.97001"
+     inkscape:cy="145.5"
+     inkscape:document-units="mm"
+     inkscape:current-layer="Button"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     units="mm"
+     showborder="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     gridtolerance="2"
+     objecttolerance="1">
+    <sodipodi:guide
+       position="-74.083333,69.320833"
+       orientation="1,0"
+       id="guide846"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="18.520834,97.631251"
+       orientation="-0.70710678,0.70710678"
+       id="guide838"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-74.083335,31.249636"
+       orientation="-0.70710678,0.70710678"
+       id="guide840"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-15.046121,40.508788"
+       orientation="1,0"
+       id="guide842"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-15.046121,61.383333"
+       orientation="1,0"
+       id="guide843"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-15.046121,54.76875"
+       orientation="1,0"
+       id="guide847"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-41.804167,50.270833"
+       orientation="1,0"
+       id="guide849"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4821">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="Button"
+     transform="translate(0,-247)">
+    <rect
+       style="opacity:0;fill:#696f00;fill-opacity:1;stroke:none;stroke-width:2.67956376;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:19.01102257;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1013"
+       width="180"
+       height="50"
+       x="0"
+       y="247" />
+    <g
+       id="rhomb-m"
+       transform="translate(-0.52916773,181.56033)"
+       style="stroke:#00297a;stroke-opacity:1">
+      <g
+         inkscape:groupmode="layer"
+         id="layer3"
+         inkscape:label="rhomb"
+         style="display:inline;stroke:#00297a;stroke-opacity:1"
+         transform="translate(0,160.15625)">
+        <path
+           style="display:inline;fill:#008000;stroke:#00297a;stroke-width:0.64079547;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 49.18854,-76.840246 c 0,0 -0.367933,-0.34467 -0.805942,0.002 -0.276665,0.25361 -6.766943,6.872501 -6.766943,6.872501 0,0 -0.348241,0.31769 0.01217,0.713069 0.497028,0.4903 6.297341,6.31416 6.546164,6.530751 0.424683,0.36188 0.879458,0.25742 1.131235,0.0311 0.296669,-0.257911 6.292393,-6.196931 6.606966,-6.51655 0.202852,-0.18264 0.282669,-0.612 -0.0059,-0.88427 -0.317912,-0.288431 -6.109891,-6.217001 -6.109891,-6.217001 z"
+           id="path826-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccc" />
+      </g>
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="Button.click"
+         dur="6"
+         from="1"
+         to="0"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="Button.click"
+         dur="6"
+         from="0,0"
+         to="150,150"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="rotate"
+         begin="Button.click"
+         dur="6"
+         from="360,50,55"
+         to="0,60,180"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="skewX"
+         begin="Button.click"
+         dur="6"
+         from="0"
+         to="25"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="Button.click+6"
+         dur="6"
+         from="0"
+         to="1"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="Button.click+6"
+         dur="6"
+         from="150,200"
+         to="0,0"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+    </g>
+    <g
+       id="winkel-m"
+       transform="translate(-0.58916773,181.56633)"
+       style="stroke:#00297a;stroke-opacity:1">
+      <g
+         inkscape:groupmode="layer"
+         id="layer2"
+         inkscape:label="winkel"
+         style="display:inline;stroke:#00297a;stroke-opacity:1"
+         transform="translate(0,160.15625)">
+        <path
+           style="display:inline;opacity:1;fill:#ff0000;stroke:#00297a;stroke-width:0.56500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 10.453206,-76.65509 c 0,0 -0.156968,-0.17802 -0.388239,7.41e-4 -0.4782745,0.432729 -6.5616503,6.588669 -6.7452161,6.807529 -0.084723,0.10591 -0.1303589,0.27077 0.027935,0.43446 0.432725,0.47828 6.6910061,6.827511 6.8101331,6.949471 0.203316,0.22872 0.378112,0.22172 0.517711,0.087 0.728799,-0.706021 2.567759,-2.58137 2.567759,-2.58137 0,0 0.205285,-0.14305 -0.03374,-0.35934 -0.478275,-0.4555 -4.1962245,-4.144971 -4.1962245,-4.144971 0,0 -0.182323,-0.15457 -0.01582,-0.34961 0.616473,-0.60462 4.0301245,-3.92238 4.0301245,-3.92238 0,0 0.196287,-0.16896 -0.0074,-0.34574 -0.631747,-0.661 -2.020138,-2.05403 -2.020138,-2.05403 z"
+           id="path830-5"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccc" />
+      </g>
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="Button.click"
+         dur="6"
+         from="1"
+         to="0"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="Button.click"
+         dur="6"
+         from="0,0"
+         to="110,130"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="rotate"
+         begin="Button.click"
+         dur="6"
+         from="1080,0,70"
+         to="0,70,160"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="skewX"
+         begin="Button.click"
+         dur="6"
+         from="0"
+         to="20"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="Button.click+6"
+         dur="6"
+         from="0"
+         to="1"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="Button.click+6"
+         dur="6"
+         from="130,160"
+         to="0,0"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+    </g>
+    <g
+       id="dreieck-m"
+       transform="translate(-0.52916673,181.56633)"
+       style="stroke:#00297a;stroke-opacity:1">
+      <g
+         inkscape:groupmode="layer"
+         id="layer4"
+         inkscape:label="dreieck"
+         style="display:inline;stroke:#00297a;stroke-opacity:1"
+         transform="translate(0,160.15625)">
+        <path
+           style="display:inline;fill:#ffff00;stroke:#00297a;stroke-width:0.66200686;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 134.48833,-75.476017 c -0.1646,-0.25335 -0.50853,-0.27954 -0.69458,0.002 -0.26797,0.44721 -6.91973,10.874891 -7.26332,11.40349 -0.14537,0.19823 -0.0949,0.54599 0.32588,0.53307 1.17176,-0.0294 14.05845,0.0172 14.48133,0.0172 0.25109,0 0.39608,-0.10581 0.19062,-0.48418 -0.95782,-1.768579 -6.71583,-10.98072 -7.03993,-11.47156 z"
+           id="path832-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccc" />
+      </g>
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="Button.click"
+         dur="6"
+         from="1"
+         to="0.2"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="Button.click"
+         dur="6"
+         from="0,0"
+         to="120,120"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="rotate"
+         begin="Button.click"
+         dur="6"
+         from="360,140,100"
+         to="-360,130,50"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="skewX"
+         begin="Button.click"
+         dur="6"
+         from="0"
+         to="-20"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="Button.click+6"
+         dur="6"
+         from="0"
+         to="1"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="Button.click+6"
+         dur="6"
+         from="200,210"
+         to="0,0"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+    </g>
+    <g
+       id="kreis-m"
+       transform="translate(-92.5294,181.56533)"
+       style="stroke:#00297a;stroke-opacity:1">
+      <g
+         inkscape:groupmode="layer"
+         id="layer5"
+         inkscape:label="kreis"
+         style="display:inline;opacity:1;stroke:#00297a;stroke-opacity:1"
+         transform="translate(0,160.15625)">
+        <ellipse
+           style="fill:#ff0000;fill-opacity:1;stroke:#00297a;stroke-width:1.40339375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="path10119-1"
+           cx="263.76508"
+           cy="-69.259117"
+           rx="5.8241463"
+           ry="5.6091661" />
+      </g>
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="Button.click"
+         dur="6"
+         from="1"
+         to="0"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="Button.click"
+         dur="6"
+         from="0,0"
+         to="330,140"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="rotate"
+         begin="Button.click"
+         dur="6"
+         from="-360,250,90"
+         to="0,250,90"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="skewX"
+         begin="Button.click"
+         dur="6"
+         from="0"
+         to="-58"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="Button.click+6"
+         dur="6"
+         from="0"
+         to="1"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="Button.click+6"
+         dur="6"
+         from="325,160"
+         to="0,0"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+    </g>
+    <g
+       id="stern-m-4"
+       transform="translate(-0.53016773,102.18333)"
+       style="stroke:#00297a;stroke-opacity:1">
+      <g
+         inkscape:groupmode="layer"
+         id="layer6-1"
+         inkscape:label="stern"
+         transform="translate(0,160.15625)"
+         style="stroke:#00297a;stroke-opacity:1">
+        <path
+           style="display:inline;fill:#0000ff;fill-opacity:1;stroke:#00297a;stroke-width:0.49655494;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 92.099151,2.0806391 c 0,0 -0.489215,-1.32243003 -0.768247,0 -0.180437,0.52517 -1.714309,5.5957107 -1.714309,5.5957107 l -5.57565,1.73846 c 0,0 -1.721748,0.5190599 -0.10064,0.9413902 2.387451,0.57218 5.604865,1.51057 5.604865,1.51057 l 1.622368,5.85231 c 0,0 0.455703,1.24074 0.955291,-0.0744 0.315755,-0.63459 1.931057,-5.67998 1.931057,-5.67998 l 5.679729,-1.502291 c 0,0 1.645485,-0.36966 -0.21668,-0.8704993 C 98.721765,9.3430398 94.18271,7.8121598 94.18271,7.8121598 Z"
+           id="path1054-3-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccc" />
+      </g>
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="Button.click"
+         dur="6"
+         from="1"
+         to="0"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="Button.click"
+         dur="6"
+         from="0,0"
+         to="80,170"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="rotate"
+         begin="Button.click"
+         dur="6"
+         from="-720,80,190"
+         to="0,180,100"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="skewX"
+         begin="Button.click"
+         dur="6"
+         from="0"
+         to="-30"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="Button.click+6"
+         dur="6"
+         from="0"
+         to="1"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="Button.click+6"
+         dur="6"
+         from="150,320"
+         to="0,0"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+    </g>
+    <rect
+       style="opacity:0;fill:#696f00;fill-opacity:1;stroke:none;stroke-width:2.67956376;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:19.01102257;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect994"
+       width="180"
+       height="50"
+       x="0"
+       y="247" />
+    <text
+       y="241.31534"
+       id="text998"
+       x="174.41737"
+       alignment-baseline="middle"
+       style="font-size:13.56346703px;font-family:Arial;opacity:0.4974359;fill:#7c82ff;fill-opacity:1;stroke-width:1.13028896;"
+       transform="scale(0.97014411,1.0307747)">
+      <tspan
+         id="tspan996"
+         style="font-size:2.11666656px;opacity:1;fill:#0055ff;fill-opacity:1;stroke-width:1.13028896;">Klick für Ani</tspan>
+    </text>
+    <!-- <flowRoot xml:space="preserve" id="flowRoot1763" style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.66666667px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'sans-serif, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal">
+			<flowRegion id="flowRegion1765">
+				<rect id="rect1767" width="52.611118" height="28.81085" x="639.47559" y="4.2111421" />
+			</flowRegion>
+			<flowPara id="flowPara1769"></flowPara>
+		</flowRoot>	  -->
+    <image
+       y="246.90211"
+       x="17.787214"
+       id="image12351"
+       xlink:href="data:image/png;base64,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
+AABJRU5ErkJggg==
+"
+       preserveAspectRatio="none"
+       height="1.8978819"
+       width="144.90331"
+       style="opacity:0.418" />
+  </g>
+</svg>

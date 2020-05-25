@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4679097"
-     inkscape:cx="122.80939"
-     inkscape:cy="109.74456"
+     inkscape:zoom="3.2851562"
+     inkscape:cx="228.88549"
+     inkscape:cy="91.285321"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,7 +35,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1138"
+     inkscape:window-height="1018"
      inkscape:window-x="-8"
      inkscape:window-y="32"
      inkscape:window-maximized="1" />
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,9 +66,9 @@
        d="m 39.153883,266.54167 c 2.200133,4.50629 2.650762,8.74751 0.980782,9.59576 -1.722996,0.87475 -5.036449,-2.20013 -7.422136,-6.83897 -2.385686,-4.66534 -2.915838,-9.14513 -1.166335,-10.01988 0.715705,-0.37111 1.749504,0 2.915839,0.90126 m -6.176277,9.25116 c -1.272366,-0.66269 -2.01458,-1.45792 -1.961564,-2.30617 0.07952,-1.93506 4.400266,-3.26043 9.622268,-2.99536 5.195495,0.26508 9.357192,2.04109 9.277669,3.97615 -0.07952,0.79523 -0.90126,1.53744 -2.22664,2.06759 m -9.092116,4.5328 c -1.404905,1.0073 -2.650763,1.3784 -3.445992,0.87476 -1.590458,-1.06031 -0.583168,-5.46058 2.253148,-9.80783 2.836317,-4.34724 6.441354,-7.13055 8.058319,-6.12326 0.795229,0.53016 0.954275,1.723 0.636183,3.31346"
        id="path2-9-2-5"
        inkscape:connector-curvature="0"
-       style="fill:none;fill-opacity:1;stroke:#837692;stroke-width:0.82173628;stroke-linecap:round;stroke-opacity:1" />
+       style="fill:none;fill-opacity:1;stroke:#7d6e88;stroke-width:0.82173628;stroke-linecap:round;stroke-opacity:1" />
     <circle
-       style="opacity:1;fill:#e3f771;fill-opacity:1;stroke:#837692;stroke-width:0.50099409;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:19.01102257;stroke-opacity:1;paint-order:markers fill stroke"
+       style="opacity:1;fill:#dded00;fill-opacity:1;stroke:#7d6e88;stroke-width:0.50099409;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:19.01102257;stroke-opacity:1;paint-order:markers fill stroke"
        id="path4547-6-6"
        cx="36.062729"
        cy="267.48331"

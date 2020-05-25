@@ -25,15 +25,15 @@
          id="ro0"
          offset="0" />
       <stop
-         stop-color="red"
+         stop-color="#ff3f00"
          id="ro1"
          offset=".25" />
       <stop
-         stop-color="#f800ff"
+         stop-color="#ff00d6"
          id="ro2"
          offset=".75" />
       <stop
-         stop-color="#f800ff"
+         stop-color="#ff9700"
          id="ro3"
          offset="1" />
     </linearGradient>
@@ -52,11 +52,11 @@
     <linearGradient
        id="linearGradient3830">
       <stop
-         stop-color="red"
+         stop-color="#ff00ce"
          id="stop3764"
          offset="0" />
       <stop
-         stop-color="white"
+         stop-color="#ff8f00"
          id="ro1-2"
          offset=".25" />
       <stop
@@ -98,18 +98,18 @@
            repeatCount="indefinite"
            to="360"
            from="0"
-           dur="2000"
+           dur="20s"
            type="rotate"
            attributeName="transform" />
         <animate
            repeatCount="indefinite"
            values="-20; 50; -20"
-           dur="2000s"
+           dur="20s"
            attributeName="cx" />
         <animate
            repeatCount="indefinite"
            values="30; 1; 30"
-           dur="2000s"
+           dur="20s"
            attributeName="ry" />
       </ellipse>
     </g>
@@ -148,15 +148,19 @@
      xlink:href="#penta-5" />
 </svg>
 <stop
-   stop-color="blue"
+   stop-color="#ff0000"
+   id="stop3764"
+   offset="0" />
+<stop
+   stop-color="#d111f3"
    id="stop3795"
    offset=".25" />
 <stop
-   stop-color="yellow"
+   stop-color="ffffff"
    id="stop3797"
    offset=".75" />
 <stop
-   stop-color="green"
+   stop-color="#a9ff00"
    id="stop3799"
    offset="1" />
 </linearGradient>

@@ -98,18 +98,18 @@
            repeatCount="indefinite"
            to="360"
            from="0"
-           dur="32"
+           dur="32s"
            type="rotate"
            attributeName="transform" />
         <animate
            repeatCount="indefinite"
            values="-20; 120; -20"
-           dur="47"
+           dur="47s"
            attributeName="cx" />
         <animate
            repeatCount="indefinite"
            values="20; 90; 20"
-           dur="20"
+           dur="20s"
            attributeName="ry" />
       </ellipse>
     </g>
@@ -156,7 +156,7 @@
    id="stop3795"
    offset=".25" />
 <stop
-   stop-color="ffffff"
+   stop-color="#ffffff"
    id="stop3797"
    offset=".75" />
 <stop
@@ -249,18 +249,18 @@
                repeatCount="indefinite"
                to="360"
                from="0"
-               dur="32"
+               dur="32s"
                type="rotate"
                attributeName="transform" />
             <animate
                repeatCount="indefinite"
                values="-20; 120; -20"
-               dur="47"
+               dur="47s"
                attributeName="cx" />
             <animate
                repeatCount="indefinite"
                values="10; 90; 10"
-               dur="20"
+               dur="20s"
                attributeName="ry" />
           </ellipse>
         </g>

@@ -98,18 +98,18 @@
            repeatCount="indefinite"
            to="360"
            from="0"
-           dur="2000"
+           dur="20s"
            type="rotate"
            attributeName="transform" />
         <animate
            repeatCount="indefinite"
            values="-20; 50; -20"
-           dur="2000s"
+           dur="20s"
            attributeName="cx" />
         <animate
            repeatCount="indefinite"
            values="30; 1; 30"
-           dur="2000s"
+           dur="20s"
            attributeName="ry" />
       </ellipse>
     </g>
