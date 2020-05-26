@@ -1,0 +1,784 @@
+												@viewport{zoom: 1.0;width: extend-to-zoom;}
+												@-ms-viewport{width: extend-to-zoom;}
+/* Breite Aquarelle bei den Gedichten */
+												img{border: .125em solid #000000;max-width:46.25em;margin-top:.0em;}
+
+												body#l{text-align:center;color:#ffffff;background-color:#403d72;font-family: 'Roboto', sans-serif; }
+												body#w{text-align:center;color:#981700;background-color:#ffe8c7;font-family: 'Roboto', sans-serif; }
+												body#g{text-align:center;color:#ffffff;background-color:#2d2d09;font-family: 'Roboto', sans-serif; }
+												body#r{text-align:center;color:#ffffff;background-color:#3d0000;font-family: 'Roboto', sans-serif; }
+/* Für alle/jedes Gedichte */
+												article{margin-top:5em;}
+/* eingebettetes Youtube Video */
+												iframe{allowfullscreen:allowfullscreen; autoplay:0; background-color: transparent; border: 1; color: #260000;}
+/* Container Front-end Coder Codepen */	
+												.codepen{margin-bottom:-.188em;float:center;}
+/* Sprungmarke oben  */	
+												.L{float:left;margin-top:-.75em;}
+/* Aktuallisierung Sector  */												
+												.Lm{float:left;margin-top:0em;margin-bottom:0em;}
+/* Div Container Aktuallisierung Hoststar  */
+												.L2{float:left;margin-bottom:-16.938em;margin-left:-.125em;margin-top:2em;opacity: .99;}
+/* Div Container Aktuallisierung GitHub  */	
+												.L22{float:left;margin-left:-.0em;margin-top:10.5em;}
+/* Aktuallisierung Bild Hoststar */
+												.Akt1{float:left;margin-top:5.375em;margin-left:-.25em;opacity: .95;}
+/* Aktuallisierung Bild GitHub */
+												.Akt2{float:left;margin-top:14.125em;margin-left:-2.714em;opacity: .95;}
+/* Aktualisierungs - Datum */
+												ad{font-weight:300;font-size:.438em;color:#ffffff; opacity:.82;}
+												adw{font-weight:300;font-size:.438em;color:#0100a1; opacity:.82;}
+/* LED Aktualisierungs Logo Hoststar */
+												dhs{font-weight:300;font-size:.75em;color:#454482;margin-top:1.875em;margin-left:1.375em;float:right; }
+												dhsw{font-weight:300;font-size:.75em;color:#ffddad;margin-top:1.875em;margin-left:1.375em;float:right; }
+												dhsg{font-weight:300;font-size:.75em;color:#353400;margin-top:1.875em;margin-left:1.375em;float:right; }
+												dhsr{font-weight:300;font-size:.75em;color:#4f0100;margin-top:1.875em;margin-left:1.375em;float:right; }
+/* LED Aktualisierungs Logo GitHub  */
+												dgh{font-weight:300;font-size:.75em;color:#00ff00;margin-top:2.063em;margin-left:-1em;float:right; }
+												dghw{font-weight:300;font-size:.75em;color:#0205ff;margin-top:2.063em;margin-left:-1em;float:right; }
+/* Section Menue oben + unten */
+												.R{float:right;}
+/* Section P + BS Schliess button */
+												.Rpbs{float:left;margin-left:2em;margin-top:-2em; }
+/* Youtube video Schliess button */												
+												.Ryt{float:center;margin-right:42em;margin-left:2em;margin-top:-1.0em;}
+/* Gedichte mit Bildern Schliess button */
+												.Rubs{float:center;margin-right:42em;margin-left:2em;margin-top:.5em;margin-bottom:-2.25em; }
+												.Rubs181{float:center;margin-right:38em;margin-left:2em;margin-top:-1.5em;margin-bottom:-0.25em; }
+/* Div Container Dino */
+												.M{float:center;margin-left:-1.25em;}
+/* SVG Bild Blume gross oben  */
+												.A0{margin-top:1.625em;}
+/* SVG Fallback PNG Bild gross oben  */
+												.AU{margin-top:1.125em;margin-bottom:0.875em;margin-left:.438em;}
+/* SVG Blumen Ani gross oben  */
+												.A1{float:center;}
+/* SVG Fallback PNG Ani gross oben  */
+												.AU4{margin-top:1.125em;margin-bottom:.938em;margin-right:0em;}
+/* Div Container Info's Inhalt/Server/Smomby */
+												.A2{margin-top:5em;}
+/* SVG Bild ersatz PNG Prg. Logo's  */
+												.A3{margin-bottom:.0em;}
+/* SVG Bild ersatz PNG kleines Herz  */
+												.A4{margin-bottom:-.063em;margin-top:-.125em;}
+/* SVG Unterschrift  */
+												.M1{width: 100%;max-width: 37.75em;}
+/* SVG Bild ersatz PNG Windspiel  */
+												.W1{width: 100%;max-width: 58.75em;margin-top:.0em;}
+/* SVG Bild ersatz PNG Unterschrift  */
+												.M2{width: 100%;max-width: 37.75em;margin-bottom:.0em;}
+/* SVG Ani klein unten  */
+												.Ani_rr{margin-bottom:-4em;margin-top:0em;}
+/* SVG Ani klein unten  */
+												.Ani_rrm{margin-bottom:-1.5em;margin-top:1.5em;}
+/* SVG Fallback PNG Ani klein unten  */
+												.Ani_rrx{margin-bottom:-6.625em;margin-top:1.625em;}
+/* SVG PNG Bild ersatz klein unten  */
+												.Ani_rrrxx{margin-bottom:-1.626em;margin-top:1.438em;margin-right:.376em;}
+/* Div Container Prg. Logo's */	
+												.software{display:none;margin-top:0em;margin-bottom:2em;}
+/* Div Container Website infos */
+												.WI{display:none;margin-top:6em;margin-bottom:-3.0em;}
+/* Div Container Youtube Video */
+												.YT{display:none;margin-top:0em;}
+/* Youtube Video Button */
+												.YB{margin-top:.625em;}
+/* Video Box Youtube */	
+												.VB{position: relative; max-width: 44.875em; margin: auto;}
+/* Auf grösse regulieren */	
+												.VB:before{ content: ""; display: block; padding-top: 56%;}
+/* iframe für eingebettetes Video */
+												.VB iframe { width: 100%; height: 100%; position: absolute; top: 0; left: 0; right: 0; bottom: 0;}
+/* Titel Prog. & BS */
+												.yt{opacity: .57;}
+												.ytw{opacity: .57;}
+												.ytg{opacity: .55;}
+												.ytr{opacity: .46;}
+/* Titel Youtube Video */
+												.ytb{opacity: .57;margin-top:0em;}
+												.ytbw{opacity: .57;margin-top:0em;}
+												.ytbg{opacity: .55;margin-top:0em;}
+												.ytbr{opacity: .46;margin-top:0em;}
+/* Titel Website */
+												p160{-webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#dddddd,#dddddd,#dddddd,#f206be,#dddddd,#dddddd,#dddddd); background-size: 300%; animation: HG 29s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1); }
+												p160#w{-webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#981700,#981700,#981700,#a3ad00,#981700,#981700,#981700); background-size: 300%; animation: HG 29s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1); }
+												p160#g{-webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#dddddd,#dddddd,#dddddd,#aeff00,#dddddd,#dddddd,#dddddd); background-size: 300%; animation: HG 29s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1); }
+												p160#r{-webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#dddddd,#dddddd,#dddddd,#ff0000,#dddddd,#dddddd,#dddddd); background-size: 300%; animation: HG 29s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1); }												
+/* Untertitel Website */
+												p161{-webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#dddddd,#dddddd,#dddddd,#f206be,#dddddd,#dddddd,#dddddd); background-size: 300%; animation: HG 29s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1);}
+												p161#w{-webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#981700,#981700,#981700,#a3ad00,#981700,#981700,#981700); background-size: 300%; animation: HG 29s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1);}
+												p161#g{-webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#dddddd,#dddddd,#dddddd,#aeff00,#dddddd,#dddddd,#dddddd); background-size: 300%; animation: HG 29s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1);}
+												p161#r{-webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#dddddd,#dddddd,#dddddd,#ff0000,#dddddd,#dddddd,#dddddd); background-size: 300%; animation: HG 29s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1);}
+/* Name Anbieter Youtube Video */
+												p162{font-weight:400;font-size:.8em;line-height:1em;word-spacing:.031em;letter-spacing:.154em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#3d9500,#3d9500,#3d9500,#68ff00,#3d9500,#3d9500,#3d9500); background-size: 300%; animation: HG 20s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1);}
+												p162w{font-weight:400;font-size:.8em;line-height:1em;word-spacing:.031em;letter-spacing:.154em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#00a204,#00a204,#00a204,#ff0077,#00a204,#00a204,#00a204); background-size: 300%; animation: HG 20s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1);}
+												p162g{font-weight:400;font-size:.8em;line-height:1em;word-spacing:.031em;letter-spacing:.154em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#15a500,#15a500,#15a500,#22ff00,#15a500,#15a500,#15a500); background-size: 300%; animation: HG 20s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1);}
+												p162r{font-weight:400;font-size:.8em;line-height:1em;word-spacing:.031em;letter-spacing:.154em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#3d9500,#3d9500,#3d9500,#68ff00,#3d9500,#3d9500,#3d9500); background-size: 300%; animation: HG 20s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1);}
+/* Titel Youtube Video */
+												p163{font-weight:400;font-size:1.125em;line-height:1.438em;word-spacing:.031em;letter-spacing:.154em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#d6ce00,#d6ce00,#d6ce00,#fa5003,#d6ce00,#d6ce00,#d6ce00); background-size: 300%; animation: HG 24s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, .5, .5, 1);}
+												p163w{font-weight:400;font-size:1.125em;line-height:1.438em;word-spacing:.031em;letter-spacing:.154em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#0e00ff,#0e00ff,#0e00ff,#ff0077,#0e00ff,#0e00ff,#0e00ff); background-size: 300%; animation: HG 24s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, .5, .5, 1);}
+												p163g{font-weight:400;font-size:1.125em;line-height:1.438em;word-spacing:.031em;letter-spacing:.154em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#d6ce00,#d6ce00,#d6ce00,#fa5003,#d6ce00,#d6ce00,#d6ce00); background-size: 300%; animation: HG 24s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, .5, .5, 1);}
+												p163r{font-weight:400;font-size:1.125em;line-height:1.438em;word-spacing:.031em;letter-spacing:.154em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#d6ce00,#d6ce00,#d6ce00,#fa5003,#d6ce00,#d6ce00,#d6ce00); background-size: 300%; animation: HG 24s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, .5, .5, 1);}
+/* Namen Dankeschön */
+												p164{font-weight:400;font-size:.95em;line-height:1.438em;word-spacing:.031em;letter-spacing:.154em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#a3a3fc,#a3a3fc,#a3a3fc,#ff4300,#a3a3fc,#a3a3fc,#a3a3fc); background-size: 300%; animation: DS 35s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, .5, .5, 1);}
+												p164w{font-weight:400;font-size:.95em;line-height:1.438em;word-spacing:.031em;letter-spacing:.154em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#0100a1,#0100a1,#0100a1,#f800ff,#0100a1,#0100a1,#0100a1); background-size: 300%; animation: DS 35s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, .5, .5, 1);}
+												p164g{font-weight:400;font-size:.95em;line-height:1.438em;word-spacing:.031em;letter-spacing:.154em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#a3a3fc,#a3a3fc,#a3a3fc,#ff4300,#a3a3fc,#a3a3fc,#a3a3fc); background-size: 300%; animation: DS 35s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, .5, .5, 1);}
+												p164r{font-weight:400;font-size:.95em;line-height:1.438em;word-spacing:.031em;letter-spacing:.154em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#a3a3fc,#a3a3fc,#a3a3fc,#ff4300,#a3a3fc,#a3a3fc,#a3a3fc); background-size: 300%; animation: DS 35s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, .5, .5, 1);}
+/* Programme & BS */
+												p165{font-weight:300;font-size:1.125em;line-height:1.438em;word-spacing:.031em;letter-spacing:.18em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#baa2ff,#baa2ff,#baa2ff,#00ff7c,#baa2ff,#baa2ff,#baa2ff); background-size: 300%; animation: HG 24s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, .5, .5, 1);}
+												p165w{font-weight:300;font-size:1.125em;line-height:1.438em;word-spacing:.031em;letter-spacing:.18em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#0e00ff,#0e00ff,#0e00ff,#ff0077,#0e00ff,#0e00ff,#0e00ff); background-size: 300%; animation: HG 24s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, .5, .5, 1);}
+												p165g{font-weight:300;font-size:1.125em;line-height:1.438em;word-spacing:.031em;letter-spacing:.18em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#a8d600,#a8d600,#a8d600,#00ff7c,#a8d600,#a8d600,#a8d600); background-size: 300%; animation: HG 24s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, .5, .5, 1);}
+												p165r{font-weight:300;font-size:1.125em;line-height:1.438em;word-spacing:.031em;letter-spacing:.18em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#e24800,#e24800,#e24800,#f0ea91,#e24800,#e24800,#e24800); background-size: 300%; animation: HG 24s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, .5, .5, 1);}
+/* Titel Inhalt Youtube Video */
+												p166{font-weight:400;font-size:.8em;line-height:1em;word-spacing:.015em;letter-spacing:.154em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#aca600,#aca600,#aca600,#09c00a,#aca600,#aca600,#aca600); background-size: 300%; animation: HG 20s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1);}
+												p166w{font-weight:400;font-size:.8em;line-height:1em;word-spacing:.015em;letter-spacing:.154em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#0e00ff,#0e00ff,#0e00ff,#ff0077,#0e00ff,#0e00ff,#0e00ff); background-size: 300%; animation: HG 20s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1);}
+												p166g{font-weight:400;font-size:.8em;line-height:1em;word-spacing:.015em;letter-spacing:.154em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#d6ce00,#d6ce00,#d6ce00,#00ff00,#d6ce00,#d6ce00,#d6ce00); background-size: 300%; animation: HG 20s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1);}
+												p166r{font-weight:400;font-size:.8em;line-height:1em;word-spacing:.015em;letter-spacing:.154em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#aca600,#aca600,#aca600,#09c00a,#aca600,#aca600,#aca600); background-size: 300%; animation: HG 20s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 1, 1, 1);}
+/*  Info's Menue */	
+												p167{font-weight:400;float:right; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#5a55a0,#5a55a0,#5a55a0,#fa5003,#5a55a0,#5a55a0,#5a55a0); background-size: 300%; animation: HG 40s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, .5, .5, 1);}
+												p167w{font-weight:400;float:right; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#c9ac82,#c9ac82,#c9ac82,#bc1d00,#c9ac82,#c9ac82,#c9ac82); background-size: 300%; animation: HG 40s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, .5, .5, 1);}
+												p167g{font-weight:400;float:right; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#585812,#585812,#585812,#fa5003,#585812,#585812,#585812); background-size: 300%; animation: HG 40s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, .5, .5, 1);}
+												p167r{font-weight:400;float:right; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#723737,#723737,#723737,#fa5003,#723737,#723737,#723737); background-size: 300%; animation: HG 40s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, .5, .5, 1);}
+/* Fine line Menue unten */	
+												p168{font-weight:400;float:right; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#504c8f,#504c8f,#504c8f,#319cff,#504c8f,#504c8f,#504c8f); background-size: 300%; animation: HG 46s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 0, 0, 1);}
+												p168w{font-weight:400;float:right; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#bebfd9,#bebfd9,#bebfd9,#0200ff,#bebfd9,#bebfd9,#bebfd9); background-size: 300%; animation: HG 46s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 0, 0, 1);}
+												p168g{font-weight:400;float:right; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#494903,#494903,#494903,#319cff,#494903,#494903,#494903); background-size: 300%; animation: HG 46s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 0, 0, 1);}
+												p168r{font-weight:400;float:right; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#672a00,#672a00,#672a00,#319cff,#672a00,#672a00,#672a00); background-size: 300%; animation: HG 46s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, 0, 0, 1);}
+												
+/* Titel Website */
+												h1{margin-bottom:1.125em;margin-top:.75em;font-weight:300;font-size:1.438em;line-height:1.438em;word-spacing:.031em;letter-spacing:.078em;}
+												h1#w{font-weight:400;}
+/* Untertitel */
+												h2{margin-bottom:-2em;margin-top:.75em;font-weight:300;font-size:1.438em;line-height:1.438em;word-spacing:.031em;letter-spacing:.11em;}
+												h2#w{font-weight:400;}
+/* Name Gedichte */
+												h3{margin-bottom:.938em;margin-top:1.313em;font-weight:300;font-size:1.188em;line-height:1.438em;word-spacing:.031em;letter-spacing:.078em;}
+/* dickere Schrift Titel Ged. heller H.grund */																								
+												#tw1, #tw2, #tw3, #tw4, #tw5, #tw6, #tw7, #tw8, #tw9, #tw10, #tw11, #tw12, #tw13, #tw14, #tw15, #tw16, #tw17, #tw18, #tw19, #tw20, #tw21, #tw22, #tw23, #tw24, #tw25, #tw26, #tw27, #tw28, #tw29, #tw30, #tw31, #tw32, #tw33, #tw34, #tw35, #tw36, #tw37, #tw38, #tw39, #tw40, #tw41, #tw42, #tw43, #tw44, #tw45, #tw46, #tw47, #tw48, #tw49, #tw50, #tw51, #tw52, #tw53, #tw54, #tw55, #tw56, #tw57, #tw58, #tw59, #tw60, #tw61, #tw62, #tw63, #tw64, #tw65, #tw66, #tw67, #tw68, #tw69, #tw70, #tw71, #tw72, #tw73, #tw74, #tw75, #tw76, #tw77, #tw78, #tw79, #tw80, #tw81, #tw82, #tw83, #tw84, #tw85, #tw86, #tw87, #tw88, #tw89, #tw90, #tw91, #tw92, #tw93, #tw94, #tw95, #tw96, #tw97, #tw98, #tw99, #tw100, #tw101, #tw102, #tw103, #tw104, #tw105, #tw106, #tw107, #tw108, #tw109, #tw100, #tw111, #tw112, #tw113, #tw114, #tw115, #tw116, #tw117, #tw118, #tw119, #tw120, #tw121, #tw122, #tw123, #tw124, #tw125, #tw126, #tw127, #tw128, #tw129, #tw130, #tw131, #tw132, #tw133, #tw134, #tw135, #tw136, #tw137, #tw138, #tw139, #tw140, #tw141, #tw142, #tw143, #tw144, #tw145, #tw146, #tw147, #tw148, #tw149, #tw150, #tw115, #tw152, #tw153, #tw154, #tw155, #tw156, #tw157, #tw158, #tw159, #tw160, #tw161, #tw162, #tw163, #tw164, #tw165, #tw166, #tw167, #tw168, #tw169, #tw170, #tw171, #tw172, #tw173, #tw174, #tw175, #tw176, #tw177, #tw178, #tw179, #tw180, #tw181{font-weight:400;}
+/* Gedichte Inhalt */
+												h4{margin-bottom:3.375em;margin-top:1.125em;}
+/* Gedichte Text */	
+												p4{margin-bottom:0em;margin-top:1.438em;font-weight:300;font-size:1em;line-height:1.25em;word-spacing:.031em;letter-spacing:.078em;}
+/* dickere Schrift Gedichte heller H.grund */												
+												p4w{margin-bottom:0em;margin-top:1.438em;font-weight:400;font-size:1em;line-height:1.25em;word-spacing:.031em;letter-spacing:.078em;}
+												
+												#g1, #g2, #g3, #g4, #g5, #g6, #g7, #g8, #g9, #g10, #g11, #g12, #g13, #g14, #g15, #g16, #g17, #g18, #g19, #g20, #g21, #g22, #g23, #g24, #g25, #g26, #g27, #g28, #g29, #g30, #g31, #g32, #g33, #g34, #g35, #g36, #g37, #g38, #g39, #g40, #g41, #g42, #g43, #g44, #g45, #g46, #g47, #g48, #g49, #g50, #g51, #g52, #g53, #g54, #g55, #g56, #g57, #g58, #g59, #g60, #g61, #g62, #g63, #g64, #g65, #g66, #g67, #g68, #g69, #g70, #g71, #g72, #g73, #g74, #g75, #g76, #g77, #g78, #g79, #g80, #g81, #g82, #g83, #g84, #g85, #g86, #g87, #g88, #g89, #g90, #g91, #g92, #g93, #g94, #g95, #g96, #g97, #g98, #g99, #g100, #g101, #g102, #g103, #g104, #g105, #g106, #g107, #g108, #g109, #g100, #g111, #g112, #g113, #g114, #g115, #g116, #g117, #g118, #g119, #g120, #g121, #g122, #g123, #g124, #g125, #g126, #g127, #g128, #g129, #g130, #g131, #g132, #g133, #g134, #g135, #g136, #g137, #g138, #g139, #g140, #g141, #g142, #g143, #g144, #g145, #g146, #g147, #g148, #g149, #g150, #g115, #g152, #g153, #g154, #g155, #g156, #g157, #g158, #g159, #g160, #g161, #g162, #g163, #g164, #g165, #g166, #g167, #g168, #g169, #g170, #g171, #g172, #g173, #g174, #g175, #g176, #g177, #g178, #g179, #g180, #g181{display:block;}
+/* kleiner Zeilen umbruch Gedichte */
+												zvg {font-weight:300;font-size:2.125em;}
+/* Programme & BS / Titel Videos */
+												h5{margin-bottom:0em;margin-top:4em;}
+/* Alle Gedichte geschrieben von.. */
+												h6{margin-top:-1em;font-weight:300;font-size:.938em;line-height:1.0em;word-spacing:.031em;letter-spacing:.18em;color:#9592ca;}
+												h6#w{color:#bc1d00;opacity:.78;}
+												h6#g{color:#7d771e;opacity:1;}
+												h6#r{color:#9a9c4f;opacity:.7;}
+/* Mail Adr. von Hand eingeben   / */
+												p7{font-weight:300;font-size:.813em;line-height:1.0em;word-spacing:.02em;letter-spacing:.08em;color:#9592ca;opacity:1;}
+												p7#w{color:#bc1d00;opacity:.78;}
+												p7#g{color:#7d771e;opacity:1;}
+												p7#r{color:#9a9c4f;opacity:.7;}
+/* 	Herzl. Dank / Allen Codern */				
+												p9{ font-size: 1.188em; font-weight:400; word-spacing:.031em; letter-spacing:.18em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#9592ca,#9592ca,#9592ca,#ff0000,#9592ca,#9592ca,#9592ca); background-size: 300%; animation: DS 20s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, .15, .15, 1);}
+												p9#w{ font-size: 1.188em; font-weight:400; word-spacing:.031em; letter-spacing:.18em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#bc1d00,#bc1d00,#bc1d00,#a3ad00,#bc1d00,#bc1d00,#bc1d00); background-size: 300%; animation: DS 20s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, .15, .15, 1);}
+												p9#g{ font-size: 1.188em; font-weight:400; word-spacing:.031em; letter-spacing:.18em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#7d771e,#7d771e,#7d771e,#ff0000,#7d771e,#7d771e,#7d771e); background-size: 300%; animation: DS 20s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, .15, .15, 1);}
+												p9#r{ font-size: 1.188em; font-weight:400; word-spacing:.031em; letter-spacing:.18em; -webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit; background-repeat: repeat; background: linear-gradient(90deg,#9a9c4f,#9a9c4f,#9a9c4f,#ff0000,#9a9c4f,#9a9c4f,#9a9c4f); background-size: 300%; animation: DS 20s linear ; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation-timing-function: cubic-bezier(1, .15, .15, 1);}
+/* Klick mich nicht */
+												pnk{pointer-events: none; }
+												j {font-weight:300;font-size:2.125em;}
+/* Website Info's User's & Smomby's*/
+												p10{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.078em;color:#9694cc;opacity:1;}
+												p10w{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.078em;color:#bc1d00;opacity:1;}
+												p10g{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.078em;color:#7d771e;opacity:1;}
+												p10r{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.078em;color:#9a9c4f;opacity:.7;}
+/* Zeilenenden brauchen keinen Punkt, Komma */												
+												p10_sz{font-weight:300;font-size:.813em;line-height:0em;word-spacing:.031em;letter-spacing:.068em;color:#9694cc;opacity:1;}
+												p10_szw{font-weight:300;font-size:.813em;line-height:0em;word-spacing:.031em;letter-spacing:.068em;color:#bc1d00;opacity:1;}
+												p10_szg{font-weight:300;font-size:.813em;line-height:0em;word-spacing:.031em;letter-spacing:.068em;color:#7d771e;opacity:1;}
+												p10_szr{font-weight:300;font-size:.813em;line-height:0em;word-spacing:.031em;letter-spacing:.068em;color:#9a9c4f;opacity:.7;}
+/* Codec info  */												
+												p1b{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.048em;color:#9694cc;opacity:1;}
+												p1bw{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.048em;color:#bc1d00;opacity:1;}
+												p1bg{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.048em;color:#7d771e;opacity:1;}
+												p1br{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.048em;color:#9a9c4f;opacity:.7;}
+/* wie auch an / so auch an */
+												p10_wa{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.154em;color:#9694cc;opacity: .72;}
+												p10_waw{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.154em;color:#bc1d00;opacity: .72;}
+												p10_wag{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.154em;color:#7d771e;opacity: .72;}
+												p10_war{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.154em;color:#9a9c4f;opacity: .72;}
+/* Wollte diese Website durch folg.. */
+												p11{font-weight:300;font-size:1.188em;word-spacing:.031em;letter-spacing:.18em;color:#9694cc;opacity:.92;}
+												p11w{font-weight:300;font-size:1.188em;word-spacing:.031em;letter-spacing:.18em;color:#bc1d00;opacity:.92;}
+												p11g{font-weight:300;font-size:1.188em;word-spacing:.031em;letter-spacing:.18em;color:#7d771e;opacity:.92;}
+												p11r{font-weight:300;font-size:1.188em;word-spacing:.031em;letter-spacing:.18em;color:#9a9c4f;opacity:.95;}
+/* freundlich zur Verf. gestellt von */
+												pfzg{font-weight:300;font-size:.5em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#9694cc;opacity:.66;}
+												pfzgw{font-weight:300;font-size:.5em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#9694cc;opacity:.66;}
+												pfzgg{font-weight:300;font-size:.5em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#bab12d;opacity:.32;}
+												pfzgr{font-weight:300;font-size:.5em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#9a9c4f;opacity:.56;}
+/* Kommentar unter Youtube video */
+												pjg{font-weight:300;font-size:.5em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#9694cc;opacity:.96;}
+/* Kommentar unter Youtube video / Vorsicht */												
+												pat{font-weight:300;font-size:.5em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#ff3f00;opacity:.66;}
+/* Kommentar unter Youtube video / pjg folge */												
+												pjgf{font-weight:300;font-size:.563em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#548c54; opacity:.66;}
+/* Aquaris X Info */												
+												px{font-weight:300;font-size:.5em;word-spacing:.0002em;letter-spacing:.0em;color:#9694cc;opacity:.42;}
+												pxw{font-weight:300;font-size:.5em;word-spacing:.0002em;letter-spacing:.0em;color:#bc1d00;opacity:.32;}
+												pxg{font-weight:300;font-size:.5em;word-spacing:.0002em;letter-spacing:.0em;color:#bab12d;opacity:.21;}
+												pxr{font-weight:300;font-size:.5em;word-spacing:.0002em;letter-spacing:.0em;color:#9a9c4f;opacity:.26;}
+/* Info Folge vorschläge Video & +Zeichen */
+												pi{font-weight:300;font-size:.563em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#9694cc; opacity:.68;}
+												piw{font-weight:300;font-size:.563em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#bc1d00; opacity:.72;}
+												pig{font-weight:300;font-size:.563em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#bab12d; opacity:.52;}
+												pir{font-weight:300;font-size:.563em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#9a9c4f; opacity:.62;}
+												div.a {line-height: .625em;position: relative; max-width: 700px; margin: auto;}
+												div.b {line-height: .375em;margin-top:-.125em;}
+												div.c {line-height: .375em;margin-top:-.125em;}
+/* Server switch Tipp unter Video */												
+												p10_ani_7{font-weight:300;font-size:.313em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#9694cc; opacity:.63;}
+												p10_ani_7w{font-weight:300;font-size:.313em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#bc1d00; opacity:.99;}
+												p10_ani_7g{font-weight:300;font-size:.313em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#bab12d; opacity:.62;}
+												p10_ani_7r{font-weight:300;font-size:.313em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#a98b0b; opacity:.62;}
+/* Smomby info Opera Add Blocker */
+												zo{font-weight:300;font-size:.688em;line-height:0em;word-spacing:.02em;letter-spacing:.154em;color:#ffa523; opacity:.62;}
+												zow{font-weight:300;font-size:.688em;line-height:0em;word-spacing:.02em;letter-spacing:.154em;color:#ff7700; opacity:1;}
+												zog{font-weight:300;font-size:.688em;line-height:0em;word-spacing:.02em;letter-spacing:.154em;color:#ba922d; opacity:1;}
+												zor{font-weight:300;font-size:.688em;line-height:0em;word-spacing:.02em;letter-spacing:.154em;color:#ba782d; opacity:1;}
+/* Smomby info freie software */												
+												fs{font-weight:300;font-size:.5em;word-spacing:.007em;letter-spacing:.007em;color:#9694cc;opacity:.34;}
+												fsw{font-weight:300;font-size:.5em;word-spacing:.007em;letter-spacing:.007em;color:#bc1d00;opacity:.48;}
+												fsg{font-weight:300;font-size:.5em;word-spacing:.007em;letter-spacing:.007em;color:#7d771e;opacity:.54;}
+												fsr{font-weight:300;font-size:.5em;word-spacing:.007em;letter-spacing:.007em;color:#9a9c4f;opacity:.34;}
+/* Smomby info freie software propriäteres */												
+												fp{font-weight:300;font-size:.438em;line-height:0em;word-spacing:.031em;letter-spacing:.068em;color:#beba78; opacity:.75;}
+												fpw{font-weight:300;font-size:.438em;line-height:0em;word-spacing:.031em;letter-spacing:.068em;color:#e12705; opacity:1;}
+												fpg{font-weight:300;font-size:.438em;line-height:0em;word-spacing:.031em;letter-spacing:.068em;color:#beba78; opacity:.75;}
+												fpr{font-weight:300;font-size:.438em;line-height:0em;word-spacing:.031em;letter-spacing:.068em;color:#c09051; opacity:.95;}
+/* Emeritierter Professor */
+												pem{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.154em;color:#ffffff;opacity:.74;}
+												pemw{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.154em;color:#0006ff;opacity:.84;}
+												pemg{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.154em;color:#ffffff;opacity:.74;}
+												pemr{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.154em;color:#ffffff;opacity:.74;}
+/* Min. anzeige Video Ein Button Youtube */	
+												min1{font-weight:300;font-size:.563em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#ffffff;margin-top:-.0em;margin-right:-5.0em;float:right;opacity:.45;}
+												min1w{font-weight:300;font-size:.563em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#0100a1;margin-top:-.0em;margin-right:-5.0em;float:right;opacity:.63;}
+												min1g{font-weight:300;font-size:.563em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#ffffff;margin-top:-.0em;margin-right:-5.0em;float:right;opacity:.47;}
+												min1r{font-weight:300;font-size:.563em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#ffffff;margin-top:-.0em;margin-right:-5.0em;float:right;opacity:.43;}
+												
+												min2{font-weight:300;font-size:.563em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#ffffff;margin-top:-.0em;margin-right:-4.3em;float:right;opacity:.45;}
+												min2w{font-weight:300;font-size:.563em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#0100a1;margin-top:-.0em;margin-right:-4.3em;float:right;opacity:.63;}
+												min2g{font-weight:300;font-size:.563em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#ffffff;margin-top:-.0em;margin-right:-4.3em;float:right;opacity:.47;}
+												min2r{font-weight:300;font-size:.563em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#ffffff;margin-top:-.0em;margin-right:-4.3em;float:right;opacity:.43;}
+/* Alternativ Server + Adressen */
+												as{font-weight:400;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#7bd900;opacity:.98;}
+												asw{font-weight:400;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#4a9400;opacity:1;}
+/* Hoststar/GitHub Scalier.relation */												
+												psr{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.053em;color:#9694cc;opacity:.9;}
+												psrw{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.053em;color:#bc1d00;opacity:.9;}
+												psrg{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.053em;color:#7d771e;opacity:.9;}
+												psrr{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.053em;color:#9a9c4f;opacity:.7;}
+/* Alle Inhalte frei dem Leben */												
+												psk{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.084em;color:#9694cc;opacity:.9;}
+												pskw{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.084em;color:#bc1d00;opacity:.9;}
+												pskg{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.084em;color:#7d771e;opacity:.9;}
+												pskr{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.084em;color:#9a9c4f;opacity:.7;}
+/* Server Zustellung Github */												
+												psk4{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.1em;color:#9694cc;opacity:.9;}
+												pskw4{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.1em;color:#bc1d00;opacity:.9;}
+												pskg4{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.1em;color:#7d771e;opacity:.9;}
+												pskr4{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.1em;color:#9a9c4f;opacity:.7;}
+/* Zustellungs server */
+												zs{font-weight:400;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#7bd900;opacity:.85;}
+												zsw{font-weight:400;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#4a9400;}
+/* Front-end Coder + Bit God Engineer */
+												fe{font-weight:300;font-size:1em;line-height:0em;word-spacing:.031em;letter-spacing:.154em;color:#ffffff;opacity:.85;}
+												few{font-weight:400;font-size:1em;line-height:0em;word-spacing:.031em;letter-spacing:.154em;color:#5a00ff;opacity:.99;}
+												feg{font-weight:300;font-size:1em;line-height:0em;word-spacing:.031em;letter-spacing:.154em;color:#ffffff;opacity:.95;}
+												fer{font-weight:300;font-size:1em;line-height:0em;word-spacing:.031em;letter-spacing:.154em;color:#ffffff;opacity:.95;}
+/* Link Alternativ server */
+												mi{font-weight:300;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.078em;color:#ffffff;opacity:.85;}
+												miw{font-weight:400;font-size:.938em;line-height:0em;word-spacing:.031em;letter-spacing:.078em;color:#df2200;}
+/* S4+.+EMM+//+42D4 */	
+												pit{font-weight:400;font-size:.813em;line-height:0em;word-spacing:.031em;letter-spacing:.078em;color:#ffffff;opacity:.85;}
+												pitw{font-weight:400;font-size:.813em;line-height:0em;word-spacing:.031em;letter-spacing:.078em;color:#df2200;}
+/* Dankeschoen Prof & F.-e. Coder Namen  */
+												das{margin.0em;font-weight:400;margin-top:.75em;font-size:1.188em;line-height:2.2em;word-spacing:.031em;letter-spacing:.078em;color:#ff0000;}
+												dasw{margin.0em;font-weight:400;margin-top:.75em;font-size:1.188em;line-height:2.2em;word-spacing:.031em;letter-spacing:.078em;color:#ff0000;}
+												dasg{margin.0em;font-weight:400;margin-top:.75em;font-size:1.188em;line-height:2.2em;word-spacing:.031em;letter-spacing:.078em;color:#ff0000;}
+												dasr{margin.0em;font-weight:400;margin-top:.75em;font-size:1.188em;line-height:2.2em;word-spacing:.031em;letter-spacing:.078em;color:#ff0000;}
+/* Hinweis oben A. Aus, G. Aus = Index Ged. */
+												p12{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#5a55a0;}
+												p12w{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#c9ac82;}
+												p12g{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#6c3e3e;}
+												p12r{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#6c3e3e;}
+/* 16 Strahlen Stern Inhalts info's */
+												p17{font-weight:300;font-size:.95em;color:#80b900;opacity:.72;}
+												p17_{font-weight:300;font-size:.95em;color:#9694cc;opacity:.64;}
+												p17w{font-weight:300;font-size:.95em;color:#80b900;opacity:.72;}
+												p17_w{font-weight:300;font-size:.95em;color:#bc1d00;opacity:.64;}
+												p17g{font-weight:300;font-size:.95em;color:#80b900;opacity:.72;}
+												p17_g{font-weight:300;font-size:.95em;color:#7d771e;opacity:.64;}
+												p17r{font-weight:300;font-size:.95em;color:#80b900;opacity:.72;}
+												p17_r{font-weight:300;font-size:.95em;color:#9a9c4f;opacity:.9;}
+/* 16 Strahlen Stern Smomby Info's kl.Schrift*/
+												p36{font-weight:300;font-size: .7em;color:#0094ff;opacity:.72;}
+												p36w{font-weight:300;font-size: .7em;color:#0094ff;opacity:.72;}
+												p36g{font-weight:300;font-size: .7em;color:#0094ff;opacity:.72;}
+												p36r{font-weight:300;font-size: .7em;color:#0094ff;opacity:.72;}
+/* 16 Strah. Stern Smomby Info's s.kl.Schrift*/												
+												p36k{font-weight:300;font-size: .5em;color:#0094ff;opacity:.72;}
+												p36kw{font-weight:300;font-size: .5em;color:#0094ff;opacity:.72;}
+												p36kg{font-weight:300;font-size: .5em;color:#0094ff;opacity:.72;}
+												p36kr{font-weight:300;font-size: .5em;color:#0094ff;opacity:.72;}
+/* 16 Strahlen Stern Server Info's */
+												p77{font-weight:300;font-size:.95em;color:#80b900;opacity:.72;}
+												p77w{font-weight:300;font-size:.95em;color:#80b900;opacity:.72;}
+												p77g{font-weight:300;font-size:.95em;color:#80b900;opacity:.72;}
+												p77r{font-weight:300;font-size:.95em;color:#80b900;opacity:.72;}
+/* 16 Strahlen Stern Smomby Info's */
+												p80{font-weight:300;font-size:.95em;color:#0094ff;opacity:.72;}
+												p80w{font-weight:300;font-size:.95em;color:#0094ff;opacity:.72;}
+												p80g{font-weight:300;font-size:.95em;color:#0094ff;opacity:.72;}
+												p80r{font-weight:300;font-size:.95em;color:#0094ff;opacity:.72;}
+/* Opera Browser Text farbe */
+												p81{font-weight:300;font-size:.95em;color:#ffa523;opacity:.62;}
+												p81w{font-weight:300;font-size:.95em;color:#ff7700;opacity:1;}
+												p81g{font-weight:300;font-size:.95em;color:#ba922d;opacity:1;}
+												p81r{font-weight:300;font-size:.95em;color:#ba782d;opacity:1;}
+/* Platzhalter Ein Aus tube P+BS Min.anzeige */
+												p82{font-weight:300;font-size:.7em;color:#3d0000;opacity:0;}
+/* Abstand F.e. Coder Text & CodePen Logo */
+												p82_{font-weight:300;font-size:.5em;color:#3d0000;opacity: 0;}
+/* Gedichte Nr. über Ein Button Titel */
+												p18{font-weight:300;font-size:.7em;color:#bfbfbf;margin-top:-6em;margin-right:.24em;float:right; opacity: .44; }
+												p18w{font-weight:300;font-size:.7em;color:#981700;margin-top:-6em;margin-right:.24em;float:right; opacity: .46; }
+												p18g{font-weight:300;font-size:.7em;color:#bfbfbf;margin-top:-6em;margin-right:.24em;float:right; opacity: .54; }
+												p18r{font-weight:300;font-size:.7em;color:#bfbfbf;margin-top:-6em;margin-right:.24em;float:right; opacity: .42; }
+/* Inhalt symbol Aus Button Youtube Video*/
+												p18_1{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.75em;margin-left:.25em;float:left;opacity: .38;  }
+												p18_1w{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#098300; margin-top:-1.75em;margin-left:.25em;float:left;opacity: .68;  }
+												p18_1g{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.75em;margin-left:.25em;float:left;opacity: .38;  }
+												p18_1r{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.75em;margin-left:.25em;float:left;opacity: .38;  }
+/* Pfeil Symbol Aus Button Gedichte */
+												p18_2{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#ff7f00; margin-top:-3.875em;margin-left:.24em;float:left;opacity: .99;  }
+												p18_2w{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#de0000; margin-top:-3.875em;margin-left:.24em;float:left;opacity: .79;  }
+												p18_2g{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#ff7f00; margin-top:-3.875em;margin-left:.24em;float:left;opacity: .99;  }
+												p18_2r{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#ff7f00; margin-top:-3.875em;margin-left:.24em;float:left;opacity: .99;  }
+/* Inhalt Symbol Ein Button Gedichte */	
+												p18_3{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-3.875em;margin-right:.125em;float:right;opacity: .69;  }
+												p18_3w{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#098300; margin-top:-3.875em;margin-right:.125em;float:right;opacity: .95;  }
+												p18_3g{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-3.875em;margin-right:.125em;float:right;opacity: .52;;  }
+												p18_3r{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-3.875em;margin-right:.125em;float:right;opacity: .65;  }
+/* n-Logos Ein Button Programme & BS */
+												p18_3b{font-weight:300;font-size:.8em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-3.0em;margin-right:.082em;float:right;opacity: .32; }
+												p18_3bw{font-weight:300;font-size:.8em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#098300; margin-top:-3.0em;margin-right:.082em;float:right;opacity: .37; }
+												p18_3bg{font-weight:300;font-size:.8em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-3.0em;margin-right:.082em;float:right;opacity: .22; }
+												p18_3br{font-weight:300;font-size:.8em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-3.0em;margin-right:.082em;float:right;opacity: .39; }
+/* Inhalt Symbol Ein Button Youtube */
+												p18_4{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-2.063em;margin-right:-5.75em;float:right;opacity: .69;  }
+												p18_4w{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#098300; margin-top:-2.063em;margin-right:-5.75em;float:right;opacity: .95;  }
+												p18_4g{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-2.063em;margin-right:-5.75em;float:right;opacity: .52;  }
+												p18_4r{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-2.063em;margin-right:-5.75em;float:right;opacity: .62;  }
+/* Pfeil Symbol Aus Button Youtube Video*/
+												p18_5{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#ff7f00; margin-top:-3.75em;margin-left:.24em;float:left;opacity: .99;  }
+												p18_5w{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#de0000; margin-top:-3.75em;margin-left:.24em;float:left;opacity: .79;  }
+												p18_5g{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#ff7f00; margin-top:-3.75em;margin-left:.24em;float:left;opacity: .99;  }
+												p18_5r{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#ff7f00; margin-top:-3.75em;margin-left:.24em;float:left;opacity: .99;  }
+/* Musik Symbol Ein Button Youtube Video */
+												p18_6{font-weight:300;font-size:.75em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-2.938em;margin-right:3.938em;float:right;opacity: .36  }
+												p18_6w{font-weight:300;font-size:.75em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#098300; margin-top:-2.938em;margin-right:3.938em;float:right;opacity: .32  }
+												p18_6g{font-weight:300;font-size:.75em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-2.938em;margin-right:3.938em;float:right;opacity: .28  }
+												p18_6r{font-weight:300;font-size:.75em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-2.938em;margin-right:3.938em;float:right;opacity: .42  }
+/* Pfeil Symbol Gedichte Ein Button */
+												p18_7{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.75em;margin-right:0em;float:right;opacity: .92;  }
+												p18_7w{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#029000; margin-top:-1.75em;margin-right:0em;float:right;opacity: .9;  }
+												p18_7g{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.75em;margin-right:0em;float:right;opacity: .92;  }
+												p18_7r{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.75em;margin-right:0em;float:right;opacity: .92;  }
+/* Inhalt Symbol Aus Button Gedichte */	
+												p18_8{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-2.5em;margin-left:.25em;float:left;opacity: .38;  }
+												p18_8w{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#098300; margin-top:-2.5em;margin-left:.25em;float:left;opacity: .68;  }
+												p18_8g{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-2.5em;margin-left:.25em;float:left;opacity: .38;  }
+												p18_8r{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-2.5em;margin-left:.25em;float:left;opacity: .38;  }
+/* n-Logos Aus Button Programme & BS */
+												p18_8b{font-weight:300;font-size:.8em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.688em;margin-left:.255em;float:left;opacity: .18;  }
+												p18_8bw{font-weight:300;font-size:.8em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#098300; margin-top:-1.688em;margin-left:.255em;float:left;opacity: .18;  } 
+												p18_8bg{font-weight:300;font-size:.8em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.688em;margin-left:.255em;float:left;opacity: .14;  }
+												p18_8br{font-weight:300;font-size:.8em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.688em;margin-left:.255em;float:left;opacity: .243;  }
+/* Ein Pfeil Youtube Video */
+												p18_9{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.563em;margin-right:0em;float:right;opacity: .92;  }
+												p18_9w{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#029000; margin-top:-1.563em;margin-right:0em;float:right;opacity: .9;  }
+												p18_9g{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.563em;margin-right:0em;float:right;opacity: .92;  }
+												p18_9r{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.563em;margin-right:0em;float:right;opacity: .92;  }
+/* Hinw. oben G. Aus, A. Aus = Nur V. o. B. */
+												p19{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#5a55a0; margin-left:.75em;}
+												p19w{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#989ac4; margin-left:.75em;}
+												p19g{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#6c3e3e; margin-left:.75em;}
+												p19r{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#6c3e3e; margin-left:.75em;}
+/* Info file Grösse / Lade menge Bilder */
+												p20{font-weight:300;font-size:.5em;float:right;margin-right:.5em;color:#504c8f; margin-bottom:0em;margin-top:.125em;margin-left:5em;}
+												p20w{font-weight:300;font-size:.5em;float:right;margin-right:.5em;color:#dabb8e; margin-bottom:0em;margin-top:.125em;margin-left:5em;}
+												p20g{font-weight:300;font-size:.5em;float:right;margin-right:.5em;color:#494903; margin-bottom:0em;margin-top:.125em;margin-left:5em;}
+												p20r{font-weight:300;font-size:.5em;float:right;margin-right:.5em;color:#672a00; margin-bottom:0em;margin-top:.125em;margin-left:5em;}
+/* Hinw. unten G. Aus, A. Ein = Nur Bilder */
+												p21{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#5a55a0; margin-top:.0em;}
+												p21w{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#989ac4; margin-top:.0em;}
+												p21g{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#6c3e3e; margin-top:.0em;}
+												p21r{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#6c3e3e; margin-top:.0em;}
+/* Hinw.unten  A. Aus, G. Aus = Index > Ged. */
+												p38{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#5a55a0; margin-bottom:.0em;}
+												p38w{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#989ac4; margin-bottom:.0em;}
+												p38g{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#6c3e3e; margin-bottom:.0em;}
+												p38r{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#6c3e3e; margin-bottom:.0em;}
+/* Fine Line Application + */
+												p39{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#5f5e68; margin-left:5em; }
+												p39w{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#cbb492; margin-left:5em; }
+												p39g{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#494903; margin-left:5em; }
+												p39r{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#672a00; margin-left:5em; }
+/*  Bild Symbol Ein Button */					
+												p23{font-weight:300;font-size:1.05em;color:#00ff0d;margin-top:-2.25em;margin-right:.281em;float:right; opacity: .55;}
+												p23w{font-weight:300;font-size:1.05em;color:#098300;margin-top:-2.25em;margin-right:.281em;float:right; opacity: .55;}
+												p23g{font-weight:300;font-size:1.05em;color:#00ff0d;margin-top:-2.25em;margin-right:.281em;float:right; opacity: .42;}
+												p23r{font-weight:300;font-size:1.05em;color:#00ff0d;margin-top:-2.25em;margin-right:.281em;float:right; opacity: .55;}
+/* Bild Symbol Aus Button */					
+												p23_1{font-weight:300;font-size:1.05em;color:#00ff0d;margin-top:-1.375em;margin-left:.219em;float:left; opacity: .25;}
+												p23_1w{font-weight:300;font-size:1.05em;color:#098300;margin-top:-1.375em;margin-left:.18em;float:left; opacity: .32;}
+												p23_1g{font-weight:300;font-size:1.05em;color:#00ff0d;margin-top:-1.375em;margin-left:.18em;float:left; opacity: .25;}
+												p23_1r{font-weight:300;font-size:1.05em;color:#00ff0d;margin-top:-1.375em;margin-left:.18em;float:left; opacity: .3;}
+/* LED Ein oben Aquarelle */			
+												p24{font-weight:300;font-size:.75em;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p24w{font-weight:300;font-size:.75em;color:#0205ff;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p24g{font-weight:300;font-size:.75em;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p24r{font-weight:300;font-size:.75em;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; }
+/* LED Ein oben Kerze_gross_Ani */		
+												p46{font-weight:300;font-size:.75em;color:#454482;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p46w{font-weight:300;font-size:.75em;color:#ffdfaf;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p46g{font-weight:300;font-size:.75em;color:#353400;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p46r{font-weight:300;font-size:.75em;color:#4f0100;margin-top:-1.5em;margin-right:-.25em;float:right; }
+/* LED Ein oben Gedichte */			
+												p25{font-weight:300;font-size:.75em;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p25w{font-weight:300;font-size:.75em;color:#0205ff;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p25g{font-weight:300;font-size:.75em;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p25r{font-weight:300;font-size:.75em;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; }
+/* LED 50% oben Gedichte  */			
+												p85{font-weight:300;font-size:.75em;color:#00a500;margin-top:-1.5em;margin-right:-.605em;float:right; opacity: .0;}
+												p85w{font-weight:300;font-size:.75em;color:#00a500;margin-top:-1.5em;margin-right:-.605em;float:right; opacity: .0;}
+												p85g{font-weight:300;font-size:.75em;color:#00a500;margin-top:-1.5em;margin-right:-.605em;float:right; opacity: .0;}
+												p85r{font-weight:300;font-size:.75em;color:#00a500;margin-top:-1.5em;margin-right:-.605em;float:right; opacity: .0;}
+/* LED Aus oben Blumen Ani's */			
+												p26{font-weight:300;font-size:.75em;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p26w{font-weight:300;font-size:.75em;color:#0205ff;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p26g{font-weight:300;font-size:.75em;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p26r{font-weight:300;font-size:.75em;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; }
+/* LED Aus unten Kubus */												
+												p26z{font-weight:300;font-size:.75em;color:#514d8f;margin-top:-1.5em;margin-right:-.25em;float:right; }
+/* LED Ein unten Aquarelle */			
+												p27{font-weight:300;font-size:.75em;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p27w{font-weight:300;font-size:.75em;color:#0205ff;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p27g{font-weight:300;font-size:.75em;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p27r{font-weight:300;font-size:.75em;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; }
+/* LED Aus oben Kerze_gross_Ani */		
+												p28{font-weight:300;font-size:.75em;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p28w{font-weight:300;font-size:.75em;color:#ffddad;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p28g{font-weight:300;font-size:.75em;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p28r{font-weight:300;font-size:.75em;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; }
+/* LED 50% unten Gedichte */			
+												p98{font-weight:300;font-size:.75em;color:#00a500;margin-top:-1.5em;margin-right:-.605em;float:right; opacity: .0;}
+												p98w{font-weight:300;font-size:.75em;color:#ffddad;margin-top:-1.5em;margin-right:-.605em;float:right; opacity: .0;}
+												p98g{font-weight:300;font-size:.75em;color:#00a500;margin-top:-1.5em;margin-right:-.605em;float:right; opacity: .0;}
+												p98r{font-weight:300;font-size:.75em;color:#00a500;margin-top:-1.5em;margin-right:-.605em;float:right; opacity: .0;}
+/* LED	Aus unten Blumen Ani's */		
+												p29{font-weight:300;font-size:.75em;color:#454482;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p29w{font-weight:300;font-size:.75em;color:#ffddad;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p29g{font-weight:300;font-size:.75em;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p29r{font-weight:300;font-size:.75em;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; }
+/* LED	Aus unten Blumen Ani's */		
+												p30{font-weight:300;font-size:.75em;color:#514d8f;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p30w{font-weight:300;font-size:.75em;color:#ffddad;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p30g{font-weight:300;font-size:.75em;color:#353400;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p30r{font-weight:300;font-size:.75em;color:#4f0100;margin-top:-1.5em;margin-right:-.25em;float:right; }
+/* noscript java info */						
+												p31nm{font-weight:300;font-size:.7em;color:#d574ff;line-height:.0em;word-spacing:.02em;letter-spacing:.178em;opacity:.94;}
+												p31nmw{font-weight:300;font-size:.7em;color:#0015ff;line-height:.0em;word-spacing:.02em;letter-spacing:.178em;opacity:1;}
+												p31nmg{font-weight:300;font-size:.7em;color:#ce9300;line-height:.0em;word-spacing:.02em;letter-spacing:.178em;opacity:.82;}
+												p31nmr{font-weight:300;font-size:.7em;color:#ff8a2f;line-height:.0em;word-spacing:.02em;letter-spacing:.178em;opacity:.65;}
+/* LED Ein oben Blumen_Ani's */			
+												p35{font-weight:300;font-size:.75em;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p35w{font-weight:300;font-size:.75em;color:#0205ff;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p35g{font-weight:300;font-size:.75em;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p35r{font-weight:300;font-size:.75em;color:#00ff00;margin-top:-1.5em;margin-right:-.25em;float:right; }
+/* LED Aus unten Kerze_klein_Ani */	
+												p56{font-weight:300;font-size:.75em;color:#514d8f;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p56w{font-weight:300;font-size:.75em;color:#ffe0b1;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p56g{font-weight:300;font-size:.75em;color:#353400;margin-top:-1.5em;margin-right:-.25em;float:right; }
+												p56r{font-weight:300;font-size:.75em;color:#4f0100;margin-top:-1.5em;margin-right:-.25em;float:right; }
+/* Habe hier noch nichts eingebunden */												
+												p62{font-weight:300;font-size:.75em;float:left;margin-right:0em;color:#ffe8c7;pointer-events: none; margin-top:.0em;}
+												p62w{font-weight:300;font-size:.75em;float:left;margin-right:0em;color:#ffe8c7; pointer-events: none;margin-top:.0em;}
+												p62g{font-weight:300;font-size:.75em;float:left;margin-right:0em;color:#2d2d09; pointer-events: none;margin-top:.0em;}
+												p62r{font-weight:300;font-size:.75em;float:left;margin-right:0em;color:#2d2d09; pointer-events: none;margin-top:.0em;}
+/* noch keine Ani eingeb. */
+												p63{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#ffe8c7;pointer-events: none; margin-top:.0em;}
+												p63w{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#ffe8c7; pointer-events: none;margin-top:.0em;}
+												p63g{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#2d2d09; pointer-events: none;margin-top:.0em;}
+												p63r{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#2d2d09; pointer-events: none;margin-top:.0em;}
+
+												ad, adw, p30h, p30g, p167, p168, pnk, min1, min1w, min1g, min1r, min2, min2w, min2g, min2r, p12, p18, p18w, p18g, p18r, p18_1, p18_1w, p18_1g, p18_1r, p18_2, p18_2w, p18_2g, p18_2r, p18_3, p18_3w, p18_3g, p18_3r, p18_3b, p18_3bw, p18_3bg, p18_3br, p18_4, p18_4w, p18_4g, p18_4r, p18_5, p18_5w, p18_5g, p18_5r, p18_6, p18_6w, p18_6g, p18_6r, p18_7, p18_7w, p18_7g, p18_7r, p18_8, p18_8w, p18_8g, p18_8r, p18_8b, p18_8bw, p18_8bg, p18_8br, p18_9, p18_9w, p18_9g, p18_9r, p19, p20, p20w, p20g, p20r, p21, p38, p39, p23, p23w, p23g, p23r, p23_1, p23_1w, p23_1g, p23_1r, p24, p24w, p24g, p24r, p25, p25w, p25g, p25r, p46, p25w, p82_, p85, p85w, p85g, p85r, p26, p26w, p26g, p26r, p26w, p26z, p27, p27w, p27g, p27r, p28, p28w, p28g, p28r, p98, p98w, p98g, p98r, p29, p29w, p29g, p29r, p30, p30w, p30g, p30r, dhs, dhsw, dhsg, dhsr, p30w, p31nm, p35, p35w, p35g, p35r, p39, p39w, p39g, p39r, p35w, p46, p46w, p46g, p46r, p56, p56w, p56g, p56r, p167, p167w, p167g, p167r { pointer-events: none; }
+
+												@keyframes HG {100% { background-position: -300%;} 0% { background-position: 300%;}}
+												@keyframes DS {100% { background-position: -300%;} 0% { background-position: 300%;}}
+/* Kerzen & Fahne Ani Ein */
+												.button24 {background-image: linear-gradient(to top, #205a00 60%, #8b8d00 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:6.688em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.0em;letter-spacing:.075em;border-radius: 13px;}
+												.button24:active { background-image: linear-gradient(to top, #2c7b00 60%, #1c4e00 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
+/* Kerzen & Fahne Ani Aus */
+												.button25 {background-image: linear-gradient(to top, #aa2a00 60%, #d97900 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:6.5em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.0em;letter-spacing:.038em;border-radius: 13px;}
+												.button25:active { background-image: linear-gradient(to top, #f73d00 60%, #902400 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
+/* weisse Hinter grund farbe */
+												.button1 {background-image: linear-gradient(to top, #a4875d 60%, #ffe8c7 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:5.3em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;}
+												.button1:active { background-image: linear-gradient(to top, #ffe8c7 60%, #a4875d 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#000000;}
+												
+												.button1w {background-image: linear-gradient(to top, #a4875d 60%, #ffe8c7 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:5.3em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;}
+												.button1w:active { background-image: linear-gradient(to top, #ffe8c7 60%, #a4875d 100%);box-shadow: 0px 0px 2px 2px #209803;border-color: #535300;color:#000000;}
+/* blaue Hinter grund farbe */
+												.button2 {background-image: linear-gradient(to top, #403d72 60%, #847fc9 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:5.3em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;}
+												.button2:active { background-image: linear-gradient(to top, #847fc9 60%, #4d4a76 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
+												
+												.button2w {background-image: linear-gradient(to top, #403d72 60%, #847fc9 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:5.3em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;}
+												.button2w:active { background-image: linear-gradient(to top, #847fc9 60%, #4d4a76 100%);box-shadow: 0px 0px 2px 2px #209803;border-color: #535300;}
+/* grüne Hinter grund farbe */
+												.button3 {background-image: linear-gradient(to top, #2d2d09 60%, #767600 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:5.3em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;}
+												.button3:active { background-image: linear-gradient(to top, #767600 60%, #1c4e00 100%);box-shadow: 0px 0px 2px 2px #a4ff8e;border-color: #535300;}
+												
+												.button3w {background-image: linear-gradient(to top, #5e0000 60%, #ce0000 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:5.3em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;margin-right:.375em;}
+												.button3w:active { background-image: linear-gradient(to top, #ce0000 60%, #980000 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
+/* rote Hinter grund farbe */					
+												.button44 {background-image: linear-gradient(to top, #5e0000 60%, #ce0000 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:5.3em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;margin-right:.375em;}
+												.button44:active { background-image: linear-gradient(to top, #ce0000 60%, #7c0000 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
+												
+												.button44w {background-image: linear-gradient(to top, #5e0000 60%, #ce0000 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:5.3em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;margin-right:.375em;}
+												.button44w:active { background-image: linear-gradient(to top, #ce0000 60%, #7c0000 100%);box-shadow: 0px 0px 2px 2px #209803;border-color: #535300;}
+/* runter */
+												.button4 {background-image: linear-gradient(to top, #0055ff 60%, #00acff 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:10.1em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:-.125em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;margin-right:.375em;}
+												.button4:active { background-image: linear-gradient(to top, #4080ff 60%, #004e73 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
+/* hoch */
+												.button4u {background-image: linear-gradient(to top, #0055ff 60%, #00acff 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:10.1em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;margin-right:.375em;} 
+												.button4u:active { background-image: linear-gradient(to top, #4080ff 60%, #004e73 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
+/* Aquarelle Aus oben */
+												.button7 {background-image: linear-gradient(to top, #aa2a00 60%, #d97900 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:12.2em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;}
+												.button7:active { background-image: linear-gradient(to top, #f73d00 60%, #902400 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
+/* Aquarelle Ein oben */
+												.button8 {background-image: linear-gradient(to top, #205a00 60%, #8b8d00 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:12.0em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;}
+												.button8:active { background-image: linear-gradient(to top, #2c7b00 60%, #1c4e00 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
+/* Gedichte Aus oben */	
+												.button7g {background-image: linear-gradient(to top, #aa2a00 60%, #d97900 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:9.78em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;}
+												.button7g:active { background-image: linear-gradient(to top, #f73d00 60%, #902400 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
+/* Gedichte Ein oben */	
+												.button8g {background-image: linear-gradient(to top, #205a00 60%, #8b8d00 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:9.58em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;}
+												.button8g:active { background-image: linear-gradient(to top, #2c7b00 60%, #1c4e00 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
+/* Gedichte Aus unten */
+												.button7d {background-image: linear-gradient(to top, #aa2a00 60%, #d97900 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:9.8em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;}
+												.button7d:active { background-image: linear-gradient(to top, #f73d00 60%, #902400 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
+/* Gedichte Ein unten */
+												.button8d {background-image: linear-gradient(to top, #205a00 60%, #8b8d00 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:9.6em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;}
+												.button8d:active { background-image: linear-gradient(to top, #2c7b00 60%, #1c4e00 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
+/* Aquarelle Aus unten */
+												.button9 {background-image: linear-gradient(to top, #aa2a00 60%, #d97900 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:12.2em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.75em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;}
+												.button9:active { background-image: linear-gradient(to top, #f73d00 60%, #902400 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
+/* Aquarelle Ein unten */
+												.button10 {background-image: linear-gradient(to top, #205a00 60%, #8b8d00 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:12em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.75em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;}
+												.button10:active { background-image: linear-gradient(to top, #2c7b00 60%, #1c4e00 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
+/* Blumen Ani's Aus unten  */
+												.button115 {background-image: linear-gradient(to top, #aa2a00 60%, #d97900 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width: 11.5em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.075em;border-radius: 13px;}
+												.button115:active { background-image: linear-gradient(to top, #f73d00 60%, #902400 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
+/* Blumen Ani's Ein unten & oben */	
+												.button116 {background-image: linear-gradient(to top, #205a00 60%, #8b8d00 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width: 11.5em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.2em;letter-spacing:.075em;border-radius: 13px;}
+												.button116:active { background-image: linear-gradient(to top, #2c7b00 60%, #1c4e00 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
+/* Mail senden */
+												.button42 {background-image: linear-gradient(to top, #484480 60%, #575399 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 0px 2px;width:7em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;opacity:.7;}
+												.button42:active { background-image: linear-gradient(to top, #5e58a8 60%, #6b64c0 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;}
+												
+												.button42w {background-image: linear-gradient(to top, #ffe0b3 60%, #fff9f1 100%);border: 1;border-color: #99991d;color: #515fff;text-align: center;text-decoration: none;padding: 0px 2px;width:7em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;}
+												.button42w:active { background-image: linear-gradient(to top, #ecc790 60%, #fff1dd 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color: #006202;}
+												
+												.button42g {background-image: linear-gradient(to top, #39390c 60%, #49490d 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 0px 2px;width:7em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;opacity:.7;}
+												.button42g:active { background-image: linear-gradient(to top, #4d4d0c 60%, #60600e 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;}
+												
+												.button42r {background-image: linear-gradient(to top, #4d0000 60%, #670000 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 0px 2px;width:7em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;opacity:.7;}
+												.button42r:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;}
+/* schliessen Gedichte mit Bildern */
+												.button42a {background-image: linear-gradient(to top, #484480 60%, #575399 100%);border: 0;border-color: #99991d;color: #ff7f00;text-align: center;text-decoration: none;padding: 6px 22px;width:70px;display: inline-block;font-size: 12px;cursor: pointer;border-radius: 8px;opacity:.62;}
+												.button42a:active { background-image: linear-gradient(to top, #5e58a8 60%, #6b64c0 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;border: 1;}
+												
+												.button42aw {background-image: linear-gradient(to top, #ffe0b3 60%, #fff9f1 100%);border: 0;border-color: #99991d;color: #de0000;text-align: center;text-decoration: none;padding: 6px 22px;width:70px;display: inline-block;font-size: 12px;cursor: pointer;border-radius: 8px;opacity:.62;}
+												.button42aw:active { background-image: linear-gradient(to top, #ecc790 60%, #fff1dd 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#de0000;border: 1;}
+												
+												.button42ag {background-image: linear-gradient(to top, #39390c 60%, #49490d 100%);border: 0;border-color: #99991d;color: #ff7f00;text-align: center;text-decoration: none;padding: 6px 22px;width:70px;display: inline-block;font-size: 12px;cursor: pointer;border-radius: 8px;opacity:.62;}
+												.button42ag:active { background-image: linear-gradient(to top, #4d4d0c 60%, #60600e 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;border: 1;}
+												
+												.button42ar {background-image: linear-gradient(to top, #4d0000 60%, #670000 100%);border: 0;border-color: #99991d;color: #ff7f00;text-align: center;text-decoration: none;padding: 6px 22px;width:70px;display: inline-block;font-size: 12px;cursor: pointer;border-radius: 8px;opacity:.62;}
+												.button42ar:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;border: 1;}
+/* Gedichte Ein */
+												.button32 {background-image: linear-gradient(to top, #484480 60%, #575399 100%);border: 0;border-color: #4f0000;color:#7f7f7f;text-align: center;text-decoration: none;padding: 12px 22px;display: inline-block;font-size: 12px;cursor: pointer;word-spacing:.031em;letter-spacing:.1em;float:right;margin-top:-4.2em;border-radius: 8px;opacity:.7;}
+												.button32:active { background-image: linear-gradient(to top, #5e58a8 60%, #6b64c0 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;border: 1;}
+												
+												.button32w {background-image: linear-gradient(to top, #ffe0b3 60%, #fff9f1 100%);border: 0;border-color: #4f0000;color:#a9a9a9;text-align: center;text-decoration: none;padding: 12px 22px;display: inline-block;font-size: 12px;cursor: pointer;word-spacing:.031em;letter-spacing:.1em;float:right;margin-top:-4.2em;border-radius: 8px;opacity:.7;}
+												.button32w:active { background-image: linear-gradient(to top, #ecc790 60%, #fff1dd 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#006202;border: 1;}
+												
+												.button32g {background-image: linear-gradient(to top, #39390c 60%, #49490d 100%);border: 0;border-color: #4f0000;color:#606060;text-align: center;text-decoration: none;padding: 13px 22px;display: inline-block;font-size: 12px;cursor: pointer;word-spacing:.031em;letter-spacing:.1em;float:right;margin-top:-4.2em;border-radius: 8px;opacity:.7;}
+												.button32g:active { background-image: linear-gradient(to top, #4d4d0c 60%, #60600e 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;border: 1;}
+												
+												.button32r {background-image: linear-gradient(to top, #4d0000 60%, #670000 100%);border: 0;border-color: #4f0000;color:#606060;text-align: center;text-decoration: none;padding: 12px 22px;display: inline-block;font-size: 12px;cursor: pointer;word-spacing:.031em;letter-spacing:.1em;float:right;margin-top:-4.2em;border-radius: 8px;opacity:.7;}
+												.button32r:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;border: 1;}
+/* Gedichte Aus */
+												.button34 {background-image: linear-gradient(to top, #484480 60%, #575399 100%);border: 0;border-color: #4f0000;color:#7f7f7f;text-align: center;text-decoration: none;padding: 12px 22px;display: inline-block;font-size: 12px;cursor: pointer;word-spacing:.031em;letter-spacing:.1em;float:left;margin-top:-4.2em;border-radius: 8px;opacity:.7;} 
+												.button34:active { background-image: linear-gradient(to top, #5e58a8 60%, #6b64c0 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#ed7e6c;border: 1;}
+												
+												.button34w {background-image: linear-gradient(to top, #ffe0b3 60%, #fff9f1 100%);border: 0;border-color: #4f0000;color:#a9a9a9;text-align: center;text-decoration: none;padding: 12px 22px;display: inline-block;font-size: 12px;cursor: pointer;word-spacing:.031em;letter-spacing:.1em;float:left;margin-top:-4.2em;border-radius: 8px;opacity:.7;} 
+												.button34w:active { background-image: linear-gradient(to top, #ecc790 60%, #fff1dd 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#bc1d00;border: 1;}
+												
+												.button34g {background-image: linear-gradient(to top, #39390c 60%, #49490d 100%);border: 0;border-color: #4f0000;color:#606060;text-align: center;text-decoration: none;padding: 13px 22px;display: inline-block;font-size: 12px;cursor: pointer;word-spacing:.031em;letter-spacing:.1em;float:left;margin-top:-4.2em;border-radius: 8px;opacity:.7;} 
+												.button34g:active { background-image: linear-gradient(to top, #4d4d0c 60%, #60600e 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#ed7e6c;border: 1;}
+												
+												.button34r {background-image: linear-gradient(to top, #4d0000 60%, #670000 100%);border: 0;border-color: #4f0000;color:#545454;text-align: center;text-decoration: none;padding: 12px 22px;display: inline-block;font-size: 12px;cursor: pointer;word-spacing:.031em;letter-spacing:.1em;float:left;margin-top:-4.2em;border-radius: 8px;opacity:.7;}
+												.button34r:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#ed7e6c;border: 1;}
+/* Programme & BS + Youtube Ein */
+												.button36 {background-image: linear-gradient(to top, #484480 60%, #575399 100%);border: 0;border-color: #4f0000;color:#7f7f7f;text-align: center;text-decoration: none;padding: 5px 22px;display: inline-block;font-size: 12px;cursor: pointer;word-spacing:.031em;letter-spacing:.1em;float:right;border-radius: 8px;opacity:.7;margin-top:-2.5em;}
+												.button36:active { background-image: linear-gradient(to top, #5e58a8 60%, #6b64c0 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;border: 1;}
+												
+												.button36w {background-image: linear-gradient(to top, #ffe0b3 60%, #ffffff 100%);border: 0;border-color: #e2e6ff;color:#a9a9a9;text-align: center;text-decoration: none;padding: 5px 22px;display: inline-block;font-size: 12px;cursor: pointer;word-spacing:.031em;letter-spacing:.1em;float:right;border-radius: 8px;opacity:.7;margin-top:-2.5em;}
+												.button36w:active { background-image: linear-gradient(to top, #ecc790 60%, #fff1dd 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#006202;border: 1;}
+												
+												.button36g {background-image: linear-gradient(to top, #39390c 60%, #49490d 100%);border: 0;border-color: #4f0000;color:#606060;text-align: center;text-decoration: none;padding: 5px 22px;display: inline-block;font-size: 12px;cursor: pointer;word-spacing:.031em;letter-spacing:.1em;float:right;border-radius: 8px;opacity:.7;margin-top:-2.5em;}
+												.button36g:active { background-image: linear-gradient(to top, #4d4d0c 60%, #60600e 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;border: 1;}
+												
+												.button36r {background-image: linear-gradient(to top, #4d0000 60%, #670000 100%);border: 0;border-color: #4f0000;color:#545454;text-align: center;text-decoration: none;padding: 5px 22px;display: inline-block;font-size: 12px;cursor: pointer;word-spacing:.031em;letter-spacing:.1em;float:right;border-radius: 8px;opacity:.7;margin-top:-2.5em;}
+												.button36r:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;border: 1;}
+/* Programme & BS + Youtube Aus */
+												.button38 {background-image: linear-gradient(to top, #484480 60%, #575399 100%);border: 0;border-color: #4f0000;color:#7f7f7f;text-align: center;text-decoration: none;padding: 5px 22px;display: inline-block;font-size: 12px;cursor: pointer;word-spacing:.031em;letter-spacing:.1em;float:left;border-radius: 8px;opacity:.7;margin-top:-2.5em;} 
+												.button38:active { background-image: linear-gradient(to top, #5e58a8 60%, #6b64c0 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#ed7e6c;border: 1;}
+												
+												.button38w {background-image: linear-gradient(to top, #ffe0b3 60%, #ffffff 100%);border: 0;border-color: #e2e6ff;color:#a9a9a9;text-align: center;text-decoration: none;padding: 5px 22px;display: inline-block;font-size: 12px;cursor: pointer;word-spacing:.031em;letter-spacing:.1em;float:left;border-radius: 8px;opacity:.7;margin-top:-2.5em;} 
+												.button38w:active { background-image: linear-gradient(to top, #ecc790 60%, #fff1dd 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#bc1d00;border: 1;}
+												
+												.button38g {background-image: linear-gradient(to top, #39390c 60%, #49490d 100%);border: 0;border-color: #4f0000;color:#606060;text-align: center;text-decoration: none;padding: 5px 22px;display: inline-block;font-size: 12px;cursor: pointer;word-spacing:.031em;letter-spacing:.1em;float:left;border-radius: 8px;opacity:.7;margin-top:-2.5em;} 
+												.button38g:active { background-image: linear-gradient(to top, #4d4d0c 60%, #60600e 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#ed7e6c;border: 1;}
+												
+												.button38r {background-image: linear-gradient(to top, #4d0000 60%, #670000 100%);border: 0;border-color: #4f0000;color:#545454;text-align: center;text-decoration: none;padding: 5px 22px;display: inline-block;font-size: 12px;cursor: pointer;word-spacing:.031em;letter-spacing:.1em;float:left;border-radius: 8px;opacity:.7;margin-top:-2.5em;}
+												.button38r:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#ed7e6c;border: 1;}
+/* Schweizerkreuz Ani */
+												@keyframes rotateBox {100% {transform: rotateY(360deg) rotateZ(360deg)}}
+												.wall{display: block;background-image: url(schweizerkreuz.svg); border: 0px solid #ffffff;position:absolute;width:100px;height:100px;-webkit-transform-style: preserve-3d;box-shadow:0px 0px 10px #ff00ff;}
+												.wall:nth-child(2){transform: rotateY(90deg) translateX(50px) translateZ(50px);}
+												.wall:nth-child(3){transform: rotateY(90deg) translateX(50px) translateZ(-50px);}
+												.wall:nth-child(4){transform: translateZ(-100px);}
+												.wall:nth-child(5){transform: rotateX(90deg) translateX(0px) translateZ(-50px) translateY(-50px);}
+												.wall:nth-child(6){transform: rotateX(90deg) translateX(0px) translateZ(50px) translateY(-50px);}
+												.shadow{position:absolute;width:100%;height:100%;background: radial-gradient(transparent 50%,rgba(0,0,0,.5) 60%);}
+												.box{display: block;position:relative;animation-name:rotateBox, rise;animation-duration: 21s, 2s;animation-iteration-count: infinite, 1;animation-timing-function:linear, linear;-webkit-transform-style: preserve-3d;-webkit-perspective: 16px;width: 100px;height: 100px;transform-origin:-10% 345%;}
+												.shrine{position:absolute;height:300px;bottom:0;margin-right: auto;margin-left: auto;left: 0;right: 0;width: 100px;}
+/* Programme & BS + Youtube Aus */
+												.room {display:none;} 
+												.p55 {opacity:.5;}
+/* Kubus SVG Ani */
+												@keyframes rotateBoxx {100% {transform: rotateX(720deg) rotateY(720deg) rotateZ(720deg)}}
+												.wall_{display: block;background-image: url(kubus_move_ani__4.62.4.svg); border: 0px solid #ffffff;position:absolute;width:80px;height:80px;-webkit-transform-style:}
+												.wall_:nth-child(2){transform: rotateY(90deg) translateX(50px) translateZ(50px)  rotateZ(90deg);}
+												.wall_:nth-child(3){transform: rotateY(90deg) translateX(50px) translateZ(-50px) rotateZ(180deg)rotateZ(180deg);}
+												.wall_:nth-child(4){transform: translateZ(-100px) rotateX(-180deg) rotateZ(-90deg) rotateZ(90deg);}
+												.wall_:nth-child(5){transform: rotateX(90deg) translateX(0px) translateY(-50px) translateZ(-50px) rotateZ(90deg);}
+												.wall_:nth-child(6){transform: rotateX(90deg) translateX(0px) translateY(-50px) translateZ(50px) rotateY(180deg) rotateZ(90deg);;}
+												.boxx{display: block;position:relative;animation-name:rotateBoxx, rise;animation-duration: 42s; animation-iteration-count: infinite, 1;animation-timing-function: cubic-bezier(1, 0, 0, 1), linear ;-webkit-transform-style: preserve-3d;-webkit-perspective: 0px;width: 0;height: 500px;transform-origin:0% 0% 0%;}
+												.shrine_{position:relative;height:0; left:-40px ; width: 0px; top:-265px; right: 0; margin-right: auto ; margin-left: auto;}
+/* Kubus Ani nicht gleich starten */
+												.room_ {display:none;} 
+												.p55z {opacity:.5;}
+												
+/* Teelicht oben */
+												.holder { margin: 0em; margin-left:5em; margin-bottom:1em; width: 59%; height: -300px; position: 400px; display:none;} 
+												.holder *, .holder *:before, .holder *:after {float:center; position: absolute; margin-bottom:5em; content: "";}
+												.candle { bottom: -40px; width: 160px; height: 120px; left: 100px; border-radius: 120px / 45px; box-shadow: inset 20px -30px 70px 0 rgba(0, 0, 0, .4), inset -40px 0 70px 0 rgba(0, 0, 0, .4); background: #000000; background: -moz-linear-gradient(#e48825, #e78e0e, #833c03, #4c1a03 50%, #1c0900); background: -webkit-linear-gradient(#e48825, #e78e0e, #833c03, #4c1a03 50%, #1c0900); background: -o-linear-gradient(#e48825, #e78e0e, #833c03, #4c1a03 50%, #1c0900); background: -ms-linear-gradient(#e48825, #e78e0e, #833c03, #4c1a03 50%, #1c0900); background: linear-gradient(#e48825, #e78e0e, #833c03, #4c1a03 50%, #1c0900);}
+												.candle:before { width: 105px; height: 25px; left: 29px; top: 4px; border-radius: 50%; border: 5px solid #b16000; box-shadow: 0  20px 20px  0 rgba(0, 0, 0, .5); background: #b86409; background: -moz-radial-gradient(#eaa121, #8e4901 45%, # 80%); background: -webkit-radial-gradient(#eaa121, #8e4901 45%, #b86409 80%); background: -o-radial-gradient(#eaa121, #8e4901 45%, #b86409 80%); background: -ms-radial-gradient(#eaa121, #8e4901 45%, #b86409 80%); background: radial-gradient(#fff4a6, #b86409 60%);  background: radial-gradient(#eaa121, #8e4901 45%, #b86409 80%); }
+												.candle:after { width: 80px; height: 10px; left: 80px; transform: translateX(-50%); border-radius: 50%; top: 8px; box-shadow: 0 0 20px 0 rgba(0, 0, 0, .25); background: -moz-radial-gradient(rgba(0, 0, 0, .4), transparent 45%); background: -webkit-radial-gradient(rgba(0, 0, 0, .4), transparent 45%); background: -o-radial-gradient(rgba(0, 0, 0, .4), transparent 45%);  background: -ms-radial-gradient(rgba(0, 0, 0, .4), transparent 45%); background: radial-gradient(rgba(0, 0, 0, .4), transparent 45%); }
+												.thread { width: 6px; height: 24px; top: -9px; left: 50%; z-index: 1; border-radius: 80% 80% 25% 25%; transform: translateX(-50%); opacity: 48%; background: #292929; background: -moz-linear-gradient(#ff2800, black, black, black, #e8bb31 88%); background: -webkit-linear-gradient(#ff2800, black, black, black, #e8bb31 88%); background: -o-linear-gradient(#ff2800, black, black, black, #e8bb31 88%); background: -ms-linear-gradient(#ff2800, black, black, black, #e8bb31 88%); background: linear-gradient(#ff2800, black, black, black, #e8bb31 88%); }
+												.flame { width: 19px; height: 70px; left: 50%; transform-origin: 50% 100%; transform: translateX(-50%); bottom: 28px; border-radius: 50% 50% 30% 30%; background: rgba(255, 215, 158, .5); background: -moz-linear-gradient(#ffd89f 50%, transparent); background: -webkit-linear-gradient(#ffd89f 50%, transparent); background: -o-linear-gradient(#ffd89f 50%, transparent); background: -ms-linear-gradient(#ffd89f 50%, transparent); background: linear-gradient(#ffd89f 50%, transparent); animation: moveFlame 7s linear infinite, enlargeFlame 16s linear infinite;animation-timing-function: cubic-bezier(1, .5, .5, 1);}
+												.flame:before { width: 95%; height: 100%; margin-top:0px; margin-left:-.564em; border-radius: 50% 50% 30% 30%; box-shadow: 0 0 135px 135px rgba(247, 93, 0, .2), 0 -4px 4px 0 rgba(247, 128, 0, .72);}
+												.glow { width: 1em; height: 30px; border-radius: 70% 70% 70% 70%; left: 50%;  top: -20px; transform: translateX(-50%); background: rgba(0, 133, 255, .66);}
+												.blinking-blow { width: 140px; height: 200px; left: 50%; top: -112%; transform: translateX(-50%); border-radius: 50%; background: #ff6000; -webkit-filter: blur(50px); -moz-filter: blur(60px); -o-filter: blur(60px); -ms-filter: blur(60px); filter: blur(60px); animation: blinkIt 16s infinite; animation-timing-function: cubic-bezier(1, .5, .5, 1)}
+												.glow:before { width: .77em; height:1.35em; left: 50%; transform: translateX(-50%); top: .48em; border-radius: 50%; background: rgba(0, 0, 0, .62); }	
+												
+												@keyframes moveFlame { 0%, 100% { transform: translateX(-50%) rotate(-2.1deg); animation-timing-function: cubic-bezier(1, .5, .5, 1)} 50% { transform: translateX(-50%) rotate(2.1deg); animation-timing-function: cubic-bezier(1, .5, .5, 1) }}
+												@keyframes enlargeFlame { 0%, 100% { height: 90px; } 50% { height: 45px; }}
+												@keyframes blinkIt { 50% { opacity: .24;}}
+												
+												
+/* Kerze klein unten */
+												.holder2 { margin: 0em; margin-left:5em; margin-top:-5em; width: 39%; height: -100px; position:(80px); display:none; } 
+												.holder2 *, .holder2 *:before, .holder2 *:after {float:right; position: absolute; content: "";}
+												.candle2 { top:(margin-top:-1em); bottom:(margin-bottom:0em); position:0px;float:right; width: 40px; height: 80px; right: 230px; border-radius: 45px / 15px; box-shadow: inset 20px -30px 20px 0 rgba(0, 0, 0, .4), inset -40px 0 20px 0 rgba(0, 0, 0, .4); background: #000000; background: -moz-linear-gradient(#e48825, #e78e0e, #833c03, #4c1a03 20%, #1c0900); background: -webkit-linear-gradient(#e48825, #e78e0e, #833c03, #4c1a03 50%, #1c0900); background: -o-linear-gradient(#e48825, #e78e0e, #833c03, #4c1a03 50%, #1c0900); background: -ms-linear-gradient(#e48825, #e78e0e, #833c03, #4c1a03 50%, #1c0900); background: linear-gradient(#e48825, #e78e0e, #833c03, #4c1a03 50%, #1c0900);}
+												.candle2:before {float:right; width: 27px;position:48px; top: 2px; height: 2px; right: 7px; border-radius: 50%; border: 3px solid #b16000; box-shadow: 0  2px 2px  0 rgba(0, 0, 0, .5); background: #b86409; background: -moz-radial-gradient(#eaa121, #8e4901 45%, # 80%); background: -webkit-radial-gradient(#eaa121, #8e4901 45%, #b86409 80%); background: -o-radial-gradient(#eaa121, #8e4901 45%, #b86409 80%); background: -ms-radial-gradient(#eaa121, #8e4901 45%, #b86409 80%); background: radial-gradient(#fff4a6, #b86409 60%);  background: radial-gradient(#eaa121, #8e4901 45%, #b86409 80%);}
+												.candle:after { width: 80px; height: 20px; left: 80px; transform: translateX(-50%); border-radius: 50%; top: 7px; box-shadow: 0 0 20px 0 rgba(0, 0, 0, .65); background: -moz-radial-gradient(rgba(0, 0, 0, .4), transparent 45%); background: -webkit-radial-gradient(rgba(0, 0, 0, .4), transparent 45%); background: -o-radial-gradient(rgba(0, 0, 0, .4), transparent 45%);  background: -ms-radial-gradient(rgba(0, 0, 0, .4), transparent 45%); background: radial-gradient(rgba(0, 0, 0, .4), transparent 45%); }
+												.thread2 { width: 4px; height: 18px; top: -12px; left: 50%; z-index: 1; border-radius: 80% 80% 25% 25%; transform: translateX(-50%); opacity: 48%; background: #292929; background: -moz-linear-gradient(#ff2800, black, black, black, #e8bb31 78%); background: -webkit-linear-gradient(#ff2800, black, black, black, #e8bb31 78%); background: -o-linear-gradient(#ff2800, black, black, black, #e8bb31 78%); background: -ms-linear-gradient(#ff2800, black, black, black, #e8bb31 78%); background: linear-gradient(#ff2800, black, black, black, #e8bb31 78%); }
+												.flame2 { width: 15px; height: 70px; left: 50%; transform-origin: 50% 100%; transform: translateX(-30%); bottom: 80px; border-radius: 50% 50% 30% 30%; background: rgba(255, 215, 158, .5); background: -moz-linear-gradient(#ffd89f 50%, transparent); background: -webkit-linear-gradient(#ffd89f 50%, transparent); background: -o-linear-gradient(#ffd89f 50%, transparent); background: -ms-linear-gradient(#ffd89f 50%, transparent); background: linear-gradient(#ffd89f 50%, transparent); animation: moveFlame2_ 7s linear infinite, blinkIt2__ 16s linear infinite;animation-timing-function: cubic-bezier(1, .5, .5, 1);}
+												.flame2:before { width: 95%; height: 100%; margin-top:0px; left:.03em; border-radius: 50% 50% 30% 30%; box-shadow: 0 0 135px 135px rgba(247, 93, 0, .2), 0 -5px 4px 0 rgba(247, 128, 0, .72);}
+												.glow2 { width: .75em; height: 26px; border-radius: 70% 70% 70% 70%; left: 50%; top: -1.5em; transform: translateX(-50%); background: rgba(0, 133, 255, .66);}
+												.blinking-blow2 { width: 140px; height: 200px; left: 50%; top: -182%; transform: translateX(-50%); border-radius: 50%; background: #ff6000; -webkit-filter: blur(50px); -moz-filter: blur(60px); -o-filter: blur(60px); -ms-filter: blur(60px); filter: blur(60px); animation: blinkIt2 16s infinite; animation-timing-function: cubic-bezier(1, .5, .5, 1)} 
+												.glow2:before { width: .51em; height:1.2em; left: 50%; transform: translateX(-50%); top: .41em; border-radius: 50%; background: rgba(0, 0, 0, .52); }	
+												
+												@keyframes moveFlame2_ { 0%, 100% { transform: translateX(-50%) rotate(-2.1deg); animation-timing-function: cubic-bezier(1, .5, .5, 1)} 50% { transform: translateX(-50%) rotate(2.1deg); animation-timing-function: cubic-bezier(1, .5, .5, 1) }}
+												@keyframes blinkIt2__ { 0%, 100% { height: 85px; } 50% { height: 45px; }}
+												@keyframes blinkIt2 { 50% { opacity: .24;}}
+												
+												
+/* Browser Ani Hilfe & Text anwählbar */
+												:root {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;-ms-box-sizing: border-box;-o-box-sizing: border-box;box-sizing: border-box;-webkit-user-select: text;-moz-user-select: text; -ms-user-select: text;-o-user-select: text;user-select: text;}
+																								
+												*,:before,:after {-webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit;}
+/* Links nicht markieren */
+												a, a:link, a:visited { text-decoration: none;}
+
+/* Bilder erst mal gleich ausblenden */
+												/* .pic {display:none;} */ 
+												
+/* Verse erst mal gleich ausblenden */
+												/* p4 {display:none;} */ 
+
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
