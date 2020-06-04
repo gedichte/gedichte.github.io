@@ -240,10 +240,10 @@
 												p10_ani_7g{font-weight:300;font-size:.313em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#bab12d; opacity:.62;}
 												p10_ani_7r{font-weight:300;font-size:.313em;line-height:0em;word-spacing:.031em;letter-spacing:.178em;color:#a98b0b; opacity:.62;}
 /* Smomby info Opera Add Blocker */
-												zo{font-weight:300;font-size:.688em;line-height:0em;word-spacing:.02em;letter-spacing:.154em;color:#ffa523; opacity:.62;}
-												zow{font-weight:300;font-size:.688em;line-height:0em;word-spacing:.02em;letter-spacing:.154em;color:#ff7700; opacity:1;}
-												zog{font-weight:300;font-size:.688em;line-height:0em;word-spacing:.02em;letter-spacing:.154em;color:#ba922d; opacity:1;}
-												zor{font-weight:300;font-size:.688em;line-height:0em;word-spacing:.02em;letter-spacing:.154em;color:#ba782d; opacity:1;}
+												zo{font-weight:300;font-size:.688em;line-height:0em;word-spacing:.02em;letter-spacing:.1em;color:#ffa523; opacity:.62;}
+												zow{font-weight:300;font-size:.688em;line-height:0em;word-spacing:.02em;letter-spacing:.1em;color:#ff7700; opacity:1;}
+												zog{font-weight:300;font-size:.688em;line-height:0em;word-spacing:.02em;letter-spacing:.1em;color:#ba922d; opacity:1;}
+												zor{font-weight:300;font-size:.688em;line-height:0em;word-spacing:.02em;letter-spacing:.1em;color:#ba782d; opacity:1;}
 /* Smomby info freie software */												
 												fs{font-weight:300;font-size:.5em;word-spacing:.007em;letter-spacing:.007em;color:#9694cc;opacity:.34;}
 												fsw{font-weight:300;font-size:.5em;word-spacing:.007em;letter-spacing:.007em;color:#bc1d00;opacity:.48;}
@@ -360,8 +360,8 @@
 												p18_1g{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.75em;margin-left:.25em;float:left;opacity: .38;  }
 												p18_1r{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.75em;margin-left:.25em;float:left;opacity: .38;  }
 /* Pfeil Symbol Aus Button Gedichte */
-												p18_2{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#ff7f00; margin-top:-3.875em;margin-left:.24em;float:left;opacity: .99;  }
-												p18_2w{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#de0000; margin-top:-3.875em;margin-left:.24em;float:left;opacity: .79;  }
+												p18_2{font-weight:300;font-size:.688em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#ff7f00; margin-top:-3.875em;margin-left:.188em;float:left;opacity: .99;  }
+												p18_2w{font-weight:300;font-size:.688em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#de0000; margin-top:-3.875em;margin-left:.188em;float:left;opacity: .79;  }
 												/* p18_2g{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#ff7f00; margin-top:-3.875em;margin-left:.24em;float:left;opacity: .99;  }
 												p18_2r{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#ff7f00; margin-top:-3.875em;margin-left:.24em;float:left;opacity: .99;  } */
 /* Inhalt Symbol Ein Button Gedichte */	
@@ -380,18 +380,16 @@
 												/* p18_4g{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-2.063em;margin-right:-5.75em;float:right;opacity: .52;  }
 												p18_4r{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-2.063em;margin-right:-5.75em;float:right;opacity: .62;  } */
 /* Pfeil Symbol Aus Button Youtube Video*/
-												p18_5{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#ff7f00; margin-top:-3.75em;margin-left:.24em;float:left;opacity: .99;  }
-												p18_5w{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#de0000; margin-top:-3.75em;margin-left:.24em;float:left;opacity: .79;  }
+												p18_5{font-weight:300;font-size:.688em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#ff7f00; margin-top:-3.75em;margin-left:.188em;float:left;opacity: .99;  }
+												p18_5w{font-weight:300;font-size:.688em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#de0000; margin-top:-3.75em;margin-left:.188em;float:left;opacity: .79;  }
 												/* p18_5g{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#ff7f00; margin-top:-3.75em;margin-left:.24em;float:left;opacity: .99;  }
 												p18_5r{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#ff7f00; margin-top:-3.75em;margin-left:.24em;float:left;opacity: .99;  } */
 /* Musik Symbol Ein Button Youtube Video */
-												p18_6{font-weight:300;font-size:.75em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-2.922em;margin-right:4.314em;float:right;opacity: .36  }
+												p18_6{font-weight:300;font-size:.75em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-2.938em;margin-right:4.314em;float:right;opacity: .36  }
 												p18_6w{font-weight:300;font-size:.75em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#098300; margin-top:-2.938em;margin-right:4.314em;float:right;opacity: .32  }
-												/* p18_6g{font-weight:300;font-size:.75em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-2.938em;margin-right:3.938em;float:right;opacity: .28  }
-												p18_6r{font-weight:300;font-size:.75em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-2.938em;margin-right:4.138em;float:right;opacity: .42  } */
 /* Pfeil Symbol Gedichte Ein Button */
-												p18_7{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.75em;margin-right:.063em;float:right;opacity: .92;  }
-												p18_7w{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#029000; margin-top:-1.75em;margin-right:.063em;float:right;opacity: .9;  }
+												p18_7{font-weight:300;font-size:.688em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.75em;margin-right:.0em;float:right;opacity: .92;  }
+												p18_7w{font-weight:300;font-size:.688em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#029000; margin-top:-1.75em;margin-right:.0em;float:right;opacity: .9;  }
 												/* p18_7g{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.75em;margin-right:0em;float:right;opacity: .92;  }
 												p18_7r{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.75em;margin-right:0em;float:right;opacity: .92;  } */
 /* Inhalt Symbol Aus Button Gedichte */	
@@ -405,10 +403,10 @@
 												p18_8bg{font-weight:300;font-size:.8em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.842em;margin-left:.255em;float:left;opacity: .14;  }
 												p18_8br{font-weight:300;font-size:.8em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.842em;margin-left:.255em;float:left;opacity: .243;  }
 /* Ein Pfeil Youtube Video */
-												p18_9{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.563em;margin-right:.063em;float:right;opacity: .92;  }
-												p18_9w{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#029000; margin-top:-1.563em;margin-right:.063em;float:right;opacity: .9;  }
-												p18_9g{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.563em;margin-right:.063em;float:right;opacity: .92;  }
-												p18_9r{font-weight:300;font-size:.7em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.563em;margin-right:.063em;float:right;opacity: .92;  }
+												p18_9{font-weight:300;font-size:.688em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.625em;margin-right:.0em;float:right;opacity: .92;  }
+												p18_9w{font-weight:300;font-size:.688em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#029000; margin-top:-1.625em;margin-right:.0em;float:right;opacity: .9;  }
+												p18_9g{font-weight:300;font-size:.688em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.625em;margin-right:.0em;float:right;opacity: .92;  }
+												p18_9r{font-weight:300;font-size:.688em;line-height:0em;word-spacing:.031em;letter-spacing:.21em;color:#00ff0d; margin-top:-1.625em;margin-right:.0em;float:right;opacity: .92;  }
 /* Hinw. oben G. Aus, A. Aus = Nur V. o. B. */
 												p19{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#5a55a0; margin-left:.75em;}
 												p19w{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#989ac4; margin-left:.75em;}
@@ -496,6 +494,16 @@
 												p30w{font-weight:300;font-size:12px;color:#ffddad;margin-top:-1.5em;margin-right:-.25em;float:right; }
 												p30g{font-weight:300;font-size:12px;color:#353400;margin-top:-1.5em;margin-right:-.25em;float:right; }
 												p30r{font-weight:300;font-size:12px;color:#4f0100;margin-top:-1.5em;margin-right:-.25em;float:right; }
+/* LED	Farben */		
+												p30f{font-weight:300;font-size:12px;color:#514d8f;margin-top:-1.5em;margin-right:-.25em;float:right;opacity:.042; }
+												p30fw{font-weight:300;font-size:12px;color:#ffddad;margin-top:-1.5em;margin-right:-.25em;float:right;opacity:.042; }
+												p30fg{font-weight:300;font-size:12px;color:#353400;margin-top:-1.5em;margin-right:-.25em;float:right;opacity:.042; }
+												p30fr{font-weight:300;font-size:12px;color:#4f0100;margin-top:-1.5em;margin-right:-.25em;float:right;opacity:.042; }
+/* LED	hoch runter */		
+												p30hb{font-weight:300;font-size:12px;color:#514d8f;margin-top:-1.5em;margin-right:-.25em;float:right;opacity:.042; }
+												p30hbw{font-weight:300;font-size:12px;color:#ffddad;margin-top:-1.5em;margin-right:-.25em;float:right;opacity:.042; }
+												p30hbg{font-weight:300;font-size:12px;color:#353400;margin-top:-1.5em;margin-right:-.25em;float:right;opacity:.042; }
+												p30hbr{font-weight:300;font-size:12px;color:#4f0100;margin-top:-1.5em;margin-right:-.25em;float:right;opacity:.042; }
 /* noscript java info */						
 												p31nm{font-weight:300;font-size:.7em;color:#d574ff;line-height:.0em;word-spacing:.02em;letter-spacing:.178em;opacity:.94;}
 												p31nmw{font-weight:300;font-size:.7em;color:#0015ff;line-height:.0em;word-spacing:.02em;letter-spacing:.178em;opacity:1;}
@@ -548,19 +556,19 @@
 												.button3 {background-image: linear-gradient(to top, #2d2d09 60%, #767600 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:5.3em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;}
 												.button3:active { background-image: linear-gradient(to top, #767600 60%, #1c4e00 100%);box-shadow: 0px 0px 2px 2px #a4ff8e;border-color: #535300;}
 												
-												.button3w {background-image: linear-gradient(to top, #5e0000 60%, #ce0000 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:5.3em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;margin-right:.375em;}
+												.button3w {background-image: linear-gradient(to top, #5e0000 60%, #ce0000 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:5.3em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;}
 												.button3w:active { background-image: linear-gradient(to top, #ce0000 60%, #980000 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
 /* rote Hinter grund farbe */					
-												.button44 {background-image: linear-gradient(to top, #5e0000 60%, #ce0000 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:5.3em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;margin-right:.375em;}
+												.button44 {background-image: linear-gradient(to top, #5e0000 60%, #ce0000 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:5.3em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;}
 												.button44:active { background-image: linear-gradient(to top, #ce0000 60%, #7c0000 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
 												
-												.button44w {background-image: linear-gradient(to top, #5e0000 60%, #ce0000 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:5.3em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;margin-right:.375em;}
+												.button44w {background-image: linear-gradient(to top, #5e0000 60%, #ce0000 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:5.3em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;}
 												.button44w:active { background-image: linear-gradient(to top, #ce0000 60%, #7c0000 100%);box-shadow: 0px 0px 2px 2px #209803;border-color: #535300;}
 /* runter */
-												.button4 {background-image: linear-gradient(to top, #0055ff 60%, #00acff 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:10.1em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:-.125em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;margin-right:.375em;}
+												.button4 {background-image: linear-gradient(to top, #0055ff 60%, #00acff 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:10.1em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:-.125em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;}
 												.button4:active { background-image: linear-gradient(to top, #4080ff 60%, #004e73 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
 /* hoch */
-												.button4u {background-image: linear-gradient(to top, #0055ff 60%, #00acff 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:10.1em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;margin-right:.375em;} 
+												.button4u {background-image: linear-gradient(to top, #0055ff 60%, #00acff 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:10.1em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;} 
 												.button4u:active { background-image: linear-gradient(to top, #4080ff 60%, #004e73 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
 /* Aquarelle Aus oben */
 												.button7 {background-image: linear-gradient(to top, #aa2a00 60%, #d97900 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 5px .0em;width:12.2em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;}
@@ -605,16 +613,16 @@
 												.button42r {background-image: linear-gradient(to top, #4d0000 60%, #670000 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 0px 2px;width:7em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;word-spacing:.031em;letter-spacing:.1em;border-radius: 13px;opacity:.7;}
 												.button42r:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;}
 /* schliessen Gedichte mit Bildern */
-												.button42a {background-image: linear-gradient(to top, #484480 60%, #575399 100%);border: 0;border-color: #99991d;color: #ff7f00;text-align: center;text-decoration: none;padding: 6px 22px;width:70px;display: inline-block;font-size: 12px;cursor: pointer;border-radius: 8px;opacity:.62;}
+												.button42a {background-image: linear-gradient(to top, #484480 60%, #575399 100%);border: 0;border-color: #99991d;color: #ff7f00;text-align: center;text-decoration: none;padding: 6px 22px;width:70px;display: inline-block;font-size: 11px;cursor: pointer;border-radius: 8px;opacity:.62;}
 												.button42a:active { background-image: linear-gradient(to top, #5e58a8 60%, #6b64c0 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;border: 1;}
 												
-												.button42aw {background-image: linear-gradient(to top, #ffe0b3 60%, #fff9f1 100%);border: 0;border-color: #99991d;color: #de0000;text-align: center;text-decoration: none;padding: 6px 22px;width:70px;display: inline-block;font-size: 12px;cursor: pointer;border-radius: 8px;opacity:.62;}
+												.button42aw {background-image: linear-gradient(to top, #ffe0b3 60%, #fff9f1 100%);border: 0;border-color: #99991d;color: #de0000;text-align: center;text-decoration: none;padding: 6px 22px;width:70px;display: inline-block;font-size: 11px;cursor: pointer;border-radius: 8px;opacity:.62;}
 												.button42aw:active { background-image: linear-gradient(to top, #ecc790 60%, #fff1dd 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#de0000;border: 1;}
 												
-												.button42ag {background-image: linear-gradient(to top, #39390c 60%, #49490d 100%);border: 0;border-color: #99991d;color: #ff7f00;text-align: center;text-decoration: none;padding: 6px 22px;width:70px;display: inline-block;font-size: 12px;cursor: pointer;border-radius: 8px;opacity:.62;}
+												.button42ag {background-image: linear-gradient(to top, #39390c 60%, #49490d 100%);border: 0;border-color: #99991d;color: #ff7f00;text-align: center;text-decoration: none;padding: 6px 22px;width:70px;display: inline-block;font-size: 11px;cursor: pointer;border-radius: 8px;opacity:.62;}
 												.button42ag:active { background-image: linear-gradient(to top, #4d4d0c 60%, #60600e 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;border: 1;}
 												
-												.button42ar {background-image: linear-gradient(to top, #4d0000 60%, #670000 100%);border: 0;border-color: #99991d;color: #ff7f00;text-align: center;text-decoration: none;padding: 6px 22px;width:70px;display: inline-block;font-size: 12px;cursor: pointer;border-radius: 8px;opacity:.62;}
+												.button42ar {background-image: linear-gradient(to top, #4d0000 60%, #670000 100%);border: 0;border-color: #99991d;color: #ff7f00;text-align: center;text-decoration: none;padding: 6px 22px;width:70px;display: inline-block;font-size: 11px;cursor: pointer;border-radius: 8px;opacity:.62;}
 												.button42ar:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;border: 1;}
 /* Gedichte Ein */
 												.button32 {background-image: linear-gradient(to top, #484480 60%, #575399 100%);border: 0;border-color: #4f0000;color:#7f7f7f;text-align: center;text-decoration: none;padding: 12px 24px;display: inline-block;font-size: 12px;cursor: pointer;word-spacing:.031em;letter-spacing:.1em;float:right;margin-top:-4.2em;border-radius: 8px;opacity:.7;}
