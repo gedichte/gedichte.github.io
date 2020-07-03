@@ -1,23 +1,18 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 
-
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <sitemap>
+
+   <url>
 
       <loc>https://gedichte.github.io/</loc>
-      
-   </sitemap>
 
- https://gedichte.github.io/index.html
- https://gedichte.github.io/index2.html
- https://gedichte.github.io/index3.html
- https://gedichte.github.io/index4.html
- https://gedichte.github.io/index5.html
- https://gedichte.github.io/index6.html
- https://gedichte.github.io/index7.html
- https://gedichte.github.io/index8.html
+      <lastmod>2020-07-03</lastmod>
 
+      <changefreq>weekly</changefreq>
 
+      <priority>0.5</priority>
+
+   </url>
 
 </urlset> 
-
