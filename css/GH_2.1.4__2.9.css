@@ -91,7 +91,7 @@
 /* Youtube Video Button */
 												.YB{margin-top:.625em;}
 /* Video Box Youtube */	
-												.VB{position: relative; max-width: 44.875em; margin: auto;}
+												.VB{position: relative; max-width: 45em; margin: auto;}
 /* Auf grösse regulieren */	
 												.VB:before{ content: ""; display: block; padding-top: 56%;}
 /* iframe für eingebettetes Video */
