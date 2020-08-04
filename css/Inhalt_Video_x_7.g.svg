@@ -26,16 +26,16 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="823"
-   inkscape:window-height="433"
+   inkscape:window-width="1920"
+   inkscape:window-height="1018"
    id="namedview913"
    showgrid="false"
-   inkscape:zoom="3.3133095"
-   inkscape:cx="141.55522"
-   inkscape:cy="48.10665"
-   inkscape:window-x="728"
-   inkscape:window-y="111"
-   inkscape:window-maximized="0"
+   inkscape:zoom="3.1876414"
+   inkscape:cx="234.36812"
+   inkscape:cy="10.324587"
+   inkscape:window-x="-8"
+   inkscape:window-y="32"
+   inkscape:window-maximized="1"
    inkscape:current-layer="svg843" /><metadata
    id="metadata849"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
@@ -234,6 +234,7 @@
      y="201.62581"
      style="font-size:6.51750946px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.32144168;stroke-opacity:1"
      id="tspan1934">1:20:46 Jaguar Sun – ‘Keep You Warm’</tspan></text>
+
 
 
 
@@ -542,7 +543,7 @@
    id="path6006"
    class="letters" /><path
    style="opacity:0.51960784;fill:none;fill-opacity:1;stroke:#fffb00;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   d="M 229.99299,25.018739 186.7273,96.225263 c -37.95117,61.926237 4.14627,94.006297 39.08803,97.022147 l 11.38016,-0.16144 c 32.13393,-3.32779 82.04937,-28.06555 32.32052,-107.055999 z"
+   d="M 229.99299,25.018739 186.7273,96.225263 c -37.95117,61.926237 3.86899,93.839927 38.81075,96.855777 3.30387,0.30974 7.37274,0.3921 11.65744,0.005 32.13393,-3.32779 82.04937,-28.06555 32.32052,-107.055999 z"
    id="path6012"
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="cccccc"
