@@ -634,23 +634,23 @@
 												.button42ar {background-image: linear-gradient(to top, #4d0000 60%, #670000 100%);border: 0;border-color: #99991d;color: #ff7f00;text-align: center;text-decoration: none;padding: 6px 22px;width:70px;display: inline-block;font-size: 9px;cursor: pointer;border-radius: 8px;opacity:.62;}
 												.button42ar:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;border: 1;}
 /* Tracklist & timing */					
-												.button42al1 {background-image: linear-gradient(to top, #4d0000 60%, #670000 100%);border: 0;border-color: #99991d;color: #ff7f00;text-align: center;text-decoration: none;padding: 4px 10px;width:80px;display: inline-block;font-size: 8px;cursor: pointer;border-radius: 8px;opacity:.42;}
-												.button42al1:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;border: 1;}
+												.button42al1 {background-image: linear-gradient(to top, #484480 60%, #575399 100%);border: 0;border-color: #99991d;color: #ff7f00;text-align: center;text-decoration: none;padding: 4px 10px;width:80px;display: inline-block;font-size: 8px;cursor: pointer;border-radius: 8px;opacity:.42;}
+												.button42al1:active { background-image: linear-gradient(to top, #5e58a8 60%, #6b64c0 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;border: 1;}
 												
-												.button42al2 {background-image: linear-gradient(to top, #4d0000 60%, #670000 100%);border: 0;border-color: #99991d;color: #1bea00;text-align: center;text-decoration: none;padding: 4px 10px;width:80px;display: inline-block;font-size: 8px;cursor: pointer;border-radius: 8px;opacity:.42;}
-												.button42al2:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#b2ff7d;border: 1;}
+												.button42al2 {background-image: linear-gradient(to top, #484480 60%, #575399 100%);border: 0;border-color: #99991d;color: #1bea00;text-align: center;text-decoration: none;padding: 4px 10px;width:80px;display: inline-block;font-size: 8px;cursor: pointer;border-radius: 8px;opacity:.42;}
+												.button42al2:active { background-image: linear-gradient(to top, #5e58a8 60%, #6b64c0 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#b2ff7d;border: 1;}
 												
-												.button42aw1 {background-image: linear-gradient(to top, #4d0000 60%, #670000 100%);border: 0;border-color: #99991d;color: #ff7f00;text-align: center;text-decoration: none;padding: 4px 10px;width:80px;display: inline-block;font-size: 8px;cursor: pointer;border-radius: 8px;opacity:.42;}
-												.button42aw1:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;border: 1;}
+												.button42aw1 {background-image: linear-gradient(to top, #ffe0b3 60%, #fff9f1 100%);border: 0;border-color: #99991d;color: #ff7f00;text-align: center;text-decoration: none;padding: 4px 10px;width:80px;display: inline-block;font-size: 8px;cursor: pointer;border-radius: 8px;opacity:.52;}
+												.button42aw1:active { background-image: linear-gradient(to top, #ecc790 60%, #fff1dd 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#bc1d00;border: 1;}
 												
-												.button42aw2 {background-image: linear-gradient(to top, #4d0000 60%, #670000 100%);border: 0;border-color: #99991d;color: #1bea00;text-align: center;text-decoration: none;padding: 4px 10px;width:80px;display: inline-block;font-size: 8px;cursor: pointer;border-radius: 8px;opacity:.42;}
-												.button42aw2:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#b2ff7d;border: 1;}
+												.button42aw2 {background-image: linear-gradient(to top, #ffe0b3 60%, #fff9f1 100%);border: 0;border-color: #99991d;color: #006202;text-align: center;text-decoration: none;padding: 4px 10px;width:80px;display: inline-block;font-size: 8px;cursor: pointer;border-radius: 8px;opacity:.52;}
+												.button42aw2:active { background-image: linear-gradient(to top, #ecc790 60%, #fff1dd 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#194b2b;border: 1;}
 																								
-												.button42ag1 {background-image: linear-gradient(to top, #4d0000 60%, #670000 100%);border: 0;border-color: #99991d;color: #ff7f00;text-align: center;text-decoration: none;padding: 4px 10px;width:80px;display: inline-block;font-size: 8px;cursor: pointer;border-radius: 8px;opacity:.42;}
-												.button42ag1:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;border: 1;}
+												.button42ag1 {background-image: linear-gradient(to top, #39390c 60%, #49490d 100%);border: 0;border-color: #99991d;color: #ff7f00;text-align: center;text-decoration: none;padding: 4px 10px;width:80px;display: inline-block;font-size: 8px;cursor: pointer;border-radius: 8px;opacity:.42;}
+												.button42ag1:active { background-image: linear-gradient(to top, #4d4d0c 60%, #60600e 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;border: 1;}
 												
-												.button42ag2 {background-image: linear-gradient(to top, #4d0000 60%, #670000 100%);border: 0;border-color: #99991d;color: #1bea00;text-align: center;text-decoration: none;padding: 4px 10px;width:80px;display: inline-block;font-size: 8px;cursor: pointer;border-radius: 8px;opacity:.42;}
-												.button42ag2:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#b2ff7d;border: 1;}
+												.button42ag2 {background-image: linear-gradient(to top, #39390c 60%, #49490d 100%);border: 0;border-color: #99991d;color: #1bea00;text-align: center;text-decoration: none;padding: 4px 10px;width:80px;display: inline-block;font-size: 8px;cursor: pointer;border-radius: 8px;opacity:.42;}
+												.button42ag2:active { background-image: linear-gradient(to top, #4d4d0c 60%, #60600e 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#b2ff7d;border: 1;}
 												
 												.button42ar1 {background-image: linear-gradient(to top, #4d0000 60%, #670000 100%);border: 0;border-color: #99991d;color: #ff7f00;text-align: center;text-decoration: none;padding: 4px 10px;width:80px;display: inline-block;font-size: 8px;cursor: pointer;border-radius: 8px;opacity:.42;}
 												.button42ar1:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;border: 1;}
