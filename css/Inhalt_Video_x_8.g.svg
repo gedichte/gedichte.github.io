@@ -64,7 +64,7 @@
    height="206.52734"
    width="301.34671"
    id="rect872"
-   style="opacity:0.51960784;fill:#194b2b;fill-opacity:1;stroke:none;stroke-width:0.54606932;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.76435256, 0.54596612;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+   style="opacity:0.71960784;fill:#194b2b;fill-opacity:1;stroke:none;stroke-width:0.54606932;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.76435256, 0.54596612;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.41931784;stroke-miterlimit:2;stroke-dasharray:1.98666943, 1.41904958;stroke-dashoffset:0;stroke-opacity:1"
@@ -184,7 +184,7 @@
    y="4.3535819"
    class="innerFrame" /><text
    xml:space="preserve"
-   style="font-size:20.91031456px;fill:#27130f;fill-opacity:0.94117647;stroke:#ffffff;stroke-width:1.07862389;stroke-miterlimit:2;stroke-dasharray:1.5097879, 1.07841994;stroke-dashoffset:0;stroke-opacity:1"
+   style="font-size:20.91031456px;fill:#f29116;fill-opacity:0.94117647;stroke:#ffffff;stroke-width:1.07862389;stroke-miterlimit:2;stroke-dasharray:1.5097879, 1.07841994;stroke-dashoffset:0;stroke-opacity:1"
    x="121.14907"
    y="67.302155"
    id="text5587"
@@ -194,11 +194,11 @@
      id="tspan5585"
      x="121.14907"
      y="67.302155"
-     style="fill:#27130f;fill-opacity:0.94117647;stroke:#ffffff;stroke-width:0.63214368;stroke-opacity:1">Summer Blend </tspan><tspan
+     style="fill:#f29116;fill-opacity:0.94117647;stroke:#ffffff;stroke-width:0.63214368;stroke-opacity:1">Summer Blend </tspan><tspan
      sodipodi:role="line"
      x="121.14907"
      y="93.440048"
-     style="fill:#27130f;fill-opacity:0.94117647;stroke:#ffffff;stroke-width:0.63214368;stroke-opacity:1"
+     style="fill:#f29116;fill-opacity:0.94117647;stroke:#ffffff;stroke-width:0.63214368;stroke-opacity:1"
      id="tspan5591">             2020</tspan></text>
 
 
@@ -312,19 +312,7 @@
    keyTimes="0;1"
    keySplines=".6  0    .4   1  "
    restart="whenNotActive" /> 
-	 <!--  <animateTransform
-	  id="layer2"
-         attributeName="transform"
-         type="rotate"
-         begin="image5631.click"
-         dur="6"
-         from="0,0,0"
-         to="360,0,0"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines="0  .5    1   1  "
-         restart="whenNotActive" />    -->
+	
         <animateTransform
    id="layer2"
    attributeName="transform"
