@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg843"
+   xml:space="preserve"
+   enable-background="new 0 0 370.4 370.4"
+   viewBox="0 0 300 170"
+   height="170"
+   width="300"
+   y="0px"
+   x="0px"
+   version="1.1"
+   sodipodi:docname="Inhalt_Video_x_6.g.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1018"
+   id="namedview913"
+   showgrid="false"
+   inkscape:zoom="2.0519126"
+   inkscape:cx="27.732196"
+   inkscape:cy="51"
+   inkscape:window-x="-8"
+   inkscape:window-y="32"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg843" /><metadata
+   id="metadata849"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs847" />
+    
+    
+    
+<style
+   id="style870">
+												.letters {animation: spinLeft 120s linear infinite; }
+												.outerFrame { animation: spinRight 90s linear infinite; }
+												.innerFrame { animation: spinRight 90s linear infinite; }
+												@-webkit-keyframes spinLeft {to {stroke-dashoffset: -500;} }
+												@keyframes spinLeft {to {stroke-dashoffset: -500;} }
+												@-webkit-keyframes spinRight {to {stroke-dashoffset: 500;} }
+												@keyframes spinRight {to {stroke-dashoffset: 500;} }
+</style>		
+		
+
+   
+   <rect
+   y="-5.3795404"
+   x="-3.7879872"
+   height="183.49678"
+   width="318.84018"
+   id="rect872"
+   style="opacity:0.713;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52945191;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.74109257, 0.52935182999999997;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9352932px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.76266742;stroke-miterlimit:2;stroke-dasharray:2.46726799, 1.76233426;stroke-dashoffset:0;stroke-opacity:1"
+   x="137.63129"
+   y="90.106903"
+   id="text1460"
+   class=""
+   transform="rotate(8.8942276)"><tspan
+     sodipodi:role="line"
+     x="137.63129"
+     y="90.106903"
+     style="font-size:19.8705864px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.40833816;stroke-opacity:1"
+     id="tspan5555">Noch in Arbeit</tspan><tspan
+     sodipodi:role="line"
+     x="137.63129"
+     y="105.99587"
+     style="font-size:9.9352932px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.40833816;stroke-opacity:1"
+     id="tspan5557" /></text>
+
+
+
+
+
+
+<rect
+   style="fill:none;stroke:#d1f6f1;stroke-width:0.86794877;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:3.02362968, 2.15971689;stroke-dashoffset:0;stroke-opacity:1"
+   id="rect1498"
+   width="292.41983"
+   height="162.19893"
+   x="3.8385439"
+   y="4.4127908"
+   class="innerFrame" />
+
+
+<g
+   inkscape:groupmode="layer"
+   id="layer1"
+   inkscape:label="Layer 1"
+   style="display:none"
+   transform="translate(0,-35)" /><g
+   inkscape:groupmode="layer"
+   id="layer2"
+   inkscape:label="Layer 2"
+   transform="translate(0,-35)">
+	 </g>
+	 
+	  <animateTransform
+   id="layer2"
+   attributeName="transform"
+   type="scale"
+   begin="image5631.click"
+   dur="6"
+   from="1"
+   to="0"
+   additive="sum"
+   calcMode="spline"
+   keyTimes="0;1"
+   keySplines=".6  0    .4   1  "
+   restart="whenNotActive" />
+        <animateTransform
+   id="layer2"
+   attributeName="transform"
+   type="translate"
+   begin="image5567.click"
+   dur="6"
+   from="0,0"
+   to="90,190"
+   additive="sum"
+   calcMode="spline"
+   keyTimes="0;1"
+   keySplines=".6  0    .4   1  "
+   restart="whenNotActive" />  
+       <animateTransform
+   id="layer2"
+   attributeName="transform"
+   type="rotate"
+   begin="image5631.click+2.6"
+   dur="6"
+   from="360,0,0"
+   to="-0,0,0"
+   additive="sum"
+   calcMode="spline"
+   keyTimes="0;1"
+   keySplines="1  .5    1   0  "
+   restart="whenNotActive" />   
+      <animateTransform
+   id="layer2"
+   attributeName="transform"
+   type="skewX"
+   begin="image5631.click"
+   dur="6"
+   from="0"
+   to="75"
+   additive="sum"
+   calcMode="spline"
+   keyTimes="0;1"
+   keySplines=".6  0    .4   1  "
+   restart="whenNotActive" />
+	  <animateTransform
+   id="layer2"
+   attributeName="transform"
+   type="skewX"
+   begin="image5631.click+6"
+   dur="6"
+   from="75"
+   to="0"
+   additive="sum"
+   calcMode="spline"
+   keyTimes="0;1"
+   keySplines=".6  0    .4   1  "
+   restart="whenNotActive" />
+       <animateTransform
+   id="layer2"
+   attributeName="transform"
+   type="scale"
+   begin="image5631.click+6"
+   dur="6"
+   from="0"
+   to="1"
+   additive="sum"
+   calcMode="spline"
+   keyTimes="0;1"
+   keySplines=".6  0    .4   1  "
+   restart="whenNotActive" /> 
+	 <!--  <animateTransform
+	  id="layer2"
+         attributeName="transform"
+         type="rotate"
+         begin="image5631.click"
+         dur="6"
+         from="0,0,0"
+         to="360,0,0"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines="0  .5    1   1  "
+         restart="whenNotActive" />    -->
+        <animateTransform
+   id="layer2"
+   attributeName="transform"
+   type="translate"
+   begin="image5631.click+6"
+   dur="3"
+   from="150,75"
+   to="0,0"
+   additive="sum"
+   calcMode="spline"
+   keyTimes="0;1"
+   keySplines=".5  0    .5   1  "
+   restart="whenNotActive" />  
+	 
+	 
+	 
+	 
+	 </svg>

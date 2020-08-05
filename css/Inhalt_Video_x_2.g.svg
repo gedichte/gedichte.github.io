@@ -10,8 +10,8 @@
    id="svg843"
    xml:space="preserve"
    enable-background="new 0 0 370.4 370.4"
-   viewBox="0 0 300 205"
-   height="205"
+   viewBox="0 0 300 170"
+   height="170"
    width="300"
    y="0px"
    x="0px"
@@ -31,7 +31,7 @@
    id="namedview913"
    showgrid="false"
    inkscape:zoom="2.0519126"
-   inkscape:cx="198.80845"
+   inkscape:cx="109.30104"
    inkscape:cy="128.97603"
    inkscape:window-x="-8"
    inkscape:window-y="32"
@@ -39,7 +39,7 @@
    inkscape:current-layer="svg843" /><metadata
    id="metadata849"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
    id="defs847" />
     
     
@@ -58,12 +58,12 @@
 
    
    <rect
-   y="-40.557972"
-   x="-14.997042"
-   height="289.25177"
-   width="330.04922"
+   y="-5.8668904"
+   x="-5.7373881"
+   height="185.44618"
+   width="312.01727"
    id="rect872"
-   style="opacity:0.674;fill:#4255aa;fill-opacity:1;stroke:none;stroke-width:0.67632145;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.94667104, 0.67619359999999995;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+   style="opacity:0.67400004;fill:#4255aa;fill-opacity:1;stroke:none;stroke-width:0.5265311;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.73700423, 0.52643159;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
 
 
 
@@ -71,12 +71,12 @@
 
 
 <rect
-   style="fill:none;stroke:#d1f6f1;stroke-width:0.955;stroke-miterlimit:10;stroke-dasharray:3.32688565,2.37632643;stroke-dashoffset:0;stroke-opacity:1;stroke-linejoin:round"
+   style="fill:none;stroke:#d1f6f1;stroke-width:0.86801755;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:3.02386926, 2.15988802;stroke-dashoffset:0;stroke-opacity:1"
    id="rect1498"
    width="292.41983"
-   height="196.3661"
+   height="162.22462"
    x="3.8385439"
-   y="5.2456131"
+   y="4.3870859"
    class="innerFrame" />
 
 
@@ -84,10 +84,12 @@
    inkscape:groupmode="layer"
    id="layer1"
    inkscape:label="Layer 1"
-   style="display:none" /><g
+   style="display:none"
+   transform="translate(0,-35)" /><g
    inkscape:groupmode="layer"
    id="layer2"
-   inkscape:label="Layer 2">
+   inkscape:label="Layer 2"
+   transform="translate(0,-35)">
 	 </g>
 	 
 	  <animateTransform
@@ -95,7 +97,7 @@
    attributeName="transform"
    type="scale"
    begin="rect872.click"
-   dur="4"
+   dur="3"
    from="1"
    to="0"
    additive="sum"
@@ -108,7 +110,7 @@
    attributeName="transform"
    type="translate"
    begin="rect872.click"
-   dur="4"
+   dur="3"
    from="0,0"
    to="0,0"
    additive="sum"
@@ -121,9 +123,9 @@
    attributeName="transform"
    type="rotate"
    begin="rect872.click+2"
-   dur="2"
-   from="360,0,0"
-   to="-0,0,0"
+   dur="3"
+   from="0,0,0"
+   to="-360,0,0"
    additive="sum"
    calcMode="spline"
    keyTimes="0;1"
@@ -134,9 +136,9 @@
    attributeName="transform"
    type="skewX"
    begin="rect872.click"
-   dur="4"
+   dur="3"
    from="0"
-   to="40"
+   to="90"
    additive="sum"
    calcMode="spline"
    keyTimes="0;1"
@@ -146,41 +148,41 @@
    id="layer2"
    attributeName="transform"
    type="skewX"
-   begin="rect872.click+4"
+   begin="rect872.click+3"
    dur="3"
    from="90"
    to="0"
    additive="sum"
    calcMode="spline"
    keyTimes="0;1"
-   keySplines="0  0    0   1  "
+   keySplines="1  0    0   1  "
    restart="whenNotActive" />
        <animateTransform
    id="layer2"
    attributeName="transform"
    type="scale"
-   begin="rect872.click+4"
+   begin="rect872.click+3"
    dur="3"
    from="0"
    to="1"
    additive="sum"
    calcMode="spline"
    keyTimes="0;1"
-   keySplines="0  0    0   1  "
+   keySplines="1  0    0   1  "
    restart="whenNotActive" /> 
 	
         <animateTransform
    id="layer2"
    attributeName="transform"
    type="translate"
-   begin="rect872.click+4"
+   begin="rect872.click+3"
    dur="3"
    from="0,0"
    to="0,0"
    additive="sum"
    calcMode="spline"
    keyTimes="0;1"
-   keySplines="0  0    0   1  "
+   keySplines="1  0    0   1  "
    restart="whenNotActive" />  
 	 
 	 
@@ -188,92 +190,94 @@
 	 
 	 <text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.06586647px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.96324778;stroke-miterlimit:2;stroke-dasharray:2.74802737, 1.96287669;stroke-dashoffset:0;stroke-opacity:1"
-   x="147.56456"
-   y="30.334059"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.11266232px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.61672056;stroke-miterlimit:2;stroke-dasharray:2.26298092, 1.61641494;stroke-dashoffset:0;stroke-opacity:1"
+   x="143.8125"
+   y="22.759783"
    id="text1460-2"
    class=""
    transform="scale(1.0228856,0.97762644)"><tspan
      sodipodi:role="line"
-     x="147.56456"
-     y="30.334059"
-     style="font-size:9.22155571px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.45480445;stroke-opacity:1"
+     x="143.8125"
+     y="22.759783"
+     style="font-size:7.59388542px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.37452823;stroke-opacity:1"
      id="tspan9053">Denken Sie daran, dass wir alle Brüder sind</tspan><tspan
      sodipodi:role="line"
-     x="147.56456"
-     y="41.399925"
-     style="font-size:9.22155571px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.45480445;stroke-opacity:1"
+     x="143.8125"
+     y="31.872444"
+     style="font-size:7.59388542px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.37452823;stroke-opacity:1"
      id="tspan9055">Alle Menschen, Tiere, Bäume, Steine und Winde</tspan><tspan
      sodipodi:role="line"
-     x="147.56456"
-     y="52.46579"
-     style="font-size:9.22155571px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.45480445;stroke-opacity:1"
+     x="143.8125"
+     y="40.985107"
+     style="font-size:7.59388542px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.37452823;stroke-opacity:1"
      id="tspan9057">Wir stammen alle von dem einen großen Wesen ab</tspan><tspan
      sodipodi:role="line"
-     x="147.56456"
-     y="63.531658"
-     style="font-size:9.22155571px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.45480445;stroke-opacity:1"
+     x="143.8125"
+     y="50.097771"
+     style="font-size:7.59388542px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.37452823;stroke-opacity:1"
      id="tspan9061">Es war immer da</tspan><tspan
      sodipodi:role="line"
-     x="147.56456"
-     y="74.597527"
-     style="font-size:9.22155571px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.45480445;stroke-opacity:1"
+     x="143.8125"
+     y="59.210434"
+     style="font-size:7.59388542px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.37452823;stroke-opacity:1"
      id="tspan9095">Bevor wir Menschen lebten und es nannten</tspan><tspan
      sodipodi:role="line"
-     x="147.56456"
-     y="85.663391"
-     style="font-size:9.22155571px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.45480445;stroke-opacity:1"
+     x="143.8125"
+     y="68.32309"
+     style="font-size:7.59388542px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.37452823;stroke-opacity:1"
      id="tspan9063">Bevor der erste Samen keimte</tspan><tspan
      sodipodi:role="line"
-     x="147.56456"
-     y="96.729256"
-     style="font-size:9.22155571px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.45480445;stroke-opacity:1"
+     x="143.8125"
+     y="77.435753"
+     style="font-size:7.59388542px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.37452823;stroke-opacity:1"
      id="tspan9125" /><tspan
      sodipodi:role="line"
-     x="147.56456"
-     y="107.79512"
-     style="font-size:9.22155571px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.45480445;stroke-opacity:1"
+     x="143.8125"
+     y="86.548416"
+     style="font-size:7.59388542px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.37452823;stroke-opacity:1"
      id="tspan9085">Heilung:</tspan><tspan
      sodipodi:role="line"
-     x="147.56456"
-     y="118.86099"
-     style="font-size:9.22155571px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.45480445;stroke-opacity:1"
-     id="tspan9087"></tspan><tspan
+     x="143.8125"
+     y="95.661079"
+     style="font-size:7.59388542px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.37452823;stroke-opacity:1"
+     id="tspan9087" /><tspan
      sodipodi:role="line"
-     x="147.56456"
-     y="129.92685"
-     style="font-size:9.22155571px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.45480445;stroke-opacity:1"
+     x="143.8125"
+     y="104.77374"
+     style="font-size:7.59388542px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.37452823;stroke-opacity:1"
      id="tspan9745">Christopher Juul</tspan><tspan
      sodipodi:role="line"
-     x="147.56456"
-     y="140.99272"
-     style="font-size:9.22155571px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.45480445;stroke-opacity:1"
+     x="143.8125"
+     y="113.88641"
+     style="font-size:7.59388542px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.37452823;stroke-opacity:1"
      id="tspan9089">Kai Uwe Faust</tspan><tspan
      sodipodi:role="line"
-     x="147.56456"
-     y="152.05859"
-     style="font-size:9.22155571px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.45480445;stroke-opacity:1"
+     x="143.8125"
+     y="122.99906"
+     style="font-size:7.59388542px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.37452823;stroke-opacity:1"
      id="tspan9101">Maria Franz</tspan><tspan
      sodipodi:role="line"
-     x="147.56456"
-     y="163.12445"
-     style="font-size:9.22155571px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.45480445;stroke-opacity:1"
+     x="143.8125"
+     y="132.11172"
+     style="font-size:7.59388542px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.37452823;stroke-opacity:1"
      id="tspan9739" /><tspan
      sodipodi:role="line"
-     x="147.56456"
-     y="174.19032"
-     style="font-size:9.22155571px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.45480445;stroke-opacity:1"
+     x="143.8125"
+     y="141.2244"
+     style="font-size:7.59388542px;text-align:center;text-anchor:middle;fill:#f6d3f5;fill-opacity:1;stroke:none;stroke-width:0.37452823;stroke-opacity:1"
      id="tspan9737">https://www.youtube.com/watch?v=7PBo83bPyOE</tspan><tspan
      sodipodi:role="line"
-     x="147.56456"
-     y="185.2562"
-     style="font-size:9.22155571px;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.45480445;stroke-opacity:1"
+     x="143.8125"
+     y="150.33707"
+     style="font-size:7.59388542px;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.37452823;stroke-opacity:1"
      id="tspan9109" /></text>
+
 
 <flowRoot
    xml:space="preserve"
    id="flowRoot8702"
-   style="fill:black;fill-opacity:1;stroke:none;font-family:Arial;font-style:normal;font-weight:normal;font-size:26.66666667px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Arial, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal"><flowRegion
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+   transform="translate(0,-35)"><flowRegion
      id="flowRegion8704"><rect
        id="rect8706"
        width="76.026627"
@@ -282,16 +286,17 @@
        y="151.39148" /></flowRegion><flowPara
      id="flowPara8708" /></flowRoot><text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99753952px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.71568627;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33740774"
-   x="9.99298"
-   y="192.6156"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.43964195px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.71568627;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.27898657"
+   x="33.937798"
+   y="159.4055"
    id="text9113"><tspan
      sodipodi:role="line"
      id="tspan9111"
-     x="9.99298"
-     y="192.6156"
-     style="opacity:1;stroke:none;stroke-width:0.33740774;stroke-opacity:1"><tspan
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.33740774;stroke-opacity:1"
+     x="33.937798"
+     y="159.4055"
+     style="opacity:1;stroke:none;stroke-width:0.27898657;stroke-opacity:1"><tspan
+   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.27898657;stroke-opacity:1"
    id="tspan9117">0:00 Heilung - ‘Norupo Extended - Futha      26 Minuten 17 Sekunden</tspan>’</tspan></text>
+
 
 </svg>
