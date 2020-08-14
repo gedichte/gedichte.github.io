@@ -30,16 +30,16 @@
    inkscape:window-height="1018"
    id="namedview913"
    showgrid="false"
-   inkscape:zoom="2.0519126"
-   inkscape:cx="109.30104"
-   inkscape:cy="128.97603"
+   inkscape:zoom="2.8362057"
+   inkscape:cx="159.66638"
+   inkscape:cy="27.535286"
    inkscape:window-x="-8"
    inkscape:window-y="32"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg843" /><metadata
    id="metadata849"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs847" />
     
     
@@ -223,7 +223,7 @@
      id="tspan9095">Bevor wir Menschen lebten und es nannten</tspan><tspan
      sodipodi:role="line"
      x="143.8125"
-     y="68.32309"
+     y="68.323097"
      style="font-size:7.59388542px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.37452823;stroke-opacity:1"
      id="tspan9063">Bevor der erste Samen keimte</tspan><tspan
      sodipodi:role="line"
@@ -253,7 +253,7 @@
      id="tspan9089">Kai Uwe Faust</tspan><tspan
      sodipodi:role="line"
      x="143.8125"
-     y="122.99906"
+     y="122.99907"
      style="font-size:7.59388542px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.37452823;stroke-opacity:1"
      id="tspan9101">Maria Franz</tspan><tspan
      sodipodi:role="line"
@@ -265,12 +265,13 @@
      x="143.8125"
      y="141.2244"
      style="font-size:7.59388542px;text-align:center;text-anchor:middle;fill:#f6d3f5;fill-opacity:1;stroke:none;stroke-width:0.37452823;stroke-opacity:1"
-     id="tspan9737">https://www.youtube.com/watch?v=7PBo83bPyOE</tspan><tspan
+     id="tspan9737" /><tspan
      sodipodi:role="line"
      x="143.8125"
-     y="150.33707"
+     y="150.33705"
      style="font-size:7.59388542px;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.37452823;stroke-opacity:1"
      id="tspan9109" /></text>
+
 
 
 <flowRoot
@@ -286,17 +287,29 @@
        y="151.39148" /></flowRegion><flowPara
      id="flowPara8708" /></flowRoot><text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.43964195px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.71568627;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.27898657"
-   x="33.937798"
-   y="159.4055"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.43964195px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.27898657"
+   x="11.725022"
+   y="154.82191"
    id="text9113"><tspan
      sodipodi:role="line"
      id="tspan9111"
-     x="33.937798"
-     y="159.4055"
-     style="opacity:1;stroke:none;stroke-width:0.27898657;stroke-opacity:1"><tspan
+     x="11.725022"
+     y="154.82191"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.27898657;stroke-opacity:1"><tspan
    style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.27898657;stroke-opacity:1"
    id="tspan9117">0:00 Heilung - ‘Norupo Extended - Futha      26 Minuten 17 Sekunden</tspan>’</tspan></text>
 
 
+
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.43964195px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.53186275;fill:#f6d3f5;fill-opacity:1;stroke:none;stroke-width:0.27898657;"
+   x="62.378624"
+   y="135.83948"
+   id="text9113-2"><tspan
+     sodipodi:role="line"
+     id="tspan9111-6"
+     x="62.378624"
+     y="135.83948"
+     style="opacity:1;fill:#f6d3f5;fill-opacity:1;stroke:none;stroke-width:0.27898657;stroke-opacity:1;">https://www.youtube.com/watch?v=7PBo83bPyOE</tspan></text>
 </svg>
