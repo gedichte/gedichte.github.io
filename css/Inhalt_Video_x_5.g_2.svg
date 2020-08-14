@@ -32,7 +32,7 @@
    id="namedview913"
    showgrid="false"
    inkscape:zoom="2.0519126"
-   inkscape:cx="71.963106"
+   inkscape:cx="-40.614788"
    inkscape:cy="73.489793"
    inkscape:window-x="-8"
    inkscape:window-y="32"
@@ -64,7 +64,7 @@
    height="183.49678"
    width="318.84018"
    id="rect872"
-   style="opacity:0.549;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52945191;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.74109257, 0.52935182999999997;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+   style="opacity:0.248;fill:#4b2465;fill-opacity:1;stroke:none;stroke-width:0.52945191;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.74109257, 0.52935182999999997;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
 
 
 
@@ -249,6 +249,7 @@
      style="font-size:8px;fill:#ffffff;fill-opacity:1;stroke-width:0.36976665">Album  Anastasis</tspan></text>
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.97994328px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f7bb41;fill-opacity:1;stroke:none;stroke-width:1.1212393;opacity:0.62990196;"
@@ -260,6 +261,7 @@
      x="171.70372"
      y="155.85358"
      style="font-size:10.46490002px;fill:#f7b125;fill-opacity:1;stroke-width:1.1212393;">www.deadcandance.com</tspan></text>
+
 
 
 </svg>
