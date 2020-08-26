@@ -824,13 +824,12 @@
 												pledo3i {font-weight:300;font-size:12px;color:#363402;margin-top:-1.5em;margin-right:-.25em;float:right;}
 												pledo5i {font-weight:300;font-size:12px;color:#424384;margin-top:-1.875em;margin-right:-.25em;float:right;}
 												pledo2i {font-weight:300;font-size:12px;color:#424384;margin-top:-1.5em;margin-right:-.25em;float:right;}
-												pledo4i {font-weight:300;font-size:12px;color:#500000;margin-top:-1.875em;margin-right:-.25em;float:right;}
-												pledo1i {font-weight:300;font-size:12px;color:#500000;margin-top:-1.5em;margin-right:-.25em;float:right;}
+												pledo4i {font-weight:300;font-size:12px;color:#ffe0af;margin-top:-1.875em;margin-right:-.25em;float:right;}
+												pledo1i {font-weight:300;font-size:12px;color:#ffe0af;margin-top:-1.5em;margin-right:-.25em;float:right;}
 												txtf{font-weight:300;font-size:12px;color:#ffffff;}
 												txtf2{font-weight:300;font-size:.75em;color:#ffffff;} 
 												
 /* Slider & Farben Roter Hintergrund */
-												
 												.slider1 { background-color: #741e01; bottom: 0; cursor: pointer; left: -5px; position: absolute; right: 0; top: 0; transition: .6s;transition-timing-function: cubic-bezier(.4, .4, .4, 1); display: inline-block; }
 												.slider1:before { background-color: #3a0101; content: "";  height: 23px; width: 50px; border-radius: 13px;left: 2px;bottom: 2px;  position: absolute; transition: .6s;transition-timing-function: cubic-bezier(1, .4, .4, 1);pointer-events: none;}
 												input:checked +  .slider1  {background-color: #ad4600; transition: 1.6s; transition-timing-function: cubic-bezier(.4, .4, .4, 1);}
@@ -843,9 +842,6 @@
 												input:checked +  .slider1o:before  {height: 23px; width: 50px; border-radius: 11px;left: 2px;bottom: 2px; background-color: #741e01;  transition: .6s; transition-timing-function: cubic-bezier(1, .4, .4, 1);}
 												.slider1o.round { border-radius: 13px;}
 												.slider1o.round:before { border-radius: 13px;}
-												
-												
-												
 /* Slider & Farben Grüner Hintergrund */
 												.slider2 { background-color: #56560f; bottom: 0; cursor: pointer; left: -5px; position: absolute; right: 0; top: 0; transition: .6s;transition-timing-function: cubic-bezier(.4, .4, .4, 1); display: inline-block; }
 												.slider2:before { background-color: #2d2c02; content: "";  height: 23px; width: 50px; border-radius: 13px;left: 2px;bottom: 2px;  position: absolute; transition: .6s; transition-timing-function: cubic-bezier(1, .4, .4, 1);}
