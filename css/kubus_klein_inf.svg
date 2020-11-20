@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="115"
+   height="133"
+   viewBox="0 0 30.427083 35.189584"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="kubus_klein_inf.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       osb:paint="gradient"
+       id="linearGradient6047">
+      <stop
+         id="stop6043"
+         offset="0"
+         style="stop-color:#ff0000;stop-opacity:1;" />
+      <stop
+         id="stop6045"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="gradient"
+       id="linearGradient5999">
+      <stop
+         id="stop5995"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop5997"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.2549193"
+     inkscape:cx="44.6919"
+     inkscape:cy="48.888331"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1.6042239,-264.06561)">
+    <circle
+       r="0.16612992"
+       cy="278.23721"
+       cx="14.799346"
+       id="path5942-6-0"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#f6b1cb;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="289.56894"
+       cx="2.7375631"
+       id="path5942-2-3-0"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#df00ff;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="286.62134"
+       cx="5.2461333"
+       id="path5942-9-6-9"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#00fff4;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="289.50635"
+       cx="18.673494"
+       id="path5942-03-10-0"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#1ac786;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="291.98227"
+       cx="14.27633"
+       id="path5942-03-6-8-8"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#e7e409;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="284.26669"
+       cx="3.7628176"
+       id="path5942-03-0-10-5"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ea;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="279.99911"
+       cx="12.100147"
+       id="path5942-03-62-1-8"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#eef113;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="279.57516"
+       cx="7.9456129"
+       id="path5942-03-1-1-0"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#25db52;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="293.79105"
+       cx="8.7086897"
+       id="path5942-03-63-0-3"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#f5610d;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="284.69064"
+       cx="17.837358"
+       id="path5942-03-2-4-8"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00bc;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="282.51443"
+       cx="6.5890303"
+       id="path5942-03-4-24-0"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ff8200;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="283.49603"
+       cx="10.102276"
+       id="path5942-03-4-1-7-6"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ff9c0f;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="288.39566"
+       cx="14.838876"
+       id="path5942-03-4-8-8-3"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#1060ff;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="290.88275"
+       cx="6.3884964"
+       id="path5942-03-4-3-8-2"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#fffc12;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="289.72397"
+       cx="11.277846"
+       id="path5942-03-4-4-1-0"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#00e6ff;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="278.24957"
+       cx="2.8839915"
+       id="path5942-03-4-85-9-5"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#fff900;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="293.96326"
+       cx="11.814824"
+       id="path5942-03-4-6-2-4"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#bd00e8;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="277.92126"
+       cx="19.899624"
+       id="path5942-03-4-48-0-8"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ff0029;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="294.16113"
+       cx="3.6188071"
+       id="path5942-03-4-0-3-1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ff9d00;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="278.16476"
+       cx="10.175622"
+       id="path5942-03-4-5-0-7"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#00f0ff;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="297.03009"
+       cx="14.030792"
+       id="path5942-03-0-1-36-7"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#0556f8;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="283.12558"
+       cx="19.757505"
+       id="path5942-03-0-1-6-2-2"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#33dfbc;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="287.05591"
+       cx="0.72516823"
+       id="path5942-03-0-1-8-6-7"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ff007a;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="282.5228"
+       cx="0.80911523"
+       id="path5942-03-0-1-2-1-7"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#00ed5d;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="291.28119"
+       cx="0.66920555"
+       id="path5942-03-0-1-1-2-2"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#00ff64;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="291.58774"
+       cx="20.063383"
+       id="path5942-03-0-1-3-1-9"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00d6;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="296.45792"
+       cx="10.938643"
+       id="path5942-03-0-1-39-2-7"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#e200de;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="295.84229"
+       cx="6.7413244"
+       id="path5942-03-0-1-10-7-1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#00ff81;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="286.01981"
+       cx="12.75609"
+       id="path5942-03-4-48-0-7-1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ff0029;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="280.12732"
+       cx="4.9477181"
+       id="path5942-03-4-48-0-7-5-7"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ff0029;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="287.83539"
+       cx="8.9419155"
+       id="path5942-03-10-6-4"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#1ac786;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="280.58279"
+       cx="17.17557"
+       id="path5942-03-10-61-1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#1ac786;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="283.0347"
+       cx="14.796676"
+       id="path5942-03-0-1-1-2-2-5"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#00ff64;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="297.06348"
+       cx="19.441843"
+       id="path5942-03-4-85-9-5-1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#fff900;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="297.20084"
+       cx="0.52929074"
+       id="path5942-03-4-85-9-5-2"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#fff900;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0.16612992"
+       cy="277.59766"
+       cx="0.44726977"
+       id="path5942-03-0-1-36-7-9"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#0556f8;stroke-width:0.12305193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-32.95689"
+       y="295.77835"
+       id="text836"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         id="tspan834"
+         x="-32.95689"
+         y="305.14212"
+         style="stroke-width:0.26458332" /></text>
+    <path
+       sodipodi:nodetypes="ccccccccccccc"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       d="m 9.320462,325.99332 4.596744,-5.7e-4 0.0016,5.35436 5.357183,-0.008 0.0051,4.60852 -5.359394,-8.6e-4 -6.09e-4,5.35767 -4.6027588,-0.003 0.00685,-5.35045 -5.36087,-0.005 0.00208,-4.58901 5.3546085,-0.01 z"
+       id="path826"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-36.375298"
+       y="339.30212"
+       id="text836-9"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         id="tspan834-3"
+         x="-36.375298"
+         y="348.66589"
+         style="stroke-width:0.26458332" /></text>
+    <g
+       id="rhomb-m"
+       transform="matrix(0.28672256,0,0,0.28672256,-11.238851,268.86284)"
+       style="stroke:#879fce;stroke-opacity:1">
+      <g
+         inkscape:groupmode="layer"
+         id="layer3"
+         inkscape:label="rhomb"
+         style="display:inline;stroke:#879fce;stroke-opacity:1"
+         transform="translate(0,160.15625)">
+        <path
+           style="display:inline;fill:#008000;stroke:#879fce;stroke-width:0.64079547;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 49.18854,-76.840246 c 0,0 -0.367933,-0.34467 -0.805942,0.002 -0.276665,0.25361 -6.766943,6.872501 -6.766943,6.872501 0,0 -0.348241,0.31769 0.01217,0.713069 0.497028,0.4903 6.297341,6.31416 6.546164,6.530751 0.424683,0.36188 0.879458,0.25742 1.131235,0.0311 0.296669,-0.257911 6.292393,-6.196931 6.606966,-6.51655 0.202852,-0.18264 0.282669,-0.612 -0.0059,-0.88427 -0.317912,-0.288431 -6.109891,-6.217001 -6.109891,-6.217001 z"
+           id="path826-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccc" />
+      </g>
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="Button.click"
+         dur="6"
+         from="1"
+         to="0"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="Button.click"
+         dur="6"
+         from="0,0"
+         to="250,130"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="rotate"
+         begin="Button.click"
+         dur="6"
+         from="1080,48,90"
+         to="0,100,140"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="skewX"
+         begin="Button.click"
+         dur="6"
+         from="0"
+         to="16"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="Button.click+6"
+         dur="6"
+         from="0"
+         to="1"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".5  0    .5   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="Button.click+6"
+         dur="6"
+         from="150,200"
+         to="0,0"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".5  0    .5   1  "
+         restart="whenNotActive" />
+    </g>
+    <g
+       id="winkel-m"
+       transform="matrix(0.28672256,0,0,0.28672256,-0.1362063,253.98278)"
+       style="stroke:#879fce;stroke-opacity:1">
+      <g
+         inkscape:groupmode="layer"
+         id="layer2"
+         inkscape:label="winkel"
+         style="display:inline;stroke:#879fce;stroke-opacity:1"
+         transform="translate(0,160.15625)">
+        <path
+           style="display:inline;opacity:1;fill:#ff0000;stroke:#879fce;stroke-width:0.56500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 10.453206,-76.65509 c 0,0 -0.156968,-0.17802 -0.388239,7.41e-4 -0.4782745,0.432729 -6.5616503,6.588669 -6.7452161,6.807529 -0.084723,0.10591 -0.1303589,0.27077 0.027935,0.43446 0.432725,0.47828 6.6910061,6.827511 6.8101331,6.949471 0.203316,0.22872 0.378112,0.22172 0.517711,0.087 0.728799,-0.706021 2.567759,-2.58137 2.567759,-2.58137 0,0 0.205285,-0.14305 -0.03374,-0.35934 -0.478275,-0.4555 -4.1962245,-4.144971 -4.1962245,-4.144971 0,0 -0.182323,-0.15457 -0.01582,-0.34961 0.616473,-0.60462 4.0301245,-3.92238 4.0301245,-3.92238 0,0 0.196287,-0.16896 -0.0074,-0.34574 -0.631747,-0.661 -2.020138,-2.05403 -2.020138,-2.05403 z"
+           id="path830-5"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccc" />
+      </g>
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="Button.click"
+         dur="6"
+         from="1"
+         to="0"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="Button.click"
+         dur="6"
+         from="0,0"
+         to="100,120"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="rotate"
+         begin="Button.click"
+         dur="6"
+         from="1080,0,70"
+         to="0,70,160"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="skewX"
+         begin="Button.click"
+         dur="6"
+         from="0"
+         to="-20"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="Button.click+6"
+         dur="6"
+         from="0"
+         to="1"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".5  0    .5   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="Button.click+6"
+         dur="6"
+         from="130,160"
+         to="0,0"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".5  0    .5   1  "
+         restart="whenNotActive" />
+    </g>
+    <g
+       id="dreieck-m"
+       transform="matrix(0.28672256,0,0,0.28672256,-20.643698,253.87213)"
+       style="stroke:#879fce;stroke-opacity:1">
+      <g
+         inkscape:groupmode="layer"
+         id="layer4"
+         inkscape:label="dreieck"
+         style="display:inline;stroke:#879fce;stroke-opacity:1"
+         transform="translate(0,160.15625)">
+        <path
+           style="display:inline;fill:#ffff00;stroke:#879fce;stroke-width:0.66200686;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 134.48833,-75.476017 c -0.1646,-0.25335 -0.50853,-0.27954 -0.69458,0.002 -0.26797,0.44721 -6.91973,10.874891 -7.26332,11.40349 -0.14537,0.19823 -0.0949,0.54599 0.32588,0.53307 1.17176,-0.0294 14.05845,0.0172 14.48133,0.0172 0.25109,0 0.39608,-0.10581 0.19062,-0.48418 -0.95782,-1.768579 -6.71583,-10.98072 -7.03993,-11.47156 z"
+           id="path832-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccc" />
+      </g>
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="Button.click"
+         dur="6"
+         from="1"
+         to="0"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="Button.click"
+         dur="6"
+         from="0,0"
+         to="-180,70"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="rotate"
+         begin="Button.click"
+         dur="6"
+         from="720,140,100"
+         to="0,130,50"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="skewX"
+         begin="Button.click"
+         dur="6"
+         from="0"
+         to="40"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="Button.click+6"
+         dur="6"
+         from="0"
+         to="1"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".5  0    .5   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="Button.click+6"
+         dur="6"
+         from="200,210"
+         to="0,0"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".5  0    .5   1  "
+         restart="whenNotActive" />
+    </g>
+    <g
+       id="kreis-m"
+       transform="matrix(0.35030358,0,0,0.35030358,-82.076817,256.23893)"
+       style="stroke:#879fce;stroke-opacity:1">
+      <g
+         inkscape:groupmode="layer"
+         id="layer5"
+         inkscape:label="kreis"
+         style="display:inline;opacity:1;stroke:#879fce;stroke-opacity:1"
+         transform="translate(0,160.15625)">
+        <ellipse
+           style="fill:#ff0000;fill-opacity:1;stroke:#879fce;stroke-width:1.40339375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="path10119-1"
+           cx="263.76508"
+           cy="-69.259117"
+           rx="5.8241463"
+           ry="5.6091661" />
+      </g>
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="Button.click"
+         dur="6"
+         from="1"
+         to="0"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="Button.click"
+         dur="6"
+         from="0,0"
+         to="350,140"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="rotate"
+         begin="Button.click"
+         dur="6"
+         from="-360,250,90"
+         to="0,310,80"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="skewX"
+         begin="Button.click"
+         dur="6"
+         from="0"
+         to="-30"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="Button.click+6"
+         dur="6"
+         from="0"
+         to="1"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".5  0    .5   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="Button.click+6"
+         dur="6"
+         from="325,160"
+         to="0,0"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".5  0    .5   1  "
+         restart="whenNotActive" />
+    </g>
+    <g
+       id="stern-m-4"
+       transform="matrix(0.28672256,0,0,0.28672256,-8.9709098,246.04834)"
+       style="fill:#0094ff;fill-opacity:1;stroke:#879fce;stroke-opacity:1">
+      <g
+         inkscape:groupmode="layer"
+         id="layer6-1"
+         inkscape:label="stern"
+         transform="translate(0,160.15625)"
+         style="fill:#0094ff;fill-opacity:1;stroke:#879fce;stroke-opacity:1">
+        <path
+           style="display:inline;fill:#0094ff;fill-opacity:1;stroke:#879fce;stroke-width:0.49655494;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 92.099151,2.0806391 c 0,0 -0.489215,-1.32243003 -0.768247,0 -0.180437,0.52517 -1.714309,5.5957107 -1.714309,5.5957107 l -5.57565,1.73846 c 0,0 -1.721748,0.5190599 -0.10064,0.9413902 2.387451,0.57218 5.604865,1.51057 5.604865,1.51057 l 1.622368,5.85231 c 0,0 0.455703,1.24074 0.955291,-0.0744 0.315755,-0.63459 1.931057,-5.67998 1.931057,-5.67998 l 5.679729,-1.502291 c 0,0 1.645485,-0.36966 -0.21668,-0.8704993 C 98.721765,9.3430398 94.18271,7.8121598 94.18271,7.8121598 Z"
+           id="path1054-3-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccc" />
+      </g>
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="Button.click"
+         dur="6"
+         from="1"
+         to="0"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="Button.click"
+         dur="6"
+         from="0,0"
+         to="270,230"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="rotate"
+         begin="Button.click"
+         dur="6"
+         from="-360,50,190"
+         to="0,190,220"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="skewX"
+         begin="Button.click"
+         dur="6"
+         from="0"
+         to="-30"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".6  0    .4   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         begin="Button.click+6"
+         dur="6"
+         from="0"
+         to="1"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".5 0    .5   1  "
+         restart="whenNotActive" />
+      <animateTransform
+         attributeName="transform"
+         type="translate"
+         begin="Button.click+6"
+         dur="6"
+         from="150,320"
+         to="0,0"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines=".5  0    .5   1  "
+         restart="whenNotActive" />
+    </g>
+    <g
+       id="stern-m-4-9"
+       transform="matrix(0.27502458,0,0,0.27502458,-53.272168,231.45384)"
+       style="opacity:0;fill:#0015ff;fill-opacity:1;stroke:#87a0ce;stroke-width:0.60784316;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.60784314">
+      <g
+         inkscape:groupmode="layer"
+         id="layer6-1-6"
+         inkscape:label="stern"
+         transform="translate(0,160.15625)"
+         style="fill:#0015ff;fill-opacity:1;stroke:#87a0ce;stroke-width:0.60784316;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.60784314">
+        <path
+           style="display:inline;opacity:1;fill:#0015ff;fill-opacity:1;stroke:#87a0ce;stroke-width:0.42233345;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0.60784314"
+           d="m 92.099151,2.0806391 c 0,0 -0.489215,-1.32243003 -0.768247,0 -0.180437,0.52517 -1.714309,5.5957107 -1.714309,5.5957107 l -5.57565,1.73846 c 0,0 -1.721748,0.5190599 -0.10064,0.9413902 2.387451,0.57218 5.604865,1.51057 5.604865,1.51057 l 1.622368,5.85231 c 0,0 0.455703,1.24074 0.955291,-0.0744 0.315755,-0.63459 1.931057,-5.67998 1.931057,-5.67998 l 5.679729,-1.502291 c 0,0 1.645485,-0.36966 -0.21668,-0.8704993 C 98.721765,9.3430398 94.18271,7.8121598 94.18271,7.8121598 Z"
+           id="path1054-3-9-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccc" />
+      </g>
+      <animateTransform
+         attributeName="transform"
+         id="AA"
+         type="rotate"
+         dur="6"
+         from="360,92,170"
+         to="0,92,170"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines="1  1    1   1  "
+         repeatCount="indefinite"
+         style="fill-opacity:1;fill:url(#linearGradient6057)" />
+      <animate
+         attributeType="CSS"
+         attributeName="opacity"
+         from="0"
+         to="1"
+         dur="5s"
+         begin="3s;stern-m-4.end+0s"
+         fill="freeze" />
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         dur="6"
+         from="0"
+         to="1"
+         begin="1.5s"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines="1  .5    .5   1  "
+         repeatCount="0"
+         style="fill-opacity:1;fill:url(#linearGradient6057)" />
+      <animate
+         attributeType="CSS"
+         attributeName="opacity"
+         from="1"
+         to=".75"
+         dur="3s"
+         begin="8.5s"
+         fill="freeze" />
+    </g>
+    <g
+       id="rhomb-m-0"
+       transform="matrix(0.27547208,0,0,0.27547208,-57.853612,253.28761)"
+       style="opacity:0;fill:#009300;fill-opacity:1;stroke:#879fce;stroke-width:0.38418895;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <g
+         inkscape:groupmode="layer"
+         id="layer3-6"
+         inkscape:label="rhomb"
+         style="display:inline;fill:#009300;fill-opacity:1;stroke:#879fce;stroke-width:0.38418895;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(0,160.15625)">
+        <path
+           style="display:inline;fill:#009300;fill-opacity:1;stroke:#879fce;stroke-width:0.38418895;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 49.18854,-76.840246 c 0,0 -0.367933,-0.34467 -0.805942,0.002 -0.276665,0.25361 -6.766943,6.872501 -6.766943,6.872501 0,0 -0.348241,0.31769 0.01217,0.713069 0.497028,0.4903 6.297341,6.31416 6.546164,6.530751 0.424683,0.36188 0.879458,0.25742 1.131235,0.0311 0.296669,-0.257911 6.292393,-6.196931 6.606966,-6.51655 0.202852,-0.18264 0.282669,-0.612 -0.0059,-0.88427 -0.317912,-0.288431 -6.109891,-6.217001 -6.109891,-6.217001 z"
+           id="path826-7-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccc" />
+      </g>
+      <animateTransform
+         attributeName="transform"
+         id="RD1"
+         type="rotate"
+         dur="6s"
+         from="360,49,91"
+         to="0,49,91"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines="1  1    1   1  "
+         repeatCount="indefinite"
+         style="fill-opacity:1;fill:url(#linearGradient6057)" />
+      <animate
+         attributeType="CSS"
+         attributeName="opacity"
+         from="0"
+         to="1"
+         dur="5s"
+         begin="9s;rhomb-m.end+0s"
+         fill="freeze" />
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         dur="6s"
+         from="0"
+         to="1"
+         begin="6s"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines="1  .5    .5   1  "
+         repeatCount="0"
+         style="fill-opacity:1;fill:url(#linearGradient6057)" />
+      <animate
+         attributeType="CSS"
+         attributeName="opacity"
+         from="1"
+         to=".75"
+         dur="3s"
+         begin="13.5s;rhomb-m.end+0s"
+         fill="freeze" />
+    </g>
+    <g
+       id="winkel-m-9"
+       transform="matrix(0.271018,0,0,0.271018,-47.218277,237.02661)"
+       style="opacity:0;fill:#ff0000;fill-opacity:1;stroke:#879fce;stroke-width:0.39050296;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <g
+         inkscape:groupmode="layer"
+         id="layer2-1"
+         inkscape:label="winkel"
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#879fce;stroke-width:0.39050296;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(0,160.15625)">
+        <path
+           style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#879fce;stroke-width:0.39050296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 10.453206,-76.65509 c 0,0 -0.156968,-0.17802 -0.388239,7.41e-4 -0.4782745,0.432729 -6.5616503,6.588669 -6.7452161,6.807529 -0.084723,0.10591 -0.1303589,0.27077 0.027935,0.43446 0.432725,0.47828 6.6910061,6.827511 6.8101331,6.949471 0.203316,0.22872 0.378112,0.22172 0.517711,0.087 0.728799,-0.706021 2.567759,-2.58137 2.567759,-2.58137 0,0 0.205285,-0.14305 -0.03374,-0.35934 -0.478275,-0.4555 -4.1962245,-4.144971 -4.1962245,-4.144971 0,0 -0.182323,-0.15457 -0.01582,-0.34961 0.616473,-0.60462 4.0301245,-3.92238 4.0301245,-3.92238 0,0 0.196287,-0.16896 -0.0074,-0.34574 -0.631747,-0.661 -2.020138,-2.05403 -2.020138,-2.05403 z"
+           id="path830-5-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccc" />
+      </g>
+      <animateTransform
+         attributeName="transform"
+         id="WD1"
+         type="rotate"
+         dur="6"
+         from="0,10,91"
+         to="360,10,91"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines="1  1    1   1  "
+         repeatCount="indefinite"
+         style="fill-opacity:1;fill:url(#linearGradient6057)" />
+      <animate
+         attributeType="CSS"
+         attributeName="opacity"
+         from="0"
+         to="1"
+         dur="2s"
+         begin="12s;winkel-m.end+0s"
+         fill="freeze" />
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         dur="7"
+         from="0"
+         to="1"
+         begin="10s"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines="1  .5    .5   1  "
+         repeatCount="0"
+         style="fill-opacity:1;fill:url(#linearGradient6057)" />
+      <animate
+         attributeType="CSS"
+         attributeName="opacity"
+         from="1"
+         to=".75"
+         dur="3s"
+         begin="13s;winkel-m.end+0s"
+         fill="freeze" />
+    </g>
+    <g
+       id="dreieck-m-5"
+       transform="matrix(0.24480079,0,0,0.24480079,-60.562251,239.16686)"
+       style="opacity:0;fill:#fff900;fill-opacity:1;stroke:#879fce;stroke-width:0.43232432;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <g
+         inkscape:groupmode="layer"
+         id="layer4-1"
+         inkscape:label="dreieck"
+         style="display:inline;fill:#fff900;fill-opacity:1;stroke:#879fce;stroke-width:0.43232432;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(0,160.15625)">
+        <path
+           style="display:inline;fill:#fff900;fill-opacity:1;stroke:#879fce;stroke-width:0.43232432;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 134.48833,-75.476017 c -0.1646,-0.25335 -0.50853,-0.27954 -0.69458,0.002 -0.26797,0.44721 -6.91973,10.874891 -7.26332,11.40349 -0.14537,0.19823 -0.0949,0.54599 0.32588,0.53307 1.17176,-0.0294 14.05845,0.0172 14.48133,0.0172 0.25109,0 0.39608,-0.10581 0.19062,-0.48418 -0.95782,-1.768579 -6.71583,-10.98072 -7.03993,-11.47156 z"
+           id="path832-9-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccc" />
+      </g>
+      <animateTransform
+         attributeName="transform"
+         id="DD1"
+         type="rotate"
+         dur="6"
+         from="360,134,93"
+         to="0,134,93"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines="1  1    1   1  "
+         repeatCount="indefinite"
+         style="fill-opacity:1;fill:url(#linearGradient6057)" />
+      <animate
+         attributeType="CSS"
+         attributeName="opacity"
+         from="0"
+         to="1"
+         dur="5s"
+         begin="6.5s"
+         fill="freeze" />
+      <animateTransform
+         attributeName="transform"
+         type="scale"
+         dur="4s"
+         from=".25"
+         to="1"
+         begin="5s"
+         additive="sum"
+         calcMode="spline"
+         keyTimes="0;1"
+         keySplines="1  .5   .5   1  "
+         repeatCount="0"
+         style="fill-opacity:1;fill:url(#linearGradient6057)" />
+      <animate
+         attributeType="CSS"
+         attributeName="opacity"
+         from="1"
+         to=".75"
+         dur="3s"
+         begin="10.5s"
+         fill="freeze" />
+    </g>
+    <g
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#87a0ce;stroke-width:0.77314621;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.60784314"
+       transform="matrix(0.36876195,0,0,0.36876195,-126.10723,236.45688)"
+       id="kreis-m-4-10">
+      <g
+         transform="translate(0,160.15625)"
+         style="display:inline;opacity:0;fill:#ff0000;fill-opacity:1;stroke:#87a0ce;stroke-width:0.77314621;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.60784314"
+         inkscape:label="kreis"
+         id="layer5-97-2"
+         inkscape:groupmode="layer">
+        <circle
+           r="5.8241463"
+           cy="-69.259117"
+           cx="228.07373"
+           id="ellipse5495"
+           style="fill:#ff0000;fill-opacity:1;stroke:#87a0ce;stroke-width:0.77314621;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.60784314;paint-order:stroke fill markers" />
+        <animateTransform
+           style="fill-opacity:1;fill:url(#linearGradient6057)"
+           repeatCount="indefinite"
+           keySplines="1  1    1   1  "
+           keyTimes="0;1"
+           calcMode="spline"
+           additive="sum"
+           to="0,244,-69.3"
+           from="360,244,-69.3"
+           begin="0s"
+           dur="10s"
+           type="rotate"
+           id="kreis-m-4-10"
+           attributeName="transform" />
+        <animate
+           repeatCount="indefinite"
+           begin="10.5s"
+           dur="6s"
+           to="1"
+           from="1"
+           attributeName="opacity"
+           attributeType="CSS"
+           id="kreis-m-4-10" />
+        <animateTransform
+           attributeName="transform"
+           type="scale"
+           dur="4"
+           from=".5"
+           to="1"
+           begin="8.5s"
+           additive="sum"
+           calcMode="spline"
+           keyTimes="0;1"
+           keySplines="1  .5    .5   1  "
+           repeatCount="1"
+           style="fill-opacity:1;fill:url(#linearGradient6057)"
+           id="kreis-m-4-10" />
+        <animate
+           repeatCount="indefinite"
+           begin="20.45s"
+           dur="3s"
+           to="0"
+           from="1"
+           attributeName="opacity"
+           attributeType="CSS"
+           id="kreis-m-4-10" />
+      </g>
+    </g>
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke-width:0.25520748"
+       id="path4544"
+       sodipodi:type="arc"
+       sodipodi:cx="25.395777"
+       sodipodi:cy="267.25519"
+       sodipodi:rx="3"
+       sodipodi:ry="3"
+       sodipodi:start="0.007150422"
+       sodipodi:end="6.2831155"
+       sodipodi:open="true"
+       d="m 28.3957,267.27664 a 3,3 0 0 1 -3.015959,2.97851 3,3 0 0 1 -2.983945,-3.01058 3,3 0 0 1 3.005186,-2.98938 3,3 0 0 1 2.994795,2.99979" />
+  </g>
+</svg>
