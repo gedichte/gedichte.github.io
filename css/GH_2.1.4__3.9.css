@@ -892,12 +892,12 @@
 
 
 /* Herbstlaub Ani */
-												.confetti-land{  margin-top: -1.25em; opacity: .25; }
-												.confetti {	width: 1em; height: 1em; display: inline-block; position: relative;top: -2em;left: -6em; z-index: 150;  color: hsl(0, 100%, 50%);opacity: .25;}
+												.confetti-land{  margin-top: -1.25em; opacity: .65; }
+												.confetti {	width: 1em; height: 1em; display: inline-block; position: relative;top: -2em;left: -6em; z-index: 150;  color: hsl(0, 100%, 50%);opacity: .65;}
 												.confetti .rotate { animation: driftyRotate 4s infinite both ease-in-out; perspective: 1000;}
-												.confetti:nth-child(4n + 1) { color: hsl(15, 100%, 50%);opacity: .25;}
-												.confetti:nth-child(4n + 2) { color: hsl(35, 100%, 50%);opacity: .25;}
-												.confetti:nth-child(4n + 3) { color: hsl(52, 100%, 50%);opacity: .25;}
+												.confetti:nth-child(4n + 1) { color: hsl(15, 100%, 50%);opacity: .65;}
+												.confetti:nth-child(4n + 2) { color: hsl(35, 100%, 50%);opacity: .65;}
+												.confetti:nth-child(4n + 3) { color: hsl(52, 100%, 50%);opacity: .65;}
 												.confetti .askew { background: currentColor linear-gradient(to right, rgba(0,0,0,0) 18%, rgba(0,0,0,0) 0% 32%, rgba(0,0,0,.2) 72%); transform: skewY(10deg); width: 2.5em; height: 4.2em; animation: drifty 4s infinite alternate both ease-in-out; perspective:1000; clip-path: polygon(50% 0%, 100% 20%, 80% 30%, 100% 45%, 74% 60%, 94% 80%, 82% 100%, 18% 100%, 6% 80%, 26% 60%, 0% 45%, 20% 30%, 0% 20%); clip-path: polygon(56% 0%, 56% 16%, 60% 20%, 85% 40%, 100% 60%, 85% 75%, 70% 90%, 50% 100%, 15% 75%, 0% 60%, 15% 40%, 40% 20%, 44% 16%, 44% 0%)}
 												.confetti:nth-of-type(7n) .askew { animation-delay: -.6s; animation-duration: 2.25s;}
 												.confetti:nth-of-type(7n + 1) .askew { animation-delay: -.879s; animation-duration: 3.5s;}
