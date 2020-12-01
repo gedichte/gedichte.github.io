@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg821"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="inkal_5_2_6.svg">
+  <defs
+     id="defs815">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5039">
+      <stop
+         style="stop-color:#e4e8f3;stop-opacity:1;"
+         offset="0"
+         id="stop5035" />
+      <stop
+         style="stop-color:#e4e8f3;stop-opacity:0;"
+         offset="1"
+         id="stop5037" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5039"
+       id="radialGradient2797"
+       cx="5.5151262"
+       cy="12.048508"
+       fx="5.5151262"
+       fy="12.048508"
+       r="1.8909004"
+       gradientTransform="matrix(1,0,0,0.95000001,3.3090756,3.6278659)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5039"
+       id="radialGradient5041"
+       cx="8.8872318"
+       cy="2.0582507"
+       fx="8.8872318"
+       fy="2.0582507"
+       r="1.8909004"
+       gradientTransform="matrix(1,0,0,0.95000001,0,0.10291252)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.3954716"
+     inkscape:cx="-14.075175"
+     inkscape:cy="32.472522"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata818">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Ebene 5">
+    <ellipse
+       style="opacity:0.48529436;fill:url(#radialGradient2797);fill-opacity:1.0;fill-rule:evenodd;stroke-width:0.26458335"
+       id="path1605"
+       cx="8.8242016"
+       cy="15.073949"
+       rx="1.8909004"
+       ry="1.7963554" />
+    <animateTransform
+       attributeName="transform"
+       type="rotate"
+       begin="0"
+       dur="6"
+       from="0,8.5,8.5"
+       to="360,8.5,8.5"
+       additive="sum"
+       repeatCount="indefinite" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Ebene 6">
+    <ellipse
+       style="opacity:0.48529436;fill:url(#radialGradient5041);fill-opacity:1;fill-rule:evenodd;stroke-width:0.26458335"
+       id="path1605-1"
+       cx="8.8872318"
+       cy="2.0582507"
+       rx="1.8909004"
+       ry="1.7963554" />
+    <animateTransform
+       attributeName="transform"
+       type="rotate"
+       begin="0"
+       dur="6"
+       from="0,8.5,8.5"
+       to="360,8.5,8.5"
+       additive="sum"
+       repeatCount="indefinite" />
+  </g>
+  
+</svg>
