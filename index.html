@@ -1753,8 +1753,12 @@ dieser eigen Funke wo erst als Mensch darfst gelten</p4></h4><picture  id="i181"
                 if (this.y > h)
                     this.dead = true;
 			}
-            ;
+			var azahl=false;
+			var bzahl=false;
+			;
+			;
 			function anim() {
+			if (azahl===true){
 			    window.requestAnimationFrame(anim);
                 webgl.clear();
                 ++tick;
@@ -1763,7 +1767,13 @@ dieser eigen Funke wo erst als Mensch darfst gelten</p4></h4><picture  id="i181"
                 fireworks.map(function(firework) {
                     firework.step();
                 });
+				
                 webgl.draw(gl.LINES);
+				
+			}
+			if(bzahl===true){
+			return;
+			}
 			}
 			var psf4a = document.getElementById('psf4l');
             psf4a.addEventListener('click', funktion_psf4a);
@@ -1789,6 +1799,8 @@ dieser eigen Funke wo erst als Mensch darfst gelten</p4></h4><picture  id="i181"
                 document.getElementById('psf5l').style.display = 'block';
                 document.getElementById('c').style.display = 'block';
                 document.getElementById('kfmf').style.display = 'block';
+				azahl=true;
+				anim();
 			}
             ;function funktion_psf5a() {
 			    document.getElementById('psf5l2').style.display = 'none';
@@ -1796,6 +1808,8 @@ dieser eigen Funke wo erst als Mensch darfst gelten</p4></h4><picture  id="i181"
                 document.getElementById('psf4l').style.display = 'block';
                 document.getElementById('c').style.display = 'none';
                 document.getElementById('kfmf').style.display = 'none';
+				azahl=false;
+				bzahl=true;
             }
             ;function funktion_psf5a2() {
 			    document.getElementById('psf5l2').style.display = 'none';
@@ -1804,8 +1818,6 @@ dieser eigen Funke wo erst als Mensch darfst gelten</p4></h4><picture  id="i181"
                 document.getElementById('c').style.display = 'none';
                 document.getElementById('kfmf').style.display = 'none';
             }
-			;		
-            anim();
 			;
 			;
             window.addEventListener('resize', function() {
