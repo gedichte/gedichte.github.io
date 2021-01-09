@@ -1595,7 +1595,6 @@ dieser eigen Funke wo erst als Mensch darfst gelten</p4></h4><picture  id="i181"
 <!-- Teelicht & kleine Kerze Ani Code's von    Raffy     https://codepen.io/koolout    von mir Mario leicht verändert --><div class="holder" id="holder" ><div class="candle" ><div class="blinking-blow" ></div><div class="glow" ></div><div class="flame" ></div><div class="thread" ></div></div></div>
 <!-- Ohne diesen Link Verweis aktualisiert der Google Crawler die Seite nicht - Dieses index2.html file ist kanononisch referenziert --><a id="__eerm2" href="https://gedichte.github.io/index2.html" ></a>
 <!-- Feuerwerk Ani code von    Matei Copot     https://codepen.io/towc    von mir Mario leicht verändert  --><canvas id="c"></canvas>        <script type="text/javascript">
-		
             var gl = c.getContext('webgl', {
                 preserveDrawingBuffer: true
             })
@@ -1603,22 +1602,22 @@ dieser eigen Funke wo erst als Mensch darfst gelten</p4></h4><picture  id="i181"
               , h = c.height = window.innerHeight
               , webgl = {}
               , opts = {
-                projectileAlpha: 4,
-                projectileLineWidth: 1.3,
+                projectileAlpha: 8,
+                projectileLineWidth: 2,
                 fireworkAngleSpan: .5,
                 baseFireworkVel: 2,
-                addedFireworkVel: 2,
+                addedFireworkVel: 1.5,
                 gravity: .01,
                 lowVelBoundary: -.4,
                 xFriction: .995,
                 baseShardVel: 1.0,
-                addedShardVel: 3,
+                addedShardVel: 4,
                 fireworks: 7,
-                baseShardsParFirework: 200,
-                addedShardsParFirework: 200,
+                baseShardsParFirework: 400,
+                addedShardsParFirework: 3,
                 shardFireworkVelMultiplier: .3,
-                initHueMultiplier: 1 / 180,
-                runHueAdder: .1 / 90
+                initHueMultiplier: 1 / 360,
+                runHueAdder: .1 / 180
             };
             webgl.vertexShaderSource = `uniform int u_mode;uniform vec2 u_res;attribute vec4 a_data;varying vec4 v_color;vec3 h2rgb( float h ){return clamp( abs( mod( h * 6. + vec3( 0, 4, 2 ), 6. ) - 3. ) -1., 0., 1. );}void clear(){gl_Position = vec4( a_data.xy, 0, 1 );	v_color = vec4( 0, 0, 0, a_data.w );}void draw(){gl_Position = vec4( vec2( 1, -1 ) * ( ( a_data.xy / u_res ) * 2. - 1. ), 0, 1 );v_color = vec4( h2rgb( a_data.z ), a_data.w );}void main(){if( u_mode == 0 )draw();else clear();}`;
             webgl.fragmentShaderSource = `precision mediump float;varying vec4 v_color;void main(){gl_FragColor = v_color;}`;
