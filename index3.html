@@ -1808,7 +1808,7 @@ dieser eigen Funke wo erst als Mensch darfst gelten</p4></h4><picture  id="i181"
 			;
             var confettiPlayers = [];
             function makeItConfetti() {
-			if (laub_ein_c===true){
+			if (laub_ein_c){
                 var confetti = document.querySelectorAll('.confetti');
                 if (!confetti[0].animate) {
                     return false;
@@ -1831,11 +1831,11 @@ dieser eigen Funke wo erst als Mensch darfst gelten</p4></h4><picture  id="i181"
                     confettiPlayers.push(player);
                 }
 				}
-				if(laub_aus_c===true){
+				if(laub_aus_c){
 				laub_aus_c=false;
 				return;
 				}
-				if(laub_aus_d===true){
+				if(laub_aus_d){
 				laub_aus_d=false;
 				return;
 				}
@@ -2024,7 +2024,7 @@ dieser eigen Funke wo erst als Mensch darfst gelten</p4></h4><picture  id="i181"
 			;
 			;
 			function anim() {
-			if (azahl===true){
+			if (azahl){
 			    window.requestAnimationFrame(anim);
                 webgl.clear();
                 ++tick;
@@ -2037,7 +2037,7 @@ dieser eigen Funke wo erst als Mensch darfst gelten</p4></h4><picture  id="i181"
                 webgl.draw(gl.LINES);
 				
 			}
-			if(bzahl===true){
+			if(bzahl){
 			return;
 			}
 			}
