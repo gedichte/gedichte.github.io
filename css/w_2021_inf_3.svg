@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.7318182"
-     inkscape:cx="172.07065"
+     inkscape:cx="110.17053"
      inkscape:cy="83"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -102,20 +102,20 @@
          y="348.66589"
          style="stroke-width:0.26458332" /></text>
     <path
-       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke-width:0.25520751"
+       style="fill:#0205ff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.24670058"
        id="path4544-7-1"
        sodipodi:type="arc"
-       sodipodi:cx="51.699421"
-       sodipodi:cy="267.98068"
-       sodipodi:rx="3"
-       sodipodi:ry="3"
+       sodipodi:cx="51.599422"
+       sodipodi:cy="268.08069"
+       sodipodi:rx="2.9000001"
+       sodipodi:ry="2.9000001"
        sodipodi:start="0.007150422"
        sodipodi:end="6.2831155"
        sodipodi:open="true"
-       d="m 54.699344,268.00213 a 3,3 0 0 1 -3.015959,2.97851 3,3 0 0 1 -2.983945,-3.01058 3,3 0 0 1 3.005187,-2.98937 3,3 0 0 1 2.994794,2.99978" />
+       d="m 54.499348,268.10142 a 2.9000001,2.9000001 0 0 1 -2.915427,2.87923 2.9000001,2.9000001 0 0 1 -2.88448,-2.91023 2.9000001,2.9000001 0 0 1 2.905014,-2.88973 2.9000001,2.9000001 0 0 1 2.894968,2.8998" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.71303988px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c9ac82;fill-opacity:1;stroke:none;stroke-width:0.50869501;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.71303988px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c9ac82;fill-opacity:1;stroke:none;stroke-width:0.50869501"
        x="-2.3293724"
        y="298.24554"
        id="text831"><tspan
@@ -123,6 +123,6 @@
          id="tspan829"
          x="-2.3293724"
          y="298.24554"
-         style="font-size:27.1303978px;fill:#c9ac82;fill-opacity:1;stroke-width:0.50869501;">2021</tspan></text>
+         style="font-size:27.1303978px;fill:#c9ac82;fill-opacity:1;stroke-width:0.50869501">2021</tspan></text>
   </g>
 </svg>
