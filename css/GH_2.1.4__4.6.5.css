@@ -375,7 +375,7 @@
 												dasr{margin.0em;font-weight:400;margin-top:.75em;font-size:1.188em;line-height:2.2em;word-spacing:.031em;letter-spacing:.078em;color:#ff0000;}
 /* Hinweis Menue Funktionen. */
 												p12{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:#5f5e68;}
-												p12l{font-weight:300;font-size:.75em;float:right;margin-right:.125em;color:var(--p12l-color); pointer-events: none;}
+												p12l{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:var(--p12l-color); pointer-events: none;}
 												p12w{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:var(--p12w-color); pointer-events: none;}
 												p12g{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:var(--p12g-color); pointer-events: none;}
 												p12r{font-weight:300;font-size:.75em;float:right;margin-right:.5em;color:var(--p12r-color); pointer-events: none;}
@@ -564,10 +564,10 @@
 												.timedelay {   -webkit-animation:   noscr 4s 4 alternate ease-in-out;  }
 												@-webkit-keyframes noscr { 100% { opacity: 1; } 0% { opacity: 0; }}
 												
-												p31nm{font-weight:400;font-size:1em;color:#fa9503;line-height:.0em;word-spacing:.02em;letter-spacing:.178em;opacity:.94; -webkit-animation: noscr 4s 4  alternate ease-in-out; opacity: 0;}
-												p31nmw{font-weight:400;font-size:1em;color:#7b0000;line-height:.0em;word-spacing:.02em;letter-spacing:.178em;opacity:1; -webkit-animation: noscr 4s 4  alternate ease-in-out; opacity: 0;}
-												p31nmg{font-weight:400;font-size:1em;color:#fa9503;line-height:.0em;word-spacing:.02em;letter-spacing:.178em;opacity:.82; -webkit-animation: noscr 4s 4  alternate ease-in-out; opacity: 0;}
-												p31nmr{font-weight:400;font-size:1em;color:#fa9503;line-height:.0em;word-spacing:.02em;letter-spacing:.178em;opacity:.65; -webkit-animation: noscr 4s 4  alternate ease-in-out; opacity: 0;}
+												p31nm{font-weight:300;font-size:1em;color:#fa9503;line-height:.0em;word-spacing:.02em;letter-spacing:.178em;opacity:.94; -webkit-animation: noscr 4s 4  alternate ease-in-out; opacity: 0;}
+												p31nmw{font-weight:300;font-size:1em;color:#7b0000;line-height:.0em;word-spacing:.02em;letter-spacing:.178em;opacity:1; -webkit-animation: noscr 4s 4  alternate ease-in-out; opacity: 0;}
+												p31nmg{font-weight:300;font-size:1em;color:#fa9503;line-height:.0em;word-spacing:.02em;letter-spacing:.178em;opacity:.82; -webkit-animation: noscr 4s 4  alternate ease-in-out; opacity: 0;}
+												p31nmr{font-weight:300;font-size:1em;color:#fa9503;line-height:.0em;word-spacing:.02em;letter-spacing:.178em;opacity:.65; -webkit-animation: noscr 4s 4  alternate ease-in-out; opacity: 0;}
 /* LED Ein oben Blumen_Ani's */			
 												p35{font-weight:300;font-size:8px;color:#00ff00;margin-top:-1.5em;margin-right:-.75em;float:right;margin-left:-.75em; }
 												p35w{font-weight:300;font-size:9px;color:#0205ff;margin-top:-1.5em;margin-right:-.75em;float:right;margin-left:-.75em; }
@@ -819,7 +819,7 @@
 /* Variablen für Slider * file Info oben + FLA  */
 												[data-theme="dark"] {--p12r-color: #f24806; --p20r-color: #a1defb;--p12w-color: #bc1d00;--p20w-color: #0a29b6;--p12g-color: #723737;--p20g-color: #a1defb;--p12l-color: #5a55a0;--p20l-color: #5a55a0;}
 												
-												*, *::before, *::after {-webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit;}
+												*,:before,:after {-webkit-box-sizing: inherit;-moz-box-sizing: inherit;-ms-box-sizing: inherit;-o-box-sizing: inherit;box-sizing: inherit;}
 /* Links nicht markieren */
 												a, a:link, a:visited { text-decoration: none;}
 
