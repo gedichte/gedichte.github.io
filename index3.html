@@ -1873,7 +1873,7 @@ dieser eigen Funke wo erst als Mensch darfst gelten</p4></h4><picture  id="i181"
 					schnee_ein = true;
                     schnee_aus = true;
 					zahl = 2;
-                    hhuu();
+					hhuu();
 					;
                     }
                 }
@@ -1920,10 +1920,10 @@ dieser eigen Funke wo erst als Mensch darfst gelten</p4></h4><picture  id="i181"
                 }
                 ;
                 (function ada() {
-                    var canvas = document.createElement('canvas');
-                    var context = canvas.getContext('2d');
-                    var settleCanvas = document.createElement('canvas');
-                    var settleContext = context && settleCanvas.getContext('2d');
+                    var canvas = Object.assign(document.createElement('canvas'),{id:'canv1'});
+					var context = canvas.getContext('2d');
+					var settleCanvas = Object.assign(document.createElement('canvas'),{id:'canv2'});
+					var settleContext = context && settleCanvas.getContext('2d');
                     var stani = 1;
                     var windowResized;
                     var activeFlakes = [];
@@ -1932,7 +1932,8 @@ dieser eigen Funke wo erst als Mensch darfst gelten</p4></h4><picture  id="i181"
                     var assumedFps = 60;
                     var settlePoint;
                     var snowflakePool = [];
-                    function resizeCanvas() {
+					;
+					function resizeCanvas() {
                         settlePoint = Array(html.clientWidth);
                         settleCanvas.width = canvas.width = html.clientWidth;
                         settleCanvas.height = canvas.height = html.clientHeight;
@@ -1958,12 +1959,16 @@ dieser eigen Funke wo erst als Mensch darfst gelten</p4></h4><picture  id="i181"
                     var flakesToCreate = 0;
 					;
                     function frame() {
-                        if (zahl === 1) {
-                            context.clearRect(0, 0, canvas.width, canvas.height);
+                         if (zahl === 1) {
+						    context.clearRect(0, 0, canvas.width, canvas.height);
                             resizeCanvas();
-                            zahl = 7;
-							schnee_ein = false;
-							schnee_aus = false;
+                            zahl = 7 ;
+                            schnee_ein = false;
+                            schnee_aus = false;
+							;
+							document.getElementById("canv1").remove();
+							document.getElementById("canv2").remove();
+							;
                             return;
                         }
                         ;
@@ -2007,8 +2012,9 @@ dieser eigen Funke wo erst als Mensch darfst gelten</p4></h4><picture  id="i181"
                             context.fill();
                         }
                         requestAnimationFrame(frame);
-                    }
-                    var i = 0;
+				    }
+					;
+					var i = 0;
                     if (context)
                         resizeCanvas();
                     window.addEventListener('resize', function() {
