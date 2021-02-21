@@ -644,7 +644,7 @@
 												.button4:active { background-image: linear-gradient(to top, #4080ff 60%, #004e73 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
 /* Satzzeichen ein / aus*/
 												.button4uuw {background-image: linear-gradient(to top, #ffe0b3 60%, #fff9f1 100%);border: 0;border-color: #99991d;color: #908d8d;text-align: center;text-decoration: none;padding: 11px 20px 11px 20px;width:70px;display: inline-block;font-size: 10px;cursor: pointer;word-spacing:.031em;letter-spacing:.1em;border-radius: 8px;opacity:.5;}
-												.button4uuw:active { background-image: linear-gradient(to top, #ecc790 60%, #fff1dd 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#006202;border: 1;}
+												.button4uuw:active { background-image: linear-gradient(to top, #ecc790 60%, #fff1dd 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#9c0000;border: 1;}
 												
 												.button4uur {background-image: linear-gradient(to top, #4d0000 60%, #670000 100%);border: 0;border-color: #99991d;color: #908d8d;text-align: center;text-decoration: none;padding: 11px 20px 11px 20px;width:70px;display: inline-block;font-size: 10px;cursor: pointer;word-spacing:.031em;letter-spacing:.1em;border-radius: 8px;opacity:.5;}
 												.button4uur:active { background-image: linear-gradient(to top, #9b0000 60%, #f63232 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#ffffff;border: 1;}
@@ -665,7 +665,7 @@
 												.button4uulo:active { background-image: linear-gradient(to top, #5e58a8 60%, #60600e 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#1bea00;border: 1;}
 												
 												.button4uurw {background-image: linear-gradient(to top, #ffe0b3 60%, #fff9f1 100%);border: 0;border-color: #99991d;color: #de6100;text-align: center;text-decoration: none;padding: 10px 2px 10px 2px;width:70px;display: inline-block;font-size: 10px;cursor: pointer;word-spacing:.031em;letter-spacing:.1em;border-radius: 8px;opacity:.5;}
-												.button4uurw:active { background-image: linear-gradient(to top, #ecc790 60%, #fff1dd 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#006202;border: 1;}
+												.button4uurw:active { background-image: linear-gradient(to top, #ecc790 60%, #fff1dd 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;color:#9c0000;border: 1;}
 
 												.button4i {background-image: linear-gradient(to top, #205a00 60%, #8b8d00 100%);border: 1;border-color: #99991d;color: #ffffff;text-align: center;text-decoration: none;padding: 6px .0em;width:4em;display: inline-block;font-size: 12px;cursor: pointer;margin-bottom:.25em;margin-top:.25em;float:right;word-spacing:.031em;letter-spacing:.1em;border-radius: 14px;}
 												.button4i:active { background-image: linear-gradient(to top, #2c7b00 60%, #1c4e00 100%);box-shadow: 0px 0px 2px 2px #89d377;border-color: #535300;}
