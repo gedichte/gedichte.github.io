@@ -275,7 +275,7 @@ Ja, unser Opa<k class="v">,</k> heisst nämlich gar nicht Bär<k class="v">,</k>
 wir ihn nur so rufen<k class="v">,</k> da er ist wie einer schwer<k class="v">,</k><br><j></j>
 meinte Oma Lina, oder weil er sei, gleich etwa hell<k class="v">,</k><br><j></j>
 aber Opa Bär gar schwört, er ist nur<k class="v">,</k> wie einer schnell<k class="v">.</k><br><j></j>
-Er sei sogar viel mehr schnelle, wie der Kater Sebastian<k class="v">,</k><br><j></j>
+Er sei sogar viel mehr schneller, wie der Kater Sebastian<k class="v">,</k><br><j></j>
 dürfte sich aber nicht so beeilen, wegen, seinem Rücken dann<k class="v">.</k><br><j></j>
 Also, ich denke, Bär ist schnell, weil er abends<k class="v">,</k> selten leuchtet hell<k class="v">,</k><br><j></j>
 Lina reicht uns lieb Saft, Bär sie dann immer küsst, spricht danke Kraft<k class="v">.</k><br><div class="Rubs2" ><button class="button button4uuro" onclick="g30.style.display='none';  " ><pnk>&#8896;</pnk></button> <button class="button button4uur" onclick="sufi();" ><kg>.SZ.</kg></button></div></p4></h4></article>
@@ -1600,7 +1600,7 @@ dieser eigen Funke, wo erst als Mensch, darfst gelten<k class="v">.</k><br><div 
 <!-- javascript Info_Bilder Animationen --><script type="text/javascript"> var psf_bl_1 = document.getElementById('psf_bl'); psf_bl_1.addEventListener('click', psf_bl_1_f  ); var psf_bl_2 = document.getElementById('psfo_bl'); psf_bl_2.addEventListener('click', psf_bl_2_f  ); var button115Av = document.getElementById('button115A'); button115Av.addEventListener('click', button115Avf  ); var button116Av = document.getElementById('button116A'); button116Av.addEventListener('click', button116Avf  ); var button115Bv = document.getElementById('button115B'); button115Bv.addEventListener('click', button115Bvf  ); var button116Bv = document.getElementById('button116B'); button116Bv.addEventListener('click', button116Bvf  ); function button115Avf(){ document.getElementById('psfo_bl').style.display='none'; document.getElementById('p29').style.color='#500000'; document.getElementById('Ani_rr1').style.display='none'; document.getElementById('Ani_rr2').style.display='Block'; }; function button116Avf(){ document.getElementById('psfo_bl').style.display='Block'; document.getElementById('psfo_bl').style.display='Block'; document.getElementById('p29').style.color='#00ff00'; document.getElementById('Ani_rr2').style.display='none'; document.getElementById('Ani_rr1').style.display='Block'; }; function button115Bvf(){ document.getElementById('psf_bl').style.display='none'; document.getElementById('p26w').style.color='#500000'; document.getElementById('Ani_rrbo').style.display='none'; document.getElementById('Ani_rrby').style.display='Block'; }; function button116Bvf(){ document.getElementById('psf_bl').style.display='Block'; document.getElementById('p26w').style.color='#00ff00'; document.getElementById('Ani_rrby').style.display='none'; document.getElementById('Ani_rrbo').style.display='Block'; }; function psf_bl_1_f(){ document.getElementById('p26w').style.color='#500000'; document.getElementById('Ani_rrbo').style.display='none'; document.getElementById('Ani_rrby').style.display='Block'; }; function psf_bl_2_f(){ document.getElementById('p29').style.color='#500000'; document.getElementById('Ani_rr1').style.display='none'; document.getElementById('Ani_rr2').style.display='Block'; }</script>
 <!-- javascript Satzzeichen für bessere Sprachausgabe  ein/ausblenden --><script type="text/javascript">
 			;
-			var sz1=false, szb = document.getElementById('sz'), szb2 = document.getElementById('sz2'), szbo = document.getElementById('szo'), szb2o = document.getElementById('sz2o'), x = document.getElementsByClassName("v"), farbe1 = '#7b7777',farbe2 = '#27ad00', bby = document.getElementById('button4uur') ;
+			var sz1=false, smi=true, szb = document.getElementById('sz'), szb2 = document.getElementById('sz2'), szbo = document.getElementById('szo'), szb2o = document.getElementById('sz2o'), x = document.getElementsByClassName("v"), farbe1 = '#7b7777',farbe2 = '#27ad00', bby = document.getElementById('button4uur') ;
 			;
 			szb.addEventListener('click', suf ); szb2.addEventListener('click', suf ); szbo.addEventListener('click', suf ); szb2o.addEventListener('click', suf ); bby.addEventListener('click', sufi );
 			;
@@ -1612,19 +1612,35 @@ dieser eigen Funke, wo erst als Mensch, darfst gelten<k class="v">.</k><br><div 
 							x = document.getElementsByTagName("k"); for (var i=0; i<x.length; i++) { x[i].style.color = 'white' };for (var i=0; i<x.length; i++) { x[i].style.display = 'inline-block' };
 							x = document.getElementsByTagName("kg"); for (var i=0; i<x.length; i++) { x[i].style.color = farbe2 }; for (var i=0; i<x.length; i++) { x[i].innerHTML = '.SZ.' };
 								;
+
 								document.getElementById('sz').style.display='none';  
 								document.getElementById('sz2').style.display='block';
 								document.getElementById('szo').style.display='none';  
 								document.getElementById('sz2o').style.display='block';
 																
 								document.getElementById('kfmf').style.display = 'none';
+								if (smi) {
 								document.getElementById('kfmfk2').style.display='none';
 								document.getElementById('kfmfk1').style.display='block';
 								document.getElementById('kfmfk2u').style.display='none';
 								document.getElementById('kfmfk1u').style.display='block';
-								;
+								sz1=false;
+								smi=true;
+								return;
+								}
+								if (!smi) {
+								document.getElementById('kfmfk1').style.display='none';
+								document.getElementById('kfmfk2').style.display='block';
+								document.getElementById('kfmfk1u').style.display='none';
+								document.getElementById('kfmfk2u').style.display='block';
+								smi=true;
 								sz1=false;
 								return;
+								}
+								;
+								
+								   
+								
 						
 					}
 							;
@@ -1640,12 +1656,26 @@ dieser eigen Funke, wo erst als Mensch, darfst gelten<k class="v">.</k><br><div 
 								document.getElementById('szo').style.display='block';
 															
 								document.getElementById('kfmf').style.display = 'none';
+								if (!smi) {
 								document.getElementById('kfmfk1').style.display='none';
 								document.getElementById('kfmfk2').style.display='block';
 								document.getElementById('kfmfk1u').style.display='none';
 								document.getElementById('kfmfk2u').style.display='block';
 								sz1=true;
-						
+								smi=true;
+								return;
+								}
+								if (smi) {
+								document.getElementById('kfmfk2').style.display='none';
+								document.getElementById('kfmfk1').style.display='block';
+								document.getElementById('kfmfk2u').style.display='none';
+								document.getElementById('kfmfk1u').style.display='block';
+								smi=false;
+								sz1=true;
+								
+								}
+								
+								  
 					};
 				};
 				function sufi() { 
@@ -1660,6 +1690,7 @@ dieser eigen Funke, wo erst als Mensch, darfst gelten<k class="v">.</k><br><div 
 								document.getElementById('sz2o').style.display='block';
 								;
 								sz1=false;
+								  
 								return;
 						
 					}
@@ -1676,7 +1707,7 @@ dieser eigen Funke, wo erst als Mensch, darfst gelten<k class="v">.</k><br><div 
 								document.getElementById('szo').style.display='block';
 								
 								sz1=true;	
-						
+								smi=false;   
 					};
 				};
 </script>
