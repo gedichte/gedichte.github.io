@@ -348,78 +348,7 @@
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccccccccc" />
       </g>
-      <animateTransform
-         attributeName="transform"
-         type="scale"
-         begin="Button.click"
-         dur="6"
-         from="1"
-         to="0"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".6  0    .4   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="translate"
-         begin="Button.click"
-         dur="6"
-         from="0,0"
-         to="250,130"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".6  0    .4   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="rotate"
-         begin="Button.click"
-         dur="6"
-         from="1080,48,90"
-         to="0,100,140"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".6  0    .4   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="skewX"
-         begin="Button.click"
-         dur="6"
-         from="0"
-         to="16"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".6  0    .4   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="scale"
-         begin="Button.click+6"
-         dur="6"
-         from="0"
-         to="1"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".5  0    .5   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="translate"
-         begin="Button.click+6"
-         dur="6"
-         from="150,200"
-         to="0,0"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".5  0    .5   1  "
-         restart="whenNotActive" />
+     
     </g>
     <g
        id="winkel-m"
@@ -438,78 +367,7 @@
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccccccccccccc" />
       </g>
-      <animateTransform
-         attributeName="transform"
-         type="scale"
-         begin="Button.click"
-         dur="6"
-         from="1"
-         to="0"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".6  0    .4   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="translate"
-         begin="Button.click"
-         dur="6"
-         from="0,0"
-         to="100,120"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".6  0    .4   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="rotate"
-         begin="Button.click"
-         dur="6"
-         from="1080,0,70"
-         to="0,70,160"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".6  0    .4   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="skewX"
-         begin="Button.click"
-         dur="6"
-         from="0"
-         to="-20"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".6  0    .4   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="scale"
-         begin="Button.click+6"
-         dur="6"
-         from="0"
-         to="1"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".5  0    .5   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="translate"
-         begin="Button.click+6"
-         dur="6"
-         from="130,160"
-         to="0,0"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".5  0    .5   1  "
-         restart="whenNotActive" />
+    
     </g>
     <g
        id="dreieck-m"
@@ -528,78 +386,7 @@
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccccccc" />
       </g>
-      <animateTransform
-         attributeName="transform"
-         type="scale"
-         begin="Button.click"
-         dur="6"
-         from="1"
-         to="0"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".6  0    .4   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="translate"
-         begin="Button.click"
-         dur="6"
-         from="0,0"
-         to="-180,70"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".6  0    .4   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="rotate"
-         begin="Button.click"
-         dur="6"
-         from="720,140,100"
-         to="0,130,50"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".6  0    .4   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="skewX"
-         begin="Button.click"
-         dur="6"
-         from="0"
-         to="40"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".6  0    .4   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="scale"
-         begin="Button.click+6"
-         dur="6"
-         from="0"
-         to="1"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".5  0    .5   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="translate"
-         begin="Button.click+6"
-         dur="6"
-         from="200,210"
-         to="0,0"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".5  0    .5   1  "
-         restart="whenNotActive" />
+     
     </g>
     <g
        id="kreis-m"
@@ -619,78 +406,7 @@
            rx="5.8241463"
            ry="5.6091661" />
       </g>
-      <animateTransform
-         attributeName="transform"
-         type="scale"
-         begin="Button.click"
-         dur="6"
-         from="1"
-         to="0"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".6  0    .4   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="translate"
-         begin="Button.click"
-         dur="6"
-         from="0,0"
-         to="350,140"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".6  0    .4   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="rotate"
-         begin="Button.click"
-         dur="6"
-         from="-360,250,90"
-         to="0,310,80"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".6  0    .4   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="skewX"
-         begin="Button.click"
-         dur="6"
-         from="0"
-         to="-30"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".6  0    .4   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="scale"
-         begin="Button.click+6"
-         dur="6"
-         from="0"
-         to="1"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".5  0    .5   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="translate"
-         begin="Button.click+6"
-         dur="6"
-         from="325,160"
-         to="0,0"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".5  0    .5   1  "
-         restart="whenNotActive" />
+     
     </g>
     <g
        id="stern-m-4"
@@ -709,78 +425,7 @@
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccccccccccc" />
       </g>
-      <animateTransform
-         attributeName="transform"
-         type="scale"
-         begin="Button.click"
-         dur="6"
-         from="1"
-         to="0"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".6  0    .4   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="translate"
-         begin="Button.click"
-         dur="6"
-         from="0,0"
-         to="270,230"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".6  0    .4   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="rotate"
-         begin="Button.click"
-         dur="6"
-         from="-360,50,190"
-         to="0,190,220"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".6  0    .4   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="skewX"
-         begin="Button.click"
-         dur="6"
-         from="0"
-         to="-30"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".6  0    .4   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="scale"
-         begin="Button.click+6"
-         dur="6"
-         from="0"
-         to="1"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".5 0    .5   1  "
-         restart="whenNotActive" />
-      <animateTransform
-         attributeName="transform"
-         type="translate"
-         begin="Button.click+6"
-         dur="6"
-         from="150,320"
-         to="0,0"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines=".5  0    .5   1  "
-         restart="whenNotActive" />
+     
     </g>
     <g
        id="stern-m-4-9"
@@ -799,40 +444,7 @@
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccccccccccc" />
       </g>
-      <animateTransform
-         attributeName="transform"
-         id="AA"
-         type="rotate"
-         dur="6"
-         from="360,92,170"
-         to="0,92,170"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines="1  1    1   1  "
-         repeatCount="indefinite"
-         style="fill-opacity:1;fill:url(#linearGradient6057)" />
-      <animate
-         attributeType="CSS"
-         attributeName="opacity"
-         from="0"
-         to="1"
-         dur="5s"
-         begin="3s;stern-m-4.end+0s"
-         fill="freeze" />
-      <animateTransform
-         attributeName="transform"
-         type="scale"
-         dur="6"
-         from="0"
-         to="1"
-         begin="1.5s"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines="1  .5    .5   1  "
-         repeatCount="0"
-         style="fill-opacity:1;fill:url(#linearGradient6057)" />
+     
       <animate
          attributeType="CSS"
          attributeName="opacity"
@@ -859,48 +471,7 @@
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccccccccc" />
       </g>
-      <animateTransform
-         attributeName="transform"
-         id="RD1"
-         type="rotate"
-         dur="6s"
-         from="360,49,91"
-         to="0,49,91"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines="1  1    1   1  "
-         repeatCount="indefinite"
-         style="fill-opacity:1;fill:url(#linearGradient6057)" />
-      <animate
-         attributeType="CSS"
-         attributeName="opacity"
-         from="0"
-         to="1"
-         dur="5s"
-         begin="9s;rhomb-m.end+0s"
-         fill="freeze" />
-      <animateTransform
-         attributeName="transform"
-         type="scale"
-         dur="6s"
-         from="0"
-         to="1"
-         begin="6s"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines="1  .5    .5   1  "
-         repeatCount="0"
-         style="fill-opacity:1;fill:url(#linearGradient6057)" />
-      <animate
-         attributeType="CSS"
-         attributeName="opacity"
-         from="1"
-         to=".75"
-         dur="3s"
-         begin="13.5s;rhomb-m.end+0s"
-         fill="freeze" />
+     
     </g>
     <g
        id="winkel-m-9"
@@ -919,48 +490,7 @@
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccccccccccccc" />
       </g>
-      <animateTransform
-         attributeName="transform"
-         id="WD1"
-         type="rotate"
-         dur="6"
-         from="0,10,91"
-         to="360,10,91"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines="1  1    1   1  "
-         repeatCount="indefinite"
-         style="fill-opacity:1;fill:url(#linearGradient6057)" />
-      <animate
-         attributeType="CSS"
-         attributeName="opacity"
-         from="0"
-         to="1"
-         dur="2s"
-         begin="12s;winkel-m.end+0s"
-         fill="freeze" />
-      <animateTransform
-         attributeName="transform"
-         type="scale"
-         dur="7"
-         from="0"
-         to="1"
-         begin="10s"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines="1  .5    .5   1  "
-         repeatCount="0"
-         style="fill-opacity:1;fill:url(#linearGradient6057)" />
-      <animate
-         attributeType="CSS"
-         attributeName="opacity"
-         from="1"
-         to=".75"
-         dur="3s"
-         begin="13s;winkel-m.end+0s"
-         fill="freeze" />
+     
     </g>
     <g
        id="dreieck-m-5"
@@ -979,48 +509,7 @@
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccccccc" />
       </g>
-      <animateTransform
-         attributeName="transform"
-         id="DD1"
-         type="rotate"
-         dur="6"
-         from="360,134,93"
-         to="0,134,93"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines="1  1    1   1  "
-         repeatCount="indefinite"
-         style="fill-opacity:1;fill:url(#linearGradient6057)" />
-      <animate
-         attributeType="CSS"
-         attributeName="opacity"
-         from="0"
-         to="1"
-         dur="5s"
-         begin="6.5s"
-         fill="freeze" />
-      <animateTransform
-         attributeName="transform"
-         type="scale"
-         dur="4s"
-         from=".25"
-         to="1"
-         begin="5s"
-         additive="sum"
-         calcMode="spline"
-         keyTimes="0;1"
-         keySplines="1  .5   .5   1  "
-         repeatCount="0"
-         style="fill-opacity:1;fill:url(#linearGradient6057)" />
-      <animate
-         attributeType="CSS"
-         attributeName="opacity"
-         from="1"
-         to=".75"
-         dur="3s"
-         begin="10.5s"
-         fill="freeze" />
+     
     </g>
     <g
        style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#87a0ce;stroke-width:0.77314621;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.60784314"
@@ -1038,52 +527,7 @@
            cx="228.07373"
            id="ellipse5495"
            style="fill:#ff0000;fill-opacity:1;stroke:#87a0ce;stroke-width:0.77314621;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.60784314;paint-order:stroke fill markers" />
-        <animateTransform
-           style="fill-opacity:1;fill:url(#linearGradient6057)"
-           repeatCount="indefinite"
-           keySplines="1  1    1   1  "
-           keyTimes="0;1"
-           calcMode="spline"
-           additive="sum"
-           to="0,244,-69.3"
-           from="360,244,-69.3"
-           begin="0s"
-           dur="10s"
-           type="rotate"
-           id="kreis-m-4-10"
-           attributeName="transform" />
-        <animate
-           repeatCount="indefinite"
-           begin="10.5s"
-           dur="6s"
-           to="1"
-           from="1"
-           attributeName="opacity"
-           attributeType="CSS"
-           id="kreis-m-4-10" />
-        <animateTransform
-           attributeName="transform"
-           type="scale"
-           dur="4"
-           from=".5"
-           to="1"
-           begin="8.5s"
-           additive="sum"
-           calcMode="spline"
-           keyTimes="0;1"
-           keySplines="1  .5    .5   1  "
-           repeatCount="1"
-           style="fill-opacity:1;fill:url(#linearGradient6057)"
-           id="kreis-m-4-10" />
-        <animate
-           repeatCount="indefinite"
-           begin="20.45s"
-           dur="3s"
-           to="0"
-           from="1"
-           attributeName="opacity"
-           attributeType="CSS"
-           id="kreis-m-4-10" />
+       
       </g>
     </g>
     <path
