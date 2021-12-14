@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="230"
+   height="133"
+   viewBox="0 0 60.854166 35.189573"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="r_2022_inf_3.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.7318182"
+     inkscape:cx="41.612612"
+     inkscape:cy="83"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="84.561869,91.801755"
+       orientation="0,1"
+       id="guide4561"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="74.136433,-12.452604"
+       orientation="0,1"
+       id="guide4563"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="102.80638,-3.4751453"
+       orientation="0,1"
+       id="guide4565"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1.6042239,-264.06572)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-32.95689"
+       y="295.77835"
+       id="text836"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         id="tspan834"
+         x="-32.95689"
+         y="305.14212"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-36.375298"
+       y="339.30212"
+       id="text836-9"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         id="tspan834-3"
+         x="-36.375298"
+         y="348.66589"
+         style="stroke-width:0.26458332" /></text>
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke-width:0.25520751"
+       id="path4544-7-1"
+       sodipodi:type="arc"
+       sodipodi:cx="55.932758"
+       sodipodi:cy="267.5553"
+       sodipodi:rx="3"
+       sodipodi:ry="3"
+       sodipodi:start="0.007150422"
+       sodipodi:end="6.2831155"
+       sodipodi:open="true"
+       d="m 58.932682,267.57675 a 3,3 0 0 1 -3.01596,2.9785 3,3 0 0 1 -2.983945,-3.01057 3,3 0 0 1 3.005187,-2.98938 3,3 0 0 1 2.994794,2.99979" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.71303988px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#723737;fill-opacity:1;stroke:none;stroke-width:0.50869501"
+       x="-2.3293724"
+       y="298.24554"
+       id="text831"><tspan
+         sodipodi:role="line"
+         id="tspan829"
+         x="-2.3293724"
+         y="298.24554"
+         style="font-size:27.1303978px;fill:#723737;fill-opacity:1;stroke-width:0.50869501">2022</tspan></text>
+  </g>
+</svg>
