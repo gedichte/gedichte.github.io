@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg843"
+   xml:space="preserve"
+   enable-background="new 0 0 370.4 370.4"
+   viewBox="0 0 300 170"
+   height="170"
+   width="300"
+   y="0px"
+   x="0px"
+   version="1.1"
+   sodipodi:docname="Inhalt_Video_d_x_3_g.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1018"
+   id="namedview913"
+   showgrid="false"
+   inkscape:zoom="2.8568567"
+   inkscape:cx="119.44944"
+   inkscape:cy="52.628901"
+   inkscape:window-x="-8"
+   inkscape:window-y="32"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg843" /><metadata
+   id="metadata849"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs847" />
+    
+    
+    
+<style
+   id="style870">
+												.letters {animation: spinLeft 120s linear infinite; }
+												.outerFrame { animation: spinRight 90s linear infinite; }
+												.innerFrame { animation: spinRight 90s linear infinite; }
+												@-webkit-keyframes spinLeft {to {stroke-dashoffset: -500;} }
+												@keyframes spinLeft {to {stroke-dashoffset: -500;} }
+												@-webkit-keyframes spinRight {to {stroke-dashoffset: 500;} }
+												@keyframes spinRight {to {stroke-dashoffset: 500;} }
+</style>		
+		
+
+   
+   <rect
+   style="opacity:1;fill:#8365c9;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+   id="rect22363"
+   width="50.067974"
+   height="50.205345"
+   x="238.62117"
+   y="108.21827" /><path
+   style="opacity:0.681;fill:#2a4807;fill-opacity:1;stroke:none;stroke-width:0.52945191;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.74109257, 0.52935183;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+   d="M -3.191318,-5.4067348 V 178.08937 H 315.64851 V -5.4067348 Z M 238.62117,108.21827 h 49.79687 v 49.79883 h -49.79687 z"
+   id="rect872"
+   inkscape:connector-curvature="0" />
+
+
+
+
+
+
+
+<rect
+   style="fill:none;stroke:#d1f6f1;stroke-width:0.86794877;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:3.02362968, 2.15971689;stroke-dashoffset:0;stroke-opacity:1"
+   id="rect1498"
+   width="292.41983"
+   height="162.19893"
+   x="3.8385439"
+   y="4.4127908"
+   class="innerFrame" />
+
+
+<g
+   inkscape:groupmode="layer"
+   id="layer1"
+   inkscape:label="Layer 1"
+   style="display:none"
+   transform="translate(0,-35)" /><g
+   inkscape:groupmode="layer"
+   id="layer2"
+   inkscape:label="Layer 2"
+   transform="translate(0,-35)">
+	 </g>
+      <animateTransform
+   id="layer2"
+   attributeName="transform"
+   type="rotate"
+   begin="rect872.click"
+   dur="6"
+   from="360,0,0"
+   to="180,0,0"
+   additive="sum"
+   calcMode="spline"
+   keyTimes="0;1"
+   keySplines="1  0    0   1  "
+   restart="whenNotActive" />   	 
+ <animateTransform
+   id="layer2"
+   attributeName="transform"
+   type="scale"
+   begin="rect872.click"
+   dur="6"
+   from="1"
+   to="0"
+   additive="sum"
+   calcMode="spline"
+   keyTimes="0;1"
+   keySplines=".2  0    0   1  "
+   restart="whenNotActive" />
+        <animateTransform
+   id="layer2"
+   attributeName="transform"
+   type="translate"
+   begin="rect872.click"
+   dur="6"
+   from="0,0"
+   to="150,-50"
+   additive="sum"
+   calcMode="spline"
+   keyTimes="0;1"
+   keySplines=".35  0    0   1  "
+   restart="whenNotActive" />  
+       <animateTransform
+   id="layer2"
+   attributeName="transform"
+   type="skewX"
+   begin="rect872.click"
+   dur="6"
+   from="0"
+   to="75"
+   additive="sum"
+   calcMode="spline"
+   keyTimes="0;1"
+   keySplines=".2  0    0   1  "
+   restart="whenNotActive" />
+	  <animateTransform
+   id="layer2"
+   attributeName="transform"
+   type="skewX"
+   begin="rect872.click+6"
+   dur="2"
+   from="-45"
+   to="0"
+   additive="sum"
+   calcMode="spline"
+   keyTimes="0;1"
+   keySplines="1  0    0   1  "
+   restart="whenNotActive" />
+       <animateTransform
+   id="layer2"
+   attributeName="transform"
+   type="scale"
+   begin="rect872.click+6"
+   dur="2"
+   from=".2"
+   to="1"
+   additive="sum"
+   calcMode="spline"
+   keyTimes="0;1"
+   keySplines="1  0    0   1  "
+   restart="whenNotActive" /> 
+	<animate
+	id="layer2"
+    begin="rect872.click+6"
+    from="0"
+    to="1"
+    dur="1.25s"
+	attributeName="opacity" />
+	
+	
+	 
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.86044502px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.375;fill:#e1b8fe;fill-opacity:1;stroke:none;stroke-width:0.36976665"
+   x="175.80498"
+   y="98.388771"
+   id="text841-5"><tspan
+     sodipodi:role="line"
+     x="175.80498"
+     y="98.388771"
+     id="tspan853-1"
+     style="font-size:6.66666651px;line-height:0;fill:#ffffff;fill-opacity:1;stroke-width:0.36976665">Musik visualisiert von</tspan></text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<rect
+   style="font-size:20.91031456px;fill:none;fill-opacity:0.42000002;stroke:#ffeb62;stroke-width:0.59314597;stroke-miterlimit:2;stroke-dasharray:2.90884688, 2.07774778;stroke-dashoffset:0;stroke-opacity:1"
+   id="rect1491-1"
+   width="50.506054"
+   height="50.506062"
+   x="238.18309"
+   y="107.91756"
+   class="letters" /><g
+   transform="translate(33.871174,6.71827)"
+   style="fill:#eeee69;fill-opacity:1;opacity:0.714"
+   id="use899-85-6"><image
+   width="49.860001"
+   height="49.860001"
+   preserveAspectRatio="none"
+   style="fill:#eeee69;fill-opacity:1;image-rendering:optimizeQuality"
+   xlink:href="data:image/jpeg;base64,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 "
+   id="image13904"
+   x="204.75"
+   y="101.5" />
+</g><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5895195px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:2.58839536;stroke-miterlimit:2;stroke-dasharray:3.62306895, 2.58790636;stroke-dashoffset:0;stroke-opacity:1"
+   x="252.58398"
+   y="100.13567"
+   id="use1630-4-9"
+   class=""><tspan
+     sodipodi:role="line"
+     x="252.58398"
+     y="100.13567"
+     style="font-size:9.72634602px;line-height:0;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+     id="tspan2186-9-1">S.V.V.82</tspan><tspan
+     sodipodi:role="line"
+     x="252.58398"
+     y="114.7252"
+     style="font-size:9.72634602px;line-height:0;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+     id="tspan2190-9-1" /></text>
+<a
+   transform="matrix(1.2231469,0,0,1.2231469,-192.89597,-163.44578)"
+   xlink:href="https://beatspace-flow.bandcamp.com/album/sundial-aeon-apotheosis-flow-records"
+   xlink:title="Sundial Aeon"
+   xlink:show="new"
+   id="a904-96-4-1-9"><use
+   xlink:href="#use1630-3-9-4-9"
+   id="use899-82-4-7-3"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" /><text
+   class=""
+   id="use1630-3-9-4-9"
+   y="153.4174"
+   x="168.71281"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5895195px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.58839536;stroke-miterlimit:2;stroke-dasharray:3.62306895, 2.58790636;stroke-dashoffset:0;stroke-opacity:1"
+   xml:space="preserve"><tspan
+     id="tspan2186-5-9-8-8"
+     style="font-size:8.72067547px;line-height:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+     y="153.4174"
+     x="168.71281"
+     sodipodi:role="line">Sundial Aeon</tspan><tspan
+     id="tspan2190-6-1-8-5"
+     style="font-size:9.72634602px;line-height:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+     y="168.00693"
+     x="168.71281"
+     sodipodi:role="line" /></text>
+
+
+
+
+</a><a
+   transform="matrix(0.81255137,0,0,0.81255137,-124.44048,1.3589938)"
+   xlink:href="https://beatspace-flow.bandcamp.com/album/sundial-aeon-apotheosis-flow-records"
+   xlink:title="Sundial Aeon - Insight"
+   xlink:show="new"
+   id="a904-96-4-1-81"
+   inkscape:transform-center-x="4.3857418"
+   inkscape:transform-center-y="-25.875876"><use
+   xlink:href="#use1630-3-9-4-1"
+   id="use899-82-4-7-1"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" /><text
+   class=""
+   id="use1630-3-9-4-1"
+   y="153.4174"
+   x="168.71281"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5895195px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.58839536;stroke-miterlimit:2;stroke-dasharray:3.62306895, 2.58790636;stroke-dashoffset:0;stroke-opacity:1"
+   xml:space="preserve"><tspan
+     id="tspan2186-5-9-8-84"
+     style="font-size:9.84553146px;line-height:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+     y="153.4174"
+     x="168.71281"
+     sodipodi:role="line">0:00 Sundial Aeon - Snail's Home       7 Min. 2 Sek</tspan><tspan
+     id="tspan2190-6-1-8-3"
+     style="font-size:9.84553146px;line-height:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+     y="168.00693"
+     x="168.71281"
+     sodipodi:role="line">Album  Apotheosis</tspan></text>
+
+
+</a><a
+   transform="translate(-76.486001,-129.93184)"
+   xlink:href="https://beatspace-flow.bandcamp.com/album/sundial-aeon-apotheosis-flow-records"
+   xlink:title="Sundial Aeon -bandcamp"
+   xlink:show="new"
+   id="a904-2-4-8-7-0"
+   style="opacity:1;fill:#bdb659;fill-opacity:0.87843137"><use
+     xlink:href="#use1630-9-0-5-6-8"
+     id="use899-8-0-9-6-8"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     style="fill:#bdb659;fill-opacity:0.87843137" /><text
+     class=""
+     id="use1630-9-0-5-6-8"
+     y="153.4174"
+     x="168.71281"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5895195px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#bdb659;fill-opacity:0.87843137;stroke:none;stroke-width:2.58839536;stroke-miterlimit:2;stroke-dasharray:3.62306895, 2.58790636;stroke-dashoffset:0;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan2190-5-1-9-0-6"
+       style="font-size:6.66666651px;line-height:0;fill:#bdb659;fill-opacity:0.87843137;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+       y="153.4174"
+       x="168.71281"
+       sodipodi:role="line">bandcamp</tspan></text>
+</a><a
+   transform="translate(35.641733,3.9712971)"
+   xlink:href="https://www.youtube.com/c/SVV82"
+   xlink:title="S.V.V.82 - youtube"
+   xlink:show="new"
+   id="a904-2-4-8-7"
+   style="opacity:1;fill:#bdb659;fill-opacity:0.87843137"><use
+     xlink:href="#use1630-9-0-5-6"
+     id="use899-8-0-9-6"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     style="fill:#bdb659;fill-opacity:0.87843137" /><text
+     class=""
+     id="use1630-9-0-5-6"
+     y="153.4174"
+     x="168.71281"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5895195px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#bdb659;fill-opacity:0.87843137;stroke:none;stroke-width:2.58839536;stroke-miterlimit:2;stroke-dasharray:3.62306895, 2.58790636;stroke-dashoffset:0;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan2190-5-1-9-0"
+       style="font-size:6.66666651px;line-height:0;fill:#bdb659;fill-opacity:0.87843137;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+       y="153.4174"
+       x="168.71281"
+       sodipodi:role="line">youtube</tspan></text>
+</a><a
+   transform="translate(-155.16881,-110.64761)"
+   xlink:href="https://soundcloud.com/sundialaeon"
+   xlink:title="Sundial Aeon - soundcloud"
+   xlink:show="new"
+   id="a904-2-4-8-7-0-7"
+   style="opacity:1;fill:#bdb659;fill-opacity:0.87843137"><use
+     xlink:href="#use1630-9-0-5-6-8-9"
+     id="use899-8-0-9-6-8-5"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     style="fill:#bdb659;fill-opacity:0.87843137" /><text
+     class=""
+     id="use1630-9-0-5-6-8-9"
+     y="153.4174"
+     x="168.71281"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5895195px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#bdb659;fill-opacity:0.87843137;stroke:none;stroke-width:2.58839536;stroke-miterlimit:2;stroke-dasharray:3.62306895, 2.58790636;stroke-dashoffset:0;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan2190-5-1-9-0-6-3"
+       style="font-size:6.66666651px;line-height:0;fill:#bdb659;fill-opacity:0.87843137;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+       y="153.4174"
+       x="168.71281"
+       sodipodi:role="line">soundcloud</tspan></text>
+</a></svg>
