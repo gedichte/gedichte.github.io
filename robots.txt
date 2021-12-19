@@ -1,4 +1,4 @@
-
+Sitemap: https://gedichte.github.io/sitemap.xml
 
 User-agent: Googlebot
 Disallow: 
@@ -39,6 +39,4 @@ Disallow:
 User-agent: *
 Disallow: /
 Crawl-delay: 120
-
-Sitemap: https://gedichte.github.io/sitemap.xml
 
