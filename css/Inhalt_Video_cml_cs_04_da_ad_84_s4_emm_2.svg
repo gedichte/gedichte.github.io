@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg843"
+   xml:space="preserve"
+   enable-background="new 0 0 370.4 370.4"
+   viewBox="0 0 300 210"
+   height="210"
+   width="300"
+   y="0px"
+   x="0px"
+   version="1.1"
+   sodipodi:docname="Inhalt_Video_cml_cs_04_da_ad_84_s4_emm_2.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1018"
+   id="namedview913"
+   showgrid="false"
+   inkscape:zoom="3.5400126"
+   inkscape:cx="137.58741"
+   inkscape:cy="129.72625"
+   inkscape:window-x="-8"
+   inkscape:window-y="32"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg843" /><metadata
+   id="metadata849"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs847" />
+    
+    
+    
+<style
+   id="style870">
+												.letters {animation: spinLeft 120s linear infinite; }
+												.outerFrame { animation: spinRight 90s linear infinite; }
+												.innerFrame { animation: spinRight 90s linear infinite; }
+												@-webkit-keyframes spinLeft {to {stroke-dashoffset: -500;} }
+												@keyframes spinLeft {to {stroke-dashoffset: -500;} }
+												@-webkit-keyframes spinRight {to {stroke-dashoffset: 500;} }
+												@keyframes spinRight {to {stroke-dashoffset: 500;} }
+</style>		
+		
+
+   
+   <rect
+   style="opacity:0.85;fill:#000549;fill-opacity:0.65490196;stroke:none;stroke-width:0.11390422;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+   id="rect8313-47"
+   width="278.90421"
+   height="16.147802"
+   x="8.8329697"
+   y="145.74005" /><rect
+   style="opacity:0.85;fill:#000549;fill-opacity:0.65490196;stroke:none;stroke-width:0.21513048;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+   id="rect8313-4"
+   width="284.28534"
+   height="56.511692"
+   x="8.6225195"
+   y="85.223518" /><rect
+   style="opacity:0.85;fill:#000549;fill-opacity:0.65490196;stroke:none;stroke-width:0.09729106;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+   id="rect8313"
+   width="217.30942"
+   height="15.120154"
+   x="8.8244419"
+   y="65.976303" /><rect
+   y="-15.016158"
+   x="-5.9073315"
+   height="229.12877"
+   width="313.99832"
+   id="rect872"
+   style="opacity:0.65399996;fill:#000549;fill-opacity:1;stroke:none;stroke-width:0.58712322;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.82181713, 0.58701223;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+
+
+
+
+
+
+
+<rect
+   style="fill:none;stroke:#d1f6f1;stroke-width:0.97081709;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:3.3819887, 2.41568542;stroke-dashoffset:0;stroke-opacity:1"
+   id="rect1498"
+   width="292.31696"
+   height="202.99619"
+   x="3.8899786"
+   y="3.5641179"
+   class="innerFrame" />
+
+
+<g
+   inkscape:groupmode="layer"
+   id="layer1"
+   inkscape:label="Layer 1"
+   style="display:none"
+   transform="translate(0,5)" /><g
+   inkscape:groupmode="layer"
+   id="layer2"
+   inkscape:label="Layer 2"
+   transform="translate(0,5)">
+	 </g>
+	 	  <animateTransform
+   id="layer2"
+   attributeName="transform"
+   type="scale"
+   begin="rect872.click"
+   dur="7"
+   from="1"
+   to="0"
+   additive="sum"
+   calcMode="spline"
+   keyTimes="0;1"
+   keySplines=".6  0    0   1  "
+   restart="whenNotActive" />
+   
+   
+         <animateTransform
+   id="layer2"
+   attributeName="transform"
+   type="translate"
+   begin="rect872.click+2"
+   dur="5"
+   from="0,0"
+   to="-1800,-1500"
+   additive="sum"
+   calcMode="spline"
+   keyTimes="0;1"
+   keySplines=".6  0    0   1  "
+   restart="whenNotActive" />
+ 
+   
+        
+       <animateTransform
+   id="layer2"
+   attributeName="transform"
+   type="skewX"
+   begin="rect872.click+2"
+   dur="4"
+   from="0"
+   to="45"
+   additive="sum"
+   calcMode="spline"
+   keyTimes="0;1"
+   keySplines=".6  0    .4   1  "
+   restart="whenNotActive" /> 
+   <animateTransform
+   id="layer2"
+   attributeName="transform"
+   type="skewX"
+   begin="rect872.click+6"
+   dur="6"
+   from="75"
+   to="0"
+   additive="sum"
+   calcMode="spline"
+   keyTimes="0;1"
+   keySplines=".6  0    .4   1  "
+   restart="whenNotActive" />
+          <animateTransform
+   id="layer2"
+   attributeName="transform"
+   type="rotate"
+   begin="rect872.click+6"
+   dur="2"
+   from="360,0,0"
+   to="0,0,0"
+   additive="sum"
+   calcMode="spline"
+   keyTimes="0;1"
+   keySplines="1  0    0   1  "
+   restart="whenNotActive" />   
+       <animateTransform
+   id="layer2"
+   attributeName="transform"
+   type="scale"
+   begin="rect872.click+6"
+   dur="6"
+   from="0"
+   to="1"
+   additive="sum"
+   calcMode="spline"
+   keyTimes="0;1"
+   keySplines=".6  0    .4   1  "
+   restart="whenNotActive" /> 
+	
+        <animateTransform
+   id="layer2"
+   attributeName="transform"
+   type="translate"
+   begin="rect872.click+6"
+   dur="3"
+   from="750,775"
+   to="0,0"
+   additive="sum"
+   calcMode="spline"
+   keyTimes="0;1"
+   keySplines=".5  0    .5   1  "
+   restart="whenNotActive" />  
+	 
+	 
+	 <rect
+   style="font-size:20.91031456px;fill:#437798;fill-opacity:0;stroke:#ffffff;stroke-width:0.64962894;stroke-miterlimit:2;stroke-dasharray:0.73379528, 0.7241395;stroke-dashoffset:0;stroke-opacity:1"
+   id="rect1491"
+   width="29.01379"
+   height="29.013803"
+   x="250.58902"
+   y="42.416885"
+   class="letters" />
+
+
+
+
+
+
+
+<image
+   y="42.416885"
+   x="250.58902"
+   id="image7678"
+   xlink:href="data:image/jpeg;base64,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 f//Z "
+   style="image-rendering:optimizeQuality"
+   preserveAspectRatio="none"
+   height="29.0138"
+   width="29.0138" /><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333349px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+   x="10.774753"
+   y="45.192451"
+   id="text7837"><tspan
+     sodipodi:role="line"
+     x="10.774753"
+     y="45.192451"
+     id="tspan7873"
+     style="font-size:4.66666651px;fill:#ffffff;fill-opacity:1;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none">Hacker-inspiriertes Chillstep- und Future-Garage-Musikradio für Cyber-Produktivität, maximales Hacken, </tspan><tspan
+     sodipodi:role="line"
+     x="10.774753"
+     y="51.859119"
+     id="tspan8064"
+     style="font-size:4.66666651px;fill:#ffffff;fill-opacity:1;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none">Codieren, Programmieren und Lernen. Setzen Sie Ihre Guy Fawkes Maske auf und steigern Sie Ihre </tspan><tspan
+     sodipodi:role="line"
+     x="10.774753"
+     y="58.525784"
+     id="tspan8100"
+     style="font-size:4.66666651px;fill:#ffffff;fill-opacity:1;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none">Programmierleistung mit  dynamischen und futuristischen Chillstep Beats!</tspan><tspan
+     sodipodi:role="line"
+     x="10.774753"
+     y="65.192451"
+     id="tspan8066"
+     style="font-size:4.66666651px;fill:#ffffff;fill-opacity:1;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none" /><tspan
+     sodipodi:role="line"
+     x="10.774753"
+     y="71.859116"
+     id="tspan8068"
+     style="font-size:4.66666651px;fill:#ffffff;fill-opacity:1;stroke:#d1eaf6;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
+   style="fill:#eee80a;fill-opacity:1"
+   id="tspan21704">Spaß beiseite: Online-Anonymität ist wirklich wichtig.</tspan> </tspan><tspan
+     sodipodi:role="line"
+     x="10.774753"
+     y="78.525787"
+     id="tspan8070"
+     style="font-size:4.66666651px;fill:#ffffff;fill-opacity:1;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none">Und zwar nicht nur für diejenigen, die nichts Gutes im Schilde führen. Sie ist für jeden von uns wichtig. </tspan><tspan
+     sodipodi:role="line"
+     x="10.774753"
+     y="85.192451"
+     id="tspan8072"
+     style="font-size:4.66666651px;fill:#ffffff;fill-opacity:1;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none" /><tspan
+     sodipodi:role="line"
+     x="10.774753"
+     y="91.859123"
+     id="tspan8076"
+     style="font-size:4.66666651px;fill:#ffffff;fill-opacity:1;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none">1. Schutz der Identität. Manchmal möchte man einfach nicht, dass jemand weiß, wer man wirklich ist. Selbst wenn Sie</tspan><tspan
+     sodipodi:role="line"
+     x="10.774753"
+     y="98.525787"
+     style="font-size:4.66666651px;fill:#ffffff;fill-opacity:1;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+     id="tspan8126"> nicht in illegale oder fragwürdige Aktivitäten verwickelt sind. Die Anonymität bietet ein gewisses Maß an sozialer Sicherheit. </tspan><tspan
+     sodipodi:role="line"
+     x="10.774753"
+     y="105.19245"
+     id="tspan8080"
+     style="font-size:4.66666651px;fill:#ffffff;fill-opacity:1;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none">2. Persönlicher Druck. Online-Druck kann sich auf vielerlei Weise äußern: wenn jemand Ihre persönlichen Informationen, intime</tspan><tspan
+     sodipodi:role="line"
+     x="10.774753"
+     y="111.85912"
+     id="tspan8082"
+     style="font-size:4.66666651px;fill:#ffffff;fill-opacity:1;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none">Fotos oder Videos von Ihnen ohne Ihr Wissen im Internet veröffentlicht. Im besten Fall ist das ein Verstoß gegen die Privatsphäre. </tspan><tspan
+     sodipodi:role="line"
+     x="10.774753"
+     y="118.52579"
+     id="tspan8084"
+     style="font-size:4.66666651px;fill:#ffffff;fill-opacity:1;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none">Im schlimmsten Fall kann es Ihren Ruf, Ihre Zukunft und sogar Ihre geistige Gesundheit zerstören.</tspan><tspan
+     sodipodi:role="line"
+     x="10.774753"
+     y="125.19245"
+     id="tspan8088"
+     style="font-size:4.66666651px;fill:#ffffff;fill-opacity:1;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none">3. Sensible Themen. Es gibt noch eine andere große Kategorie von Menschen, die von der Anonymität profitieren: diejenigen, die mehr</tspan><tspan
+     sodipodi:role="line"
+     x="10.774753"
+     y="131.85912"
+     id="tspan8092"
+     style="font-size:4.66666651px;fill:#ffffff;fill-opacity:1;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none">Informationen zu einem bestimmten Thema benötigen, aber nicht bei der Suche nach diesen Informationen erwischt werden wollen. </tspan><tspan
+     sodipodi:role="line"
+     x="10.774753"
+     y="138.52579"
+     style="font-size:4.66666651px;fill:#ffffff;fill-opacity:1;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+     id="tspan8174">Die meisten Menschen fallen in diese Gruppe, ohne sich dessen bewusst zu sein.</tspan><tspan
+     sodipodi:role="line"
+     x="10.774753"
+     y="145.19246"
+     id="tspan8094"
+     style="font-size:4.66666651px;fill:#ffffff;fill-opacity:1;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none" /><tspan
+     sodipodi:role="line"
+     x="10.774753"
+     y="151.85912"
+     style="font-size:4.66666651px;fill:#ffffff;fill-opacity:1;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+     id="tspan8158">Ganz gleich, ob wir uns vor Cyberkriminellen schützen oder uns mit einem heiklen persönlichen Problem befassen wollen, wir alle </tspan><tspan
+     sodipodi:role="line"
+     x="10.774753"
+     y="158.52579"
+     style="font-size:4.66666651px;fill:#ffffff;fill-opacity:1;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+     id="tspan8178">profitieren davon, dass wir online anonym bleiben können.</tspan></text>
+
+<flowRoot
+   xml:space="preserve"
+   id="flowRoot8128"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333349px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+   transform="translate(0,40)"><flowRegion
+     id="flowRegion8130"><rect
+       id="rect8132"
+       width="158.02971"
+       height="18.40687"
+       x="26.487934"
+       y="142.16522" /></flowRegion><flowPara
+     id="flowPara8134" /></flowRoot><a
+   transform="translate(-152.5442,-130.05662)"
+   xlink:href="https://www.youtube.com/watch?v=_daTfgc4u3k"
+   xlink:title="Chill Music Lab - youtube"
+   xlink:show="new"
+   id="a904-2-4-8-4-7"
+   style="opacity:1;fill:#f4ce76;fill-opacity:1"><use
+   xlink:href="#use1630-9-0-5-2-0"
+   id="use899-8-0-9-9-1"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%"
+   style="fill:#f4ce76;fill-opacity:1" /><text
+   class=""
+   id="use1630-9-0-5-2-0"
+   y="153.4174"
+   x="168.71281"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5895195px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:2.58839536;stroke-miterlimit:2;stroke-dasharray:3.62306895, 2.58790636;stroke-dashoffset:0;stroke-opacity:1"
+   xml:space="preserve"><tspan
+     id="tspan2190-5-1-9-9-5"
+     style="font-size:8px;line-height:0;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+     y="153.4174"
+     x="168.71281"
+     sodipodi:role="line">youtube</tspan></text>
+
+</a><a
+   transform="translate(-107.92576,-128.63672)"
+   xlink:href="https://www.youtube.com/watch?v=_daTfgc4u3k"
+   xlink:title="Crypto Music for Coding, Programming, Studying — Hacker Time! Chillstep Radio - youtube"
+   xlink:show="new"
+   id="a904-2-4-8-4-7-8"
+   style="opacity:1;fill:#f4ce76;fill-opacity:1"><use
+   xlink:href="#use1630-9-0-5-2-0-0"
+   id="use899-8-0-9-9-1-0"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%"
+   style="fill:#f4ce76;fill-opacity:1" /><text
+   class=""
+   id="use1630-9-0-5-2-0-0"
+   y="153.4174"
+   x="168.71281"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b4a6fd;fill-opacity:1;stroke:none;stroke-width:2.58839536;stroke-miterlimit:2;stroke-dasharray:3.62306895, 2.58790636;stroke-dashoffset:0;stroke-opacity:1"
+   xml:space="preserve"><tspan
+     id="tspan2190-5-1-9-9-5-9"
+     style="font-size:14.66666698px;line-height:0;fill:#b4a6fd;fill-opacity:1;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+     y="153.4174"
+     x="168.71281"
+     sodipodi:role="line">Chillstep live Radio</tspan></text>
+
+</a><a
+   transform="translate(32.266294,-128.37567)"
+   xlink:href="https://www.youtube.com/c/MusicLabChill/featured"
+   xlink:title="Chill Music Lab - youtube"
+   xlink:show="new"
+   id="a904-2-4-8-4-7-9"
+   style="opacity:1;fill:#f4ce76;fill-opacity:1"><use
+   xlink:href="#use1630-9-0-5-2-0-07"
+   id="use899-8-0-9-9-1-5"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%"
+   style="fill:#f4ce76;fill-opacity:1" /><text
+   class=""
+   id="use1630-9-0-5-2-0-07"
+   y="153.4174"
+   x="168.71281"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5895195px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:2.58839536;stroke-miterlimit:2;stroke-dasharray:3.62306895, 2.58790636;stroke-dashoffset:0;stroke-opacity:1"
+   xml:space="preserve"><tspan
+     id="tspan2190-5-1-9-9-5-98"
+     style="font-size:12px;line-height:0;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+     y="153.4174"
+     x="168.71281"
+     sodipodi:role="line">Chill Music Lab</tspan></text>
+
+</a><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333349px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+   x="55.7271"
+   y="33.72361"
+   id="text21661"><tspan
+     sodipodi:role="line"
+     id="tspan21659"
+     x="55.7271"
+     y="33.72361"
+     style="fill:#a3d0fe;fill-opacity:1">Stream Start anno 15. Juli 2021- Planet Erde / Milky Way </tspan></text>
+
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.62286568px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.16799999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.05428743"
+   x="3.8564081"
+   y="450.02087"
+   id="text1171-3-7"
+   transform="scale(2.3344697,0.42836281)"><tspan
+     sodipodi:role="line"
+     id="tspan1169-4-8"
+     x="3.8564081"
+     y="450.02087"
+     style="font-size:16.21714973px;fill:#ffffff;fill-opacity:1;stroke-width:4.05428743">youtube Server</tspan></text>
+<a
+   transform="translate(92.99355,22.257822)"
+   xlink:href="https://www.patreon.com/music_lab"
+   xlink:title="Chill Music Lab - patreon"
+   xlink:show="new"
+   id="a904-2-4-8-4-7-91"
+   style="opacity:1;fill:#f4ce76;fill-opacity:1"><use
+     xlink:href="#use1630-9-0-5-2-0-09"
+     id="use899-8-0-9-9-1-57"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     style="fill:#f4ce76;fill-opacity:1" /><text
+     class=""
+     id="use1630-9-0-5-2-0-09"
+     y="153.4174"
+     x="168.71281"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5895195px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:2.58839536;stroke-miterlimit:2;stroke-dasharray:3.62306895, 2.58790636;stroke-dashoffset:0;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan2190-5-1-9-9-5-6"
+       style="font-size:8px;line-height:0;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+       y="153.4174"
+       x="168.71281"
+       sodipodi:role="line">patreon</tspan></text>
+</a><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333349px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+   x="9.9023209"
+   y="173.53647"
+   id="text1171"><tspan
+     sodipodi:role="line"
+     id="tspan1169"
+     x="9.9023209"
+     y="173.53647"
+     style="font-size:6.66666698px;fill:#ffffff;fill-opacity:1">ähnliche videos</tspan></text>
+<a
+   transform="translate(-159.26391,33.560172)"
+   xlink:href="https://www.youtube.com/playlist?list=PLdE7uo_7KBkcp_XPf2GiTOqUWAdvqM4ap"
+   xlink:title="Energy Music - Chill Music Lab"
+   xlink:show="new"
+   id="a904-2-4-8-4-7-91-3"
+   style="opacity:1;fill:#f4ce76;fill-opacity:1"><use
+     xlink:href="#use1630-9-0-5-2-0-09-5"
+     id="use899-8-0-9-9-1-57-4"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     style="fill:#f4ce76;fill-opacity:1" /><text
+     class=""
+     id="use1630-9-0-5-2-0-09-5"
+     y="153.4174"
+     x="168.71281"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5895195px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:2.58839536;stroke-miterlimit:2;stroke-dasharray:3.62306895, 2.58790636;stroke-dashoffset:0;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan2190-5-1-9-9-5-6-4"
+       style="font-size:6.66666651px;line-height:0;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+       y="153.4174"
+       x="168.71281"
+       sodipodi:role="line">Energy Music</tspan></text>
+</a><a
+   transform="translate(-159.45799,46.501172)"
+   xlink:href="https://www.youtube.com/playlist?list=PLdE7uo_7KBkdbssGgnnIDm3EnE2gmHyEQ"
+   xlink:title="Future Garage - Chill Music Lab"
+   xlink:show="new"
+   id="a904-2-4-8-4-7-91-6"
+   style="opacity:1;fill:#f4ce76;fill-opacity:1"><use
+     xlink:href="#use1630-9-0-5-2-0-09-6"
+     id="use899-8-0-9-9-1-57-3"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     style="fill:#f4ce76;fill-opacity:1" /><text
+     class=""
+     id="use1630-9-0-5-2-0-09-6"
+     y="153.4174"
+     x="168.71281"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5895195px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:2.58839536;stroke-miterlimit:2;stroke-dasharray:3.62306895, 2.58790636;stroke-dashoffset:0;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan2190-5-1-9-9-5-6-3"
+       style="font-size:6.66666651px;line-height:0;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+       y="153.4174"
+       x="168.71281"
+       sodipodi:role="line">Future Garage</tspan></text>
+</a><a
+   transform="translate(-109.13377,33.545792)"
+   xlink:href="https://www.youtube.com/playlist?list=PLdE7uo_7KBkffJbMAxlW17QgaBdhAfuY4"
+   xlink:title="Music Genres - Chill Music Lab"
+   xlink:show="new"
+   id="a904-2-4-8-4-7-91-65"
+   style="opacity:1;fill:#f4ce76;fill-opacity:1"><use
+     xlink:href="#use1630-9-0-5-2-0-09-0"
+     id="use899-8-0-9-9-1-57-6"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     style="fill:#f4ce76;fill-opacity:1" /><text
+     class=""
+     id="use1630-9-0-5-2-0-09-0"
+     y="153.4174"
+     x="168.71281"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5895195px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:2.58839536;stroke-miterlimit:2;stroke-dasharray:3.62306895, 2.58790636;stroke-dashoffset:0;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan2190-5-1-9-9-5-6-39"
+       style="font-size:6.66666651px;line-height:0;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+       y="153.4174"
+       x="168.71281"
+       sodipodi:role="line">Music Genres</tspan></text>
+</a><a
+   transform="translate(-106.77739,46.490042)"
+   xlink:href="https://www.youtube.com/playlist?list=PLdE7uo_7KBkemG2q7FaIGsQCcCHieasOE"
+   xlink:title="All Music VIdeos - Chill Music Lab"
+   xlink:show="new"
+   id="a904-2-4-8-4-7-91-63"
+   style="opacity:1;fill:#f4ce76;fill-opacity:1"><use
+     xlink:href="#use1630-9-0-5-2-0-09-9"
+     id="use899-8-0-9-9-1-57-9"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     style="fill:#f4ce76;fill-opacity:1" /><text
+     class=""
+     id="use1630-9-0-5-2-0-09-9"
+     y="153.4174"
+     x="168.71281"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5895195px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:2.58839536;stroke-miterlimit:2;stroke-dasharray:3.62306895, 2.58790636;stroke-dashoffset:0;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan2190-5-1-9-9-5-6-9"
+       style="font-size:6.66666651px;line-height:0;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+       y="153.4174"
+       x="168.71281"
+       sodipodi:role="line">All Music VIdeos</tspan></text>
+</a><a
+   transform="translate(-57.17252,33.549042)"
+   xlink:href="https://www.youtube.com/playlist?list=PLdE7uo_7KBkc6L7Bgqzz_Q7q2JN2AqHV3"
+   xlink:title="Work Music - Chill Music Lab"
+   xlink:show="new"
+   id="a904-2-4-8-4-7-91-8"
+   style="opacity:1;fill:#f4ce76;fill-opacity:1"><use
+     xlink:href="#use1630-9-0-5-2-0-09-4"
+     id="use899-8-0-9-9-1-57-97"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     style="fill:#f4ce76;fill-opacity:1" /><text
+     class=""
+     id="use1630-9-0-5-2-0-09-4"
+     y="153.4174"
+     x="168.71281"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5895195px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:2.58839536;stroke-miterlimit:2;stroke-dasharray:3.62306895, 2.58790636;stroke-dashoffset:0;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan2190-5-1-9-9-5-6-32"
+       style="font-size:6.66666651px;line-height:0;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+       y="153.4174"
+       x="168.71281"
+       sodipodi:role="line">Work Music</tspan></text>
+</a><a
+   transform="translate(-47.88496,46.474792)"
+   xlink:href="https://www.youtube.com/playlist?list=PLdE7uo_7KBkeSTmryNClNxUkioFpq3Btx"
+   xlink:title="Chillout Music - Chill Music Lab"
+   xlink:show="new"
+   id="a904-2-4-8-4-7-91-37"
+   style="opacity:1;fill:#f4ce76;fill-opacity:1"><use
+     xlink:href="#use1630-9-0-5-2-0-09-09"
+     id="use899-8-0-9-9-1-57-7"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     style="fill:#f4ce76;fill-opacity:1" /><text
+     class=""
+     id="use1630-9-0-5-2-0-09-09"
+     y="153.4174"
+     x="168.71281"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5895195px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:2.58839536;stroke-miterlimit:2;stroke-dasharray:3.62306895, 2.58790636;stroke-dashoffset:0;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan2190-5-1-9-9-5-6-8"
+       style="font-size:6.66666651px;line-height:0;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+       y="153.4174"
+       x="168.71281"
+       sodipodi:role="line">Chillout Music</tspan></text>
+</a><a
+   transform="translate(-10.50558,33.519172)"
+   xlink:href="https://www.youtube.com/playlist?list=PLdE7uo_7KBkcx8_AcwRjTPiYSauQTQeNi"
+   xlink:title="Study Music - Chill Music Lab"
+   xlink:show="new"
+   id="a904-2-4-8-4-7-91-5"
+   style="opacity:1;fill:#f4ce76;fill-opacity:1"><use
+     xlink:href="#use1630-9-0-5-2-0-09-2"
+     id="use899-8-0-9-9-1-57-1"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     style="fill:#f4ce76;fill-opacity:1" /><text
+     class=""
+     id="use1630-9-0-5-2-0-09-2"
+     y="153.4174"
+     x="168.71281"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5895195px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:2.58839536;stroke-miterlimit:2;stroke-dasharray:3.62306895, 2.58790636;stroke-dashoffset:0;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan2190-5-1-9-9-5-6-92"
+       style="font-size:6.66666651px;line-height:0;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+       y="153.4174"
+       x="168.71281"
+       sodipodi:role="line">Study Music</tspan></text>
+</a><a
+   transform="translate(4.20336,46.478042)"
+   xlink:href="https://www.youtube.com/playlist?list=PLdE7uo_7KBkfAWkk7-Clm18krBuziKQfr"
+   xlink:title="Hacker Music - Chill Music Lab"
+   xlink:show="new"
+   id="a904-2-4-8-4-7-91-53"
+   style="opacity:1;fill:#f4ce76;fill-opacity:1"><use
+     xlink:href="#use1630-9-0-5-2-0-09-096"
+     id="use899-8-0-9-9-1-57-5"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     style="fill:#f4ce76;fill-opacity:1" /><text
+     class=""
+     id="use1630-9-0-5-2-0-09-096"
+     y="153.4174"
+     x="168.71281"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5895195px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:2.58839536;stroke-miterlimit:2;stroke-dasharray:3.62306895, 2.58790636;stroke-dashoffset:0;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan2190-5-1-9-9-5-6-2"
+       style="font-size:6.66666651px;line-height:0;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+       y="153.4174"
+       x="168.71281"
+       sodipodi:role="line">Hacker Music</tspan></text>
+</a><a
+   transform="translate(53.834502,46.527302)"
+   xlink:href="https://www.youtube.com/playlist?list=PLdE7uo_7KBkeH0adsnxZupMARfGxY6qik"
+   xlink:title="Chillstep Music - Chill Music Lab"
+   xlink:show="new"
+   id="a904-2-4-8-4-7-91-33"
+   style="opacity:1;fill:#f4ce76;fill-opacity:1"><use
+     xlink:href="#use1630-9-0-5-2-0-09-08"
+     id="use899-8-0-9-9-1-57-39"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     style="fill:#f4ce76;fill-opacity:1" /><text
+     class=""
+     id="use1630-9-0-5-2-0-09-08"
+     y="153.4174"
+     x="168.71281"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5895195px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:2.58839536;stroke-miterlimit:2;stroke-dasharray:3.62306895, 2.58790636;stroke-dashoffset:0;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan2190-5-1-9-9-5-6-65"
+       style="font-size:6.66666651px;line-height:0;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+       y="153.4174"
+       x="168.71281"
+       sodipodi:role="line">Chillstep Music</tspan></text>
+</a><a
+   transform="translate(37.119837,33.585042)"
+   xlink:href="https://www.youtube.com/playlist?list=PLdE7uo_7KBketYRDDb8lheUOD4q7U27DR"
+   xlink:title="Ambient Music - Chill Music Lab"
+   xlink:show="new"
+   id="a904-2-4-8-4-7-91-34"
+   style="opacity:1;fill:#f4ce76;fill-opacity:1"><use
+     xlink:href="#use1630-9-0-5-2-0-09-8"
+     id="use899-8-0-9-9-1-57-58"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     style="fill:#f4ce76;fill-opacity:1" /><text
+     class=""
+     id="use1630-9-0-5-2-0-09-8"
+     y="153.4174"
+     x="168.71281"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5895195px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:2.58839536;stroke-miterlimit:2;stroke-dasharray:3.62306895, 2.58790636;stroke-dashoffset:0;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan2190-5-1-9-9-5-6-6"
+       style="font-size:6.66666651px;line-height:0;fill:#eeee69;fill-opacity:1;stroke:none;stroke-width:0.59962577;stroke-opacity:1"
+       y="153.4174"
+       x="168.71281"
+       sodipodi:role="line">Ambient Music</tspan></text>
+</a></svg>
