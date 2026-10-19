@@ -252,13 +252,13 @@ Unicode Decimal Code &#10013;✝
 /* Programme & BS / Titel Videos */
 												h5{margin-bottom:0em;margin-top:4em;}
 /* Alle Gedichte geschrieben von.. */
-												h6{margin-top:-1em;font-weight:500;font-size:.938em;line-height:1.0em;word-spacing:.031em;letter-spacing:.18em;color:#9592ca;}
-												h61{margin-top:-1em;font-weight:500;font-size:.938em;line-height:1.0em;word-spacing:.031em;letter-spacing:.18em;color:#9a9c4f;}
-												h62{margin-top:-1em;font-weight:500;font-size:.938em;line-height:1.0em;word-spacing:.031em;letter-spacing:.18em;color:#9a9c4f;}
-												h63{margin-top:-1em;font-weight:500;font-size:.938em;line-height:1.0em;word-spacing:.031em;letter-spacing:.18em;color:#9a9c4f;}
+/* weisse */						h6{margin-top:-1em;font-weight:500;font-size:.938em;line-height:1.0em;word-spacing:.031em;letter-spacing:.18em;color:#9592ca;}
+/* blau */							h61{margin-top:-1em;font-weight:500;font-size:.938em;line-height:1.0em;word-spacing:.031em;letter-spacing:.18em;color:#9a9c4f;}
+/* Grün */							h62{margin-top:-1em;font-weight:500;font-size:.938em;line-height:1.0em;word-spacing:.031em;letter-spacing:.18em;color:#9a9c4f;}
+/* rot */							h63{margin-top:-1em;font-weight:500;font-size:.938em;line-height:1.0em;word-spacing:.031em;letter-spacing:.18em;color:#9a9c4f;}
 												h6#w{color:#bc1d00;opacity:.78;}
 												h6#g{color:#7d771e;opacity:1;}
-												h6#r{color:#9a9c4f;opacity:.7;}
+/* Grün */										h6#r{color:#9a9c4f;opacity:.7;}
 /* Mail Adr. von Hand eingeben   / */
 												p7{font-weight:300;font-size:.813em;line-height:1.0em;word-spacing:.02em;letter-spacing:.08em;color:#9592ca;opacity:1;}
 												p7#w{color:#bc1d00;opacity:.78;}
